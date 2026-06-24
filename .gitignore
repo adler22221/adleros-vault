@@ -17,3 +17,6 @@
 # OS junk
 .DS_Store
 Thumbs.db
+
+# private/sensitive lane — Obsidian Sync only, NEVER GitHub
+99_private/
