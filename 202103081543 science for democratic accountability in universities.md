@@ -1,3 +1,8 @@
+---
+created: 2021-03-08T15:43
+author: human
+---
+
 [[@fullerGovernanceScienceIdeology1999]]
 
 Artificial negativity represents the type of thinking associated with the

@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T14:43
+author: human
+---
+
 If we say that, as values, commodities are simply congealed
 quantities of human labour, our analysis reduces them, it is true,
 to the level of abstract value, but does not give them a form of

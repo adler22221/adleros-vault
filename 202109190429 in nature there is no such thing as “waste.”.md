@@ -1,3 +1,8 @@
+---
+created: 2021-09-19T04:29
+author: human
+---
+
 Created on: [[20210919]]
 Who's involved: [[Commoner, Barry]]
 About what: [[@commonerClosingCircleNature2020]]

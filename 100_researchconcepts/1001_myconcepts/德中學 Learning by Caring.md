@@ -1,4 +1,6 @@
 ---
+created: 2024-12-07T19:44
+author: human
 aliases: learning by caring
 ---
 

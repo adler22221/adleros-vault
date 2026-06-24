@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T10:48
+author: human
+---
+
 [[Marx, Karl]]
 
 Chapter 1 : The Commodity

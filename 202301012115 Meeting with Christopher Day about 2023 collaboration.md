@@ -1,3 +1,8 @@
+---
+created: 2023-01-01T21:15
+author: human
+---
+
 Created on: [[20230101]]
 Who's involved: [[Day, Christopher]]
 About what: [[complex system]]

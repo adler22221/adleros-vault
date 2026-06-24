@@ -1,3 +1,8 @@
+---
+created: 2021-03-16T18:14
+author: human
+---
+
 Created on: [[20210316]]
 About Who: 
 About What: [[台灣共生文化學院]][[青醒人共生文化智庫]]

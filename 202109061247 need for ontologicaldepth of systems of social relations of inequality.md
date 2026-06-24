@@ -1,3 +1,8 @@
+---
+created: 2021-09-06T12:47
+author: human
+---
+
 Created on: [[20210906]]
 Who's involved: [[Walby, Sylvia]]
 About what: [[@walbyComplexityTheorySystems2007]]

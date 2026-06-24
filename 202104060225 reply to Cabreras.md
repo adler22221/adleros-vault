@@ -1,3 +1,8 @@
+---
+created: 2021-04-06T02:25
+author: human
+---
+
 Created on: [[20210406]]
 About who: [[Cabrera, Derek]][[Cabrera, Laura]]
 About what: [[DSRP]][[青醒人共生文化智庫]]

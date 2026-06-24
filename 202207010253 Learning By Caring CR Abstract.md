@@ -1,3 +1,8 @@
+---
+created: 2022-07-01T02:53
+author: human
+---
+
 Created on: [[20220701]]
 Who's involved: 
 About what: 

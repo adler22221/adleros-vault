@@ -1,3 +1,8 @@
+---
+created: 2021-11-19T16:02
+author: human
+---
+
 Created on: [[20211119]]
 Who's involved: [[梶原はづき]][[Boonmavichit, Nok]]
 About what: [[critical realism]]

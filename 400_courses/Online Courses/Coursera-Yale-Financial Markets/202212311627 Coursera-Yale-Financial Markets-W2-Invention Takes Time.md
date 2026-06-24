@@ -1,3 +1,8 @@
+---
+created: 2022-12-31T16:27
+author: human
+---
+
 Created on: [[20221231]]
 Who's involved: [[Shiller, Robert]]
 About what: [[Coursera-Yale-Financial Markets]], [[investing]], [[finance]]

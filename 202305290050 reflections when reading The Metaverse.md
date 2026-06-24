@@ -1,3 +1,8 @@
+---
+created: 2023-05-29T00:50
+author: human
+---
+
 Created on: [[20230529]]
 Who's involved: 
 About what: [[Allocation Dependence 配分依存]], [[Money Dependence 貨幣依存]], [[Rationality Dependence 理性依存]]

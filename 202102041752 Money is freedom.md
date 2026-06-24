@@ -1,3 +1,8 @@
+---
+created: 2021-02-04T17:52
+author: human
+---
+
 [[Simmel, Georg]]
 [[@simmelPhilosophyMoney2011]]
 

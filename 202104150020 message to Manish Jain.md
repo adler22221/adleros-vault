@@ -1,3 +1,8 @@
+---
+created: 2021-04-15T00:20
+author: human
+---
+
 Created on: [[20210415]]
 Who's involved: [[Jain, Manish]]
 About what: [[ExperimentalHigherEd 實驗高教]][[雜學校]][[青醒人共生文化智庫]]

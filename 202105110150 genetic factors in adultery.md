@@ -1,3 +1,8 @@
+---
+created: 2021-05-11T01:50
+author: human
+---
+
 Created on: [[20210511]]
 Who's involved: [[Fisher, Helen]]
 About what: [[sex]][[marriage]]

@@ -1,3 +1,8 @@
+---
+created: 2021-09-07T17:33
+author: human
+---
+
 Created on: [[20210907]]
 Who's involved: [[Mudge, Stephanie Lee]]
 About what: [[@mudgeWhatNeoliberalism2008]][[Allocation Dependence 配分依存]]

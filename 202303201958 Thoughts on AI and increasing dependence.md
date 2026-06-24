@@ -1,3 +1,8 @@
+---
+created: 2023-03-20T19:58
+author: human
+---
+
 Created on: [[20230320]]
 Who's involved: 
 About what: [[AI]], [[dependence turn]], [[Allocation Dependence 配分依存]], [[中國哲學]], [[儒家]], [[道家]]

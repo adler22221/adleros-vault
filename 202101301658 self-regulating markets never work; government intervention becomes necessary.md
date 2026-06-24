@@ -1,3 +1,8 @@
+---
+created: 2021-01-30T16:58
+author: human
+---
+
 #excerpts 
 Author: [[Polanyi, Karl]]
 [[@polanyiGreatTransformationPolitical1944]]

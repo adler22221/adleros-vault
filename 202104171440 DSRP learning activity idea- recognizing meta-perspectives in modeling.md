@@ -1,3 +1,8 @@
+---
+created: 2021-04-17T14:40
+author: human
+---
+
 Created on: [[20210417]]
 Who's involved: 
 About what: [[systems thinking]][[青醒人共生文化智庫]]

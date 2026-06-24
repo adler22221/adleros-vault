@@ -1,3 +1,8 @@
+---
+created: 2021-05-13T22:49
+author: human
+---
+
 Created on: [[20210513]]
 Who's involved: 
 About what: [[complex system]][[research methods]][[research for impact]]

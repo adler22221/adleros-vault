@@ -1,3 +1,8 @@
+---
+created: 2022-03-01T18:03
+author: human
+---
+
 Created on: [[20220301]]
 Who's involved: [[Wolf, Susan]]
 About what: [[@wolfMeaningLifeWhy2010]]

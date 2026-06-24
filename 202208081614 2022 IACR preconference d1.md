@@ -1,3 +1,8 @@
+---
+created: 2022-08-08T16:14
+author: human
+---
+
 Created on: [[20220808]]
 Who's involved: 
 About what: [[critical realism]]

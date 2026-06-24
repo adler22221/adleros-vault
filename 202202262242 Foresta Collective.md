@@ -1,3 +1,8 @@
+---
+created: 2022-02-26T22:42
+author: human
+---
+
 Created on: [[20220226]]
 Who's involved: 
 About what: [[Ecoversities Alliance]]

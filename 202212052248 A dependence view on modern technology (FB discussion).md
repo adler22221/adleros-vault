@@ -1,3 +1,8 @@
+---
+created: 2022-12-05T22:48
+author: human
+---
+
 Created on: [[20221205]]
 Who's involved: 
 About what: [[degrowth]][[Allocation Dependence 配分依存|allocation dependence]][[Rationality Dependence 理性依存]]

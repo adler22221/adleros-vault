@@ -1,3 +1,8 @@
+---
+created: 2021-03-08T17:32
+author: human
+---
+
 The ungovernability of Big Democracy and Big Science:
 of Rousseau and Feyerabend
 

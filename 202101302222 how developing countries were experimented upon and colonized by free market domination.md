@@ -1,3 +1,8 @@
+---
+created: 2021-01-30T22:22
+author: human
+---
+
 [[Polanyi, Karl]]
 [[@polanyiGreatTransformationPolitical1944]]
 

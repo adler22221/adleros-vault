@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T11:37
+author: human
+---
+
 [[Marx, Karl]]
 
 A use-value, or useful article, therefore, has value only because

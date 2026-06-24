@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T12:51
+author: human
+---
+
 [[Marx, Karl]]
 
 If we leave aside the determinate quality of productive activity,

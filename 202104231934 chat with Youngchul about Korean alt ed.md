@@ -1,3 +1,8 @@
+---
+created: 2021-04-23T19:34
+author: human
+---
+
 Created on: [[20210423]]
 Who's involved: [[Youngchul, Tae]]
 About what: [[ExperimentalHigherEd 實驗高教]]

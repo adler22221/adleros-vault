@@ -1,3 +1,8 @@
+---
+created: 2022-12-12T18:39
+author: human
+---
+
 Created on: [[20221212]]
 Who's involved: [[Slote, Michael]]
 About what: [[metaphysics]]

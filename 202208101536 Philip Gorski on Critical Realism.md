@@ -1,3 +1,8 @@
+---
+created: 2022-08-10T15:36
+author: human
+---
+
 Created on: [[20220810]]
 Who's involved: [[Gorski, Philip]]
 About what: [[critical realism]]

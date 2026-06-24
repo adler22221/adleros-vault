@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T14:54
+author: human
+---
+
 When it is in the value-relation with the linen, the coat counts
 qualitatively as the equal of the linen, it counts as a thing of the
 same nature, because it is a value. Here it is therefore a thing in

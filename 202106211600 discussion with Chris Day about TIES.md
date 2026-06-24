@@ -1,3 +1,8 @@
+---
+created: 2021-06-21T16:00
+author: human
+---
+
 Created on: [[20210621]]
 Who's involved: [[Day, Christopher]]
 About what: [[2021 TIES]]

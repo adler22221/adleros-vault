@@ -1,3 +1,8 @@
+---
+created: 2021-05-26T16:20
+author: human
+---
+
 Created on: [[20210526]]
 Who's involved: [[Christian Wahl, Daniel]]
 About what: [[青醒人共生文化智庫]][[2021 TIES]]

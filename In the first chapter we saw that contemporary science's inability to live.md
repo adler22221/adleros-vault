@@ -1,3 +1,8 @@
+---
+created: 2021-03-18T17:43
+author: human
+---
+
 [[@fullerGovernanceScienceIdeology1999]]
 
 In the first chapter we saw that contemporary science's inability to live

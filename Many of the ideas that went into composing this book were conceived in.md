@@ -1,3 +1,8 @@
+---
+created: 2021-03-18T17:43
+author: human
+---
+
 [[@fullerGovernanceScienceIdeology1999]]
 
 Many of the ideas that went into composing this book were conceived in

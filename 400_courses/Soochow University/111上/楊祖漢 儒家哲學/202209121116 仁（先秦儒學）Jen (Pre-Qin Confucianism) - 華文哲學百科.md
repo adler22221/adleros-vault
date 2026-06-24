@@ -1,3 +1,8 @@
+---
+created: 2022-09-12T11:16
+author: human
+---
+
 #_GTD_0_inbox
 
 Created on: [[20220912]]

@@ -1,3 +1,8 @@
+---
+created: 2021-01-30T21:42
+author: human
+---
+
 [[@polanyiGreatTransformationPolitical1944]]
 
 >“Even more dramatic were the failures in Russia. The country that had already been the victim of one experiment—communism—was made the subject of a new experiment, that of putting into place the notion of a self-regulating market economy, before government had had a chance to put into place the necessary legal and institutional infrastructure. Just as some seventy years earlier, the Bolsheviks had forced a ==rapid transformation== ^[Indicating the importance of the pace of change in society.] of society, the neoliberals now forced another rapid transformation, with disastrous results. The people of the country had been promised that once market forces were unleashed, the economy would boom: the inefficient system of central planning, that distorted resource allocation, with its absence of incentives from social ownership, would be replaced with decentralization, liberalization, and privatization.

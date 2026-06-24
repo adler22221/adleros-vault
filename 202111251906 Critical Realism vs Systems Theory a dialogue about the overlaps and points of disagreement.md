@@ -1,3 +1,8 @@
+---
+created: 2021-11-25T19:06
+author: human
+---
+
 Created on: [[20211125]]
 Who's involved: [[Luhmann, Niklas]], [[Carrigan, Mark]]
 About what: [[critical realism]], [[systems theory]]

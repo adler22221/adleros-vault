@@ -1,3 +1,8 @@
+---
+created: 2021-09-08T04:18
+author: human
+---
+
 Created on: [[20210908]]
 Who's involved: 
 About what: [[@gibson-grahamDiverseEconomiesPerformative2008]][[neoliberalism]]

@@ -1,3 +1,8 @@
+---
+created: 2021-04-29T21:58
+author: human
+---
+
 Created on: [[20210429]]
 Who's involved: [[Graeber, David]][[Hart, Keith]]
 About what: [[Money Dependence 貨幣依存]]

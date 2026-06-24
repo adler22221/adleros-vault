@@ -1,3 +1,8 @@
+---
+created: 2021-09-08T04:10
+author: human
+---
+
 Created on: [[20210908]]
 Who's involved: 
 About what: [[neoliberalism]][[strong theory]][[weak theory]][[@gibson-grahamDiverseEconomiesPerformative2008]]

@@ -1,3 +1,8 @@
+---
+created: 2021-06-01T21:10
+author: human
+---
+
 Created on: [[20210601]]
 Who's involved: [[Cabrera, Laura]]
 About what: [[DSRP]][[systems science]]

@@ -1,3 +1,8 @@
+---
+created: 2022-01-26T22:50
+author: human
+---
+
 Created on: [[20220126]]
 Who's involved: [[Caroline Kuhn]]
 About what: [[critical realism]]

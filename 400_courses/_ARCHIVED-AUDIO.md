@@ -1,3 +1,8 @@
+---
+created: 2026-06-24T15:46
+author: human
+---
+
 # Archived lecture audio — 2026-06-24
 
 To keep the vault under Obsidian Sync's 10 GB cap, **84 audio files (~5 GB) were moved OUT of the vault**:

@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T12:43
+author: human
+---
+
 [[Marx, Karl]]
 
 It is moreover a matter of indifference whether the coat is worn

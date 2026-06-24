@@ -1,3 +1,8 @@
+---
+created: 2021-06-20T01:12
+author: human
+---
+
 Created on: [[20210620]]
 Who's involved: [[Jain, Manish]]
 About what: [[Ecoversities Alliance]]

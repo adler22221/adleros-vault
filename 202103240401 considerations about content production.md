@@ -1,3 +1,8 @@
+---
+created: 2021-03-24T04:01
+author: human
+---
+
 Created on: [[20210324]]
 About Who:
 About What: [[青醒人共生文化智庫]][[台灣共生文化學院]][[ExperimentalHigherEd 實驗高教]]

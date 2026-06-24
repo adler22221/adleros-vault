@@ -1,3 +1,8 @@
+---
+created: 2021-01-31T16:20
+author: human
+---
+
 [[@molanderAnatomyInequalityIts2016]]
 
 >‘There is a vast literature on both income inequality and social stratification—scientists such as Tony Atkinson, Amartya Sen, and more recently, Thomas Piketty have become known to a wider public—but the general focus of this work is on marginal change. Questions one typically encounters are why economic inequality is somewhat more pronounced in some liberal democracies than others, how the Gini coefficient of personal income distribution in a given country has developed over time, and so on. Following rising inequalities in developed countries during the latest three to four decades, economists even in institutions such as the Organisation for Economic Co-operation and Development (OECD) and the International Monetary Fund (IMF) have begun to look for driving forces behind this development. Yet relatively little energy has been spent on searching for ==fundamental mechanisms that generate inequality in a society.==

@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T11:14
+author: human
+---
+
 [[Marx, Karl]]
 
 A given commodity, a quarter of wheat for example, is exchanged for x boot-polish, y silk or z gold, etc. In short, it is

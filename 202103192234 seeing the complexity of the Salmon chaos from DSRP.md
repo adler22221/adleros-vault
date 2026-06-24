@@ -1,3 +1,8 @@
+---
+created: 2021-03-19T22:34
+author: human
+---
+
 Some dimensions to consider
 1. workload added to the public servants (relationships rule) -> is it necessary? depends on 2
 	a. if stated "unecessary," P is obvious

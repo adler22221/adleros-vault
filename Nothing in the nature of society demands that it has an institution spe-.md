@@ -1,3 +1,8 @@
+---
+created: 2021-03-18T17:44
+author: human
+---
+
 [[@fullerGovernanceScienceIdeology1999]]
 
 Nothing in the nature of society demands that it has an institution spe-

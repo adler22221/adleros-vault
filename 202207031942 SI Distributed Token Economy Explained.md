@@ -1,3 +1,8 @@
+---
+created: 2022-07-03T19:42
+author: human
+---
+
 Created on: [[20220703]]
 Who's involved: 
 About what: [[token economy]][[blockchain]][[web 3]][[cooperatives]]

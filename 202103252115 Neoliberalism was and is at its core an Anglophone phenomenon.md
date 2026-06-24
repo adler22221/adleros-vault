@@ -1,3 +1,8 @@
+---
+created: 2021-03-25T21:15
+author: human
+---
+
 Created on: [[20210325]]
 About who: [[Hart, Keith]]
 About what: [[@hartBuildingHumanEconomy2010]]

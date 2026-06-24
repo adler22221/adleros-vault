@@ -1,3 +1,8 @@
+---
+created: 2021-09-23T16:31
+author: human
+---
+
 Created on: [[20210923]]
 Who's involved: 
 About what: [[critical realism]][[International Association for Critical Realism]]

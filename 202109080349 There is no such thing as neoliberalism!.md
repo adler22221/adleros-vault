@@ -1,3 +1,8 @@
+---
+created: 2021-09-08T03:49
+author: human
+---
+
 Created on: [[20210908]]
 Who's involved: 
 About what: [[neoliberalism]][[@barnettConsolationsNeoliberalism2005]]

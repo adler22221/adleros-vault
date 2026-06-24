@@ -1,3 +1,8 @@
+---
+created: 2021-11-22T13:07
+author: human
+---
+
 Created on: [[002_monthviews/2021/20211122]]
 Who's involved: 
 About what: [[KASpaces]]

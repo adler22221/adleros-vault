@@ -1,3 +1,8 @@
+---
+created: 2021-01-31T16:46
+author: human
+---
+
 ‘Inequality has followed humankind throughout history. It has left traces everywhere, which are excavated and examined by archeologists.
 A Sumerian hymn from Nippur, written in cuneiform and translated in 1951, extols the goddess Nanshe:
 

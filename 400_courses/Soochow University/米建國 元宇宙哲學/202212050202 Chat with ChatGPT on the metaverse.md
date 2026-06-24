@@ -1,3 +1,8 @@
+---
+created: 2022-12-05T02:02
+author: human
+---
+
 Created on: [[20221205]]
 Who's involved: 
 About what: [[metaverse]][[ChatGPT]]

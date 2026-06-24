@@ -1,3 +1,8 @@
+---
+created: 2022-05-14T14:41
+author: human
+---
+
 Created on: [[20220514]]
 Who's involved: 
 About what: [[systems thinking]]

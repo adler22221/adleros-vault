@@ -1,3 +1,8 @@
+---
+created: 2021-03-13T16:27
+author: human
+---
+
 [[@pilgrimTransgenderControversyReply2018]]
 [[Pilgrim, David]]
 

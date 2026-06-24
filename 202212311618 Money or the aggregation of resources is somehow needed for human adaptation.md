@@ -1,3 +1,8 @@
+---
+created: 2022-12-31T16:18
+author: human
+---
+
 Created on: [[20221231]]
 Who's involved: 
 About what: [[evolution]][[Money Dependence 貨幣依存]]

@@ -1,3 +1,8 @@
+---
+created: 2023-04-12T00:06
+author: human
+---
+
 [Syllabus | Finance Theory I | Sloan School of Management | MIT OpenCourseWare](https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/syllabus/)
 https://youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW
 

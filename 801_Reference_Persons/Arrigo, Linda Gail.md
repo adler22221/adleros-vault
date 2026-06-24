@@ -1,4 +1,6 @@
 ---
+created: 2023-01-01T21:25
+author: human
 aliases: [艾琳達]
 ---
 

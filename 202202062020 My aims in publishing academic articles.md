@@ -1,3 +1,8 @@
+---
+created: 2022-02-06T20:20
+author: human
+---
+
 Created on: [[20220206]]
 Who's involved: 
 About what: [[academic publishing]]

@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T11:32
+author: human
+---
+
 [[Marx, Karl]]
 
 As use-values, commodities differ above all in quality, while as

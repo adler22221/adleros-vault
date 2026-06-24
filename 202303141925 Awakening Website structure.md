@@ -1,3 +1,8 @@
+---
+created: 2023-03-14T19:25
+author: human
+---
+
 Created on: [[20230314]]
 Who's involved: 
 About what: [[青醒人共生文化智庫]]

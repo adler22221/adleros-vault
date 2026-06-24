@@ -1,3 +1,8 @@
+---
+created: 2022-07-03T19:53
+author: human
+---
+
 Created on: [[20220703]]
 Who's involved: 
 About what: [[blockchain]][[Money Dependence 貨幣依存]][[internet of things]][[AI]][[automation]]

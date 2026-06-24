@@ -1,4 +1,6 @@
 ---
+created: 2024-11-22T01:05
+author: human
 aliases: money dependence
 ---
 

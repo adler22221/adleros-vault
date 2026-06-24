@@ -1,3 +1,8 @@
+---
+created: 2021-09-23T15:49
+author: human
+---
+
 Created on: [[20210923]]
 Who's involved: ‪[[Al-Amoudi, Ismael]]
 About what: [[critical realism]][[International Association for Critical Realism]][[alienation]][[posthumanism]][[technocracy]][[techno-utopianism]][[ethics]]

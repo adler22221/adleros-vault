@@ -1,3 +1,8 @@
+---
+created: 2022-08-10T22:09
+author: human
+---
+
 Created on: [[20220810]]
 Who's involved: [[Archer, Margaret]]
 About what: [[critical realism]]

@@ -1,3 +1,8 @@
+---
+created: 2021-03-27T21:57
+author: human
+---
+
 Created on: [[20210327]]
 About who: 
 About what: [[Introduction to Mathematical Thinking]]

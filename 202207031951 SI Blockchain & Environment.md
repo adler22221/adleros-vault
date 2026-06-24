@@ -1,3 +1,8 @@
+---
+created: 2022-07-03T19:51
+author: human
+---
+
 Created on: [[20220703]]
 Who's involved: 
 About what: [[Money Dependence 貨幣依存]][[environmental crisis]][[blockchain]]

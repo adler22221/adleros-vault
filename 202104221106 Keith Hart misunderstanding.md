@@ -1,3 +1,8 @@
+---
+created: 2021-04-22T11:06
+author: human
+---
+
 Created on: [[20210422]]
 Who's involved: [[Hart, Keith]]
 About what: [[Allocation Dependence 配分依存]]

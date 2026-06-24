@@ -1,3 +1,8 @@
+---
+created: 2021-03-18T17:44
+author: human
+---
+
 [[@fullerGovernanceScienceIdeology1999]]
 
 Why call this topic the 'governance of science' rather than, say, the 'politics

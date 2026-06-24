@@ -1,3 +1,8 @@
+---
+created: 2021-03-11T12:10
+author: human
+---
+
 [[Marx, Karl]]
 
 2. THE DUAL CHARACTER OF THE LABOUR EMBODIED IN

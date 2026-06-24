@@ -1,3 +1,8 @@
+---
+created: 2022-05-12T21:50
+author: human
+---
+
 Created on: [[20220512]]
 Who's involved: [[Cabrera, Laura]][[Cabrera, Derek]]
 About what: [[systems thinking]]

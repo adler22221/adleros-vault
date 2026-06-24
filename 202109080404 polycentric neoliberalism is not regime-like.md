@@ -1,3 +1,8 @@
+---
+created: 2021-09-08T04:04
+author: human
+---
+
 Created on: [[20210908]]
 Who's involved: 
 About what: [[neoliberalism]][[@peckPostneoliberalismItsMalcontents2010]]

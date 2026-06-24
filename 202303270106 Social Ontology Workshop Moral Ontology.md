@@ -1,3 +1,8 @@
+---
+created: 2023-03-27T01:06
+author: human
+---
+
 Created on: [[20230327]]
 Who's involved: [[Ash, Steve]]
 About what: [[critical realism]]

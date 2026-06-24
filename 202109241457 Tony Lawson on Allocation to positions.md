@@ -1,3 +1,8 @@
+---
+created: 2021-09-24T14:57
+author: human
+---
+
 Created on: [[20210924]]
 Who's involved: [[Lawson, Tony]]
 About what: [[critical realism]][[Allocation Dependence 配分依存]]

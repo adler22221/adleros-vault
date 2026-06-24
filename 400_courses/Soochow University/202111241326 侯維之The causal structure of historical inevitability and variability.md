@@ -1,3 +1,8 @@
+---
+created: 2021-11-24T13:26
+author: human
+---
+
 Created on: [[20211124]]
 Who's involved: 
 About what: [[東吳哲學]]

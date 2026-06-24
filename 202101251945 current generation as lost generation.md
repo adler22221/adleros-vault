@@ -1,3 +1,8 @@
+---
+created: 2021-01-25T19:45
+author: human
+---
+
 #excerpts
 Author: [[Aronson, Pamela]], [[Callahan, Thomas]] & [[Davis, Timothy]]
 Source: [[@aronsonTransitionCollegeWork2015]]

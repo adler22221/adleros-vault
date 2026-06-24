@@ -1,3 +1,8 @@
+---
+created: 2022-09-19T03:29
+author: human
+---
+
 Created on: [[20220919]]
 Who's involved: [[曹立寬]][[Arendt, Hannah]]
 About what: [[non-rights-based ethics]][[自己完結社会]]

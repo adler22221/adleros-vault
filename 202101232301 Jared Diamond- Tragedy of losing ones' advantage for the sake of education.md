@@ -1,3 +1,8 @@
+---
+created: 2021-01-23T23:01
+author: human
+---
+
 #excerpts
 Author: [[Diamond, Jared]]
 Source: [[@jichengzhenyouZhinoNiZhuan2012]] 第一章: 文明の崩壊 --- ジャレド·ダイアモンド、p.57-59

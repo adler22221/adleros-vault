@@ -1,3 +1,8 @@
+---
+created: 2021-08-13T03:47
+author: human
+---
+
 Created on: [[20210813]]
 Who's involved: 
 About what: [[Allocation Dependence 配分依存]][[Money Dependence 貨幣依存]][[202108140040 What is the Welfare State A Sociological Restatement]]
