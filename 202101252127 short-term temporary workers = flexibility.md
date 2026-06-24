@@ -1,0 +1,5 @@
+#excerpts
+Author: [[Aronson, Pamela]], [[Callahan, Thomas]] & [[Davis, Timothy]]
+Source: [[@aronsonTransitionCollegeWork2015]]
+
+Increased global competition and structural changes in the economy has made work more precarious and less stable in recent decades (Brückner and Mayer 2004; Fullerton and Wallace 2007). Rather than hiring long-term workers with benefits, employers obtain greater ‘‘flexibility'' by hiring [[short-term temporary work]]ers rather than those on standard employment contracts; workers therefore face greater insecurity than their predecessors (Brückner and Mayer 2004; Fullerton and Wallace 2007; Kalleberg 2011). Nonstandard work (including part-time, temporary, on-call, and independent contracting work) has become pervasive, with over 30% of adult workers in such precarious positions in 2006 (Kalleberg 2011).

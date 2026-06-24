@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"1a24fd077d37fad3","type":"text","text":"![[S1-1-S1-2_GOE-prose#S1-1 + S1-2 PROSE The Great Oxidation Event — Opening Section I]]","x":-960,"y":125,"width":360,"height":130},
+		{"id":"ddd887cec6b9ecf5","type":"text","text":"![[S1-3_niche-construction-prose#S1-3 PROSE Niche Construction → World-Making — §I Passage]]","x":-560,"y":125,"width":320,"height":131},
+		{"id":"0c69a88a7c9e0d73","type":"text","text":"![[S1-4_polanyi-boundary-conditions-prose#S1-4 PROSE Polanyi Boundary Conditions — §I Framing Prose]]","x":-925,"y":680,"width":290,"height":120},
+		{"id":"382a1f4978dbba55","type":"text","text":"![[S1-5_polanyi-limitations#S1-5 GENERATIVE Polanyi Limitations Counterargument — §I Footnote]]","x":-925,"y":840,"width":283,"height":159},
+		{"id":"444d638eeef2bce6","type":"text","text":"![[S1-11_world-as-OS_v4#§B. Singular and plural Goodman's worldmaking re-read]] ","x":-940,"y":1200,"width":320,"height":120},
+		{"id":"a346a15001e6aa07","type":"text","text":"![[S1-11_world-vs-worlds#S1-11 GENERATIVE World vs. Worlds — Singular/Plural Justification]]","x":-936,"y":1360,"width":301,"height":133},
+		{"id":"1ae1f7df9d138df4","type":"text","text":"![[ANNOT-Animal-Cognition_world-criteria-stresstest#2. Axis 1 — Recursive Tool-Making (Obara 加工の二重性)]]","x":160,"y":-150,"width":385,"height":140},
+		{"id":"9434f3b95e0c100c","type":"text","text":"![[ANNOT-Animal-Cognition_world-criteria-stresstest#5. Axis 4 — Tertiary Retention (Stiegler)]]","x":160,"y":30,"width":385,"height":120},
+		{"id":"84546902f57c3167","type":"text","text":"![[ANNOT-Animal-Cognition_world-criteria-stresstest#4. Axis 3 — Collective Intentionality / Status Functions (Searle)]]","x":160,"y":190,"width":385,"height":120},
+		{"id":"76e4ac3604d5e62e","type":"text","text":"![[ANNOT-Animal-Cognition_world-criteria-stresstest#3. Axis 2 — Artificial Food Chain (Obara 人工食物連鎖) — UNIQUE TO OBARA]]","x":160,"y":350,"width":385,"height":120},
+		{"id":"ee978a3d7e904e83","type":"text","text":"![[S1-11_world-as-OS_v4#§A. The OS analogy at the structural-functional level]]","x":585,"y":110,"width":300,"height":120},
+		{"id":"907ba13ee02c24db","type":"text","text":"![[S1-15_brague-lookup_v2#S1-15 v2 LOOKUP Brague — World as Human-Dependent Totality, with the Kosmos→Universe Lineage]]","x":945,"y":50,"width":300,"height":260},
+		{"id":"20a2feaebca9aa82","type":"text","text":"![[S1-10_world-definition-deduplication-prose#S1-10 PROSE World Definition — Unified Canonical Passage]]","x":976,"y":341,"width":239,"height":139},
+		{"id":"53ff125b5cbdb11f","type":"text","text":"![[S1-7_S1-19_obara-evolutionary-history-virtuality#Part 1 S1-7 — Obara's Evolutionary History]]","x":-200,"y":73,"width":306,"height":104},
+		{"id":"cf5f3d12be992d3b","type":"text","text":"![[S1-8_stiegler-epimetheus-lookup_v2#S1-8 v2 LOOKUP World-Making Mythologies — Comparative Corroboration]]","x":-214,"y":225,"width":334,"height":125},
+		{"id":"69e440cc9965853a","type":"text","text":"![[S1-16_laws-of-their-own#S1-16 GENERATIVE Complete the \"Laws of Their Own\" Argument — §I]]","x":-560,"y":746,"width":305,"height":189},
+		{"id":"6be93bbaec8d0eef","type":"text","text":"![[IIC-typology-of-artificiality_v3#§IIC — A Typology of Artificiality]]","x":-200,"y":775,"width":330,"height":132},
+		{"id":"a218cc24c318f8c6","type":"text","text":"![[IID-double-edgedness-of-artificiality#§IID — The Double-Edgedness of Artificiality]]","x":1048,"y":775,"width":335,"height":132},
+		{"id":"56823be662132c52","type":"text","text":"![[S1-7_S1-19_obara-evolutionary-history-virtuality#Part 2 S1-19 — Ethological Virtuality]]","x":265,"y":718,"width":270,"height":114},
+		{"id":"a8b7d27e0ba47181","type":"text","text":"![[II-6_v4_non-computational-virtuality_prose#II-6 v4 — §IIB.B \"Virtuality as causally efficacious nonmaterial aspect of artificiality\" — Prose Draft]]","x":265,"y":860,"width":270,"height":139}
+	],
+	"edges":[]
+}

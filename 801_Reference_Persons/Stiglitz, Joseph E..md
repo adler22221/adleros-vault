@@ -1,0 +1,5 @@
+---
+aliases: [Stiglitz]
+---
+
+#authors 

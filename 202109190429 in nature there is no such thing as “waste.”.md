@@ -1,0 +1,15 @@
+Created on: [[20210919]]
+Who's involved: [[Commoner, Barry]]
+About what: [[@commonerClosingCircleNature2020]]
+
+“The Second Law of Ecology: Everything Must Go Somewhere
+
+This is, of course, simply a somewhat informal restatement of a basic law of physics—that matter is indestructible. Applied to ecology, the law emphasizes that ==in nature there is no such thing as “waste.”== In every natural system, what is excreted by one organism as waste is taken up by another as food. Animals release carbon dioxide as a respiratory waste; this is an essential nutrient for green plants. Plants excrete oxygen, which is used by “animals. Animal organic wastes nourish the bacteria of decay. Their wastes, inorganic materials such as nitrate, phosphate, and carbon dioxide, become algal nutrients.
+
+A persistent effort to answer the question “Where does it go?” can yield a surprising amount of valuable information about an ecosystem. Consider, for example, the fate of a household item which contains mercury—a substance with serious environmental effects that have just recently surfaced. A dry-cell battery containing mercury is purchased, used to the point of exhaustion, and then “thrown out.” But where does it really go? First it is placed in a container of rubbish; this is collected and taken to an incinerator. Here the mercury is heated; this produces mercury vapor which is emitted by the incinerator stack, and mercury vapor is toxic. Mercury vapor is carried by the wind, eventually brought to earth in rain or snow. Entering a mountain lake, let us say, the mercury condenses and sinks to the bottom. Here it is acted on by bacteria which convert it to methyl mercury. This is soluble and taken up by fish; since it is not metabolized, the mercury accumulates in the organs and flesh of the fish. The fish; since it is not metabolized, the mercury accumulates in the organs and flesh of the fish. The fish is caught and eaten by a man and the mercury becomes deposited in his organs, where it might be harmful. And so on.
+
+This is an effective way to trace out an ecological path. It is also an excellent way to counteract the prevalent notion that something which is regarded as useless simply “goes away” when it is discarded. ==Nothing “goes away”; it is simply transferred from place to place, converted from one molecular form to another, acting on the life processes of any organism in which it becomes, for a time, lodged.== One of the chief reasons for the present environmental crisis is that ==great amounts of materials have been extracted from the earth, converted into new forms, and discharged into the environment without taking into account that “everything has to go somewhere.” The result, too often, is the accumulation of harmful amounts of material in places where, in nature, they do not belong.”==
+
+
+
+Excerpt From: Barry Commoner. “The Closing Circle.” Apple Books. 

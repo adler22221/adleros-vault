@@ -1,0 +1,3 @@
+---
+aliases: [division of labor]
+---

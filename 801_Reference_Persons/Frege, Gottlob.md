@@ -1,0 +1,3 @@
+---
+aliases: [Frege, Gottlob Frege]
+---

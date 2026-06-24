@@ -1,0 +1,105 @@
+#_GTD_0_inbox
+
+My note: 
+
+Author: Zaria Gorvett
+Source: 
+https://getpocket.com/explore/item/the-mystery-of-why-some-people-become-sudden-geniuses
+Retrieved {March 09, 2021}
+
+> There’s mounting evidence that brain damage has the power to unlock extraordinary creative talents. What can this teach us about how geniuses are made?
+
+# The Mystery of Why Some People Become Sudden Geniuses
+![](https://pocket-image-cache.com/direct?resize=w2000&url=https%3A%2F%2Fichef.bbci.co.uk%2Fwwfeatures%2Flive%2F976_549%2Fimages%2Flive%2Fp0%2F5v%2F0s%2Fp05v0smr.jpg)
+
+It was the summer of 1860 and Eadweard Muybridge was running low on books. This was somewhat problematic, since he was a bookseller. He handed his San Francisco shop over to his brother and set off on a stagecoach to buy supplies. Little did he know, he was about to change the world forever.
+
+He was some way into his journey, in north-eastern Texas, when the coach ran into trouble. The driver cracked his whip and the horses broke into a run, leading the coach surging down a steep mountain road. Eventually it veered off and into a tree. Muybridge was catapulted into the air and cracked his head on a boulder.
+
+He woke up nine days later at a hospital 150 miles (241 km) away. The accident left him with a panoply of medical problems, including double vision, bouts of seizures and no sense of smell, hearing or taste. But the most radical change was his personality.
+
+Previously Muybridge had been a genial and open man, with good business sense. Afterwards he was risk-taking, eccentric and moody; he later murdered his wife’s lover. He was also, quite possibly, a genius.
+
+The question of where creative insights come from – and how to get more of them – has remained a subject of great speculation for thousands of years. According to scientists, they can be driven by anything from [fatigue](http://www.tandfonline.com/doi/abs/10.1080/13546783.2011.625663) to [boredom](http://www.tandfonline.com/doi/abs/10.1080/10400419.2014.901073). The prodigies themselves have other, even less convincing ideas. Plato said that they were the result of divine madness. Or do they, as Freud believed, arise from the [sublimation of sexual desires](http://www.abandon.nl/3creativ.htm)? [Tchaikovsky maintained](https://www.abebooks.co.uk/book-search/title/creativity/author/p-e-vernon-editor/) that eureka moments are born out of cool headwork and technical knowledge.
+
+But until recently, most sensible people agreed on one thing: creativity begins in the pink, wobbly mass inside our skulls. It surely goes without saying that striking the brain, impaling it, electrocuting it, shooting it, slicing bits out of it or depriving it of oxygen would lead to the swift death of any great visions possessed by its owner.
+
+![p05v0n3n.jpg](https://pocket-syndicated-images.s3.amazonaws.com/5e32f5cf18758.jpg)
+
+_Eadweard Muybridge was thrown from a stagecoach - and then led a life of creative genius. Credit: Alamy_.
+
+As it happens, sometimes the opposite is true.
+
+After the accident, Muybridge eventually recovered enough to sail to England. There his creativity really took hold. He abandoned bookselling and became a photographer, one of the most famous in the world. He was also a prolific inventor. Before the accident, he hadn’t filed a single patent. In the following two decades, he applied for at least 10.
+
+In 1877 he took a bet that allowed him to combine invention and photography. Legend has it that his friend, a wealthy railroad tycoon called Leland Stanford, was convinced that horses could fly. Or, more accurately, he was convinced that when they run, all their legs leave the ground at the same time. Muybridge said they didn’t.
+
+To prove it he placed 12 cameras along a horse track and installed a tripwire that would set them off automatically as Stanford’s favourite racing horse, Occident, ran. Next he invented the inelegantly named “zoopraxiscope”, a device which allowed him to project several images in quick succession and give the impression of motion. To his amazement, the horse was briefly suspended, mid-gallop. Muybridge had filmed the first movie – and with it proven that yes, horses can fly.
+
+The abrupt turnaround of Muybridge’s life, from ordinary bookseller to creative genius, has [prompted speculation that it was a direct result of his accident](http://artshim.com/Shimamura-Muybridge.pdf). It’s possible that he had “sudden savant syndrome”, in which exceptional abilities emerge after a brain injury or disease. It’s extremely rare, with just 25 verified cases on the planet.
+
+There’s Tony Cicoria, an orthopaedic surgeon who was struck by lightning at a New York park in 1994. It went straight through his head and left him with an irresistible desire to play the piano. To begin with he was playing other people’s music, but soon he started writing down the melodies that were constantly running through his head. Today he’s a pianist and composer, as well as a practicing surgeon.
+
+Another case is Jon Sarkin, who was transformed from a chiropractor into an artist after a stroke. The urge to draw landed almost immediately. He was having “all kinds” of therapy at the hospital – speech therapy, art therapy, physical therapy, occupational therapy, mental therapy – “And they stuck a crayon in my hand and said ‘want to draw?’ And I said ‘fine’,” he says.
+
+![p05v0p4y.jpg](https://pocket-syndicated-images.s3.amazonaws.com/5e32f604216b6.jpg)
+
+_Gottfried Mind was an "artistic savant" who drew cats in extraordinary detail. Credit: Alamy_.
+
+His first muse was a cactus at his home in Gloucester, Massachusetts. It was the fingered kind, like you might find in Western movies from the ’50s. Even his [earliest paintings are extremely abstract](http://www.lawandwater.com/sarkin-cactus/). In some versions the branches resemble swirling green snakes, while others they are red, zig-zagging staircases.
+
+His works have since been published in The New York Times, featured on album covers and been covered in a book by a Pulitzer Prize-winning author. They regularly sell for $10,000 (£7,400).
+
+Most strikingly there’s Jason Padgett, who was attacked at a bar in Tacoma, Washington in 2002. Before the attack, Padgett was a college dropout who worked at a futon store. His primary passions in life were partying and chasing girls. He had no interest in maths – at school, he didn’t even get into algebra class.
+
+But that night, everything changed. Initially he was taken to the hospital with a severe concussion. “I remember thinking that everything looked funky, but I thought it was just the narcotic pain shot they gave me” he says. “Then the next morning I woke up and turned on the water. It looked like little tangent lines \[a straight line that touches a single point on a curve\], spiralling down.”.
+
+From then onwards Padgett’s world was overlaid with geometric shapes and gridlines. He became obsessed with maths and is now renowned for his drawings of formulas such as Pi. Today he’s incredulous that he once didn’t know what a tangent was. “I do feel like two people, and I’ve had my mum and my dad say that. It’s like having two separate kids,” he says.
+
+Why does this happen? How does it work? And what does it teach us about what makes geniuses special?
+
+There are two leading ideas. The first is that when you’re bashed on the head, the effects are similar to a dose of LSD. Psychedelic drugs are thought to enhance creativity by increasing the levels of serotonin, the so-called “happiness hormone”, in the brain. This leads to “synaesthesia”, in which more than one region is simultaneously activated and senses which are usually separate become linked.
+
+Many people don’t need drugs to experience this: nearly 5 percent of the population has some form of synaesthesia, with the most common type being “grapheme-colour”, in which words are associated with colours. For example, the [actor Geoffrey Rush believes](https://www.psychologytoday.com/blog/sensorium/201408/geoffrey-rush-his-synesthesia) that Mondays are pale blue.
+
+When the brain is injured, dead and dying cells leak serotonin into the surrounding tissue. Physically, this seems to encourage new connections between brain regions, just as with LSD. Mentally, it allows the person to link the seemingly unconnected. “We’ve found permanent changes before – you can actually see connections in the brain that weren’t there before,” says Berit Brogaard, a neuroscientist who directs the Brogaard Lab for Multisensory Research, Florida.
+
+![p05v0p9v.jpg](https://pocket-syndicated-images.s3.amazonaws.com/5e32f6584af74.jpg)
+
+_Actor Geoffrey Rush has synesthesia, where stimulation of one sense affects others, such as smelling or tasting colours. Credit: Alamy_.  
+
+But there is an alternative. The first clue emerged in 1998, when a group of neurologists noticed that five of their patients with dementia were also artists – remarkably good ones. Specifically, they had [frontotemporal dementia](https://www.ncbi.nlm.nih.gov/pubmed/9781516), which is unusual in that it only affects some parts of the brain. For example, visual creativity may be spared, while language and social skills are progressively destroyed.
+
+One of these was “Patient 5”. At the age of 53 he had enrolled in a short course in drawing at a local park, though he previously had no interest in such things. It just so happened to coincide with the onset of his dementia; a few months later, he was having trouble speaking.
+
+Soon he became irritable and eccentric, developing a compulsion to search for money on the street. As his illness progressed, so did his drawing, advancing from simple still-life paintings to haunting, impressionist depictions of buildings from his childhood.
+
+To find out what was going on, the scientists performed 3D scans of their patients’ brains. In four out of five cases, they found lesions on the left hemisphere. Nobel Prize-winning research from the 1960s shows that the two halves of the brain specialise in different tasks; in general, the right side is home to creativity and the left is the centre of logic and language.
+
+But the left side is also something of a bully. “It tends to be the dominant brain region,” says Brogaard. “It tends to suppress very marginal types of thinking - highly original, highly creative thinking, because it’s beneficial for our decision-making abilities and our ability to function in normal life.”. The theory goes that as the patients’ left hemispheres became progressively more damaged, their right hemispheres were free to flourish.
+
+This is backed up by several other studies, including one in which [creative insight was roused](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016655) in healthy volunteers by temporarily dialling down activity in the left hemisphere and increasing it in the right. “\[the lead researcher\] Allen Snyder’s work was replicated by another person, so that’s the theory that I think is responsible,” says Darold Treffert, a psychiatrist from the University of Wisconsin Medical School, who has been studying savant syndrome for decades.
+
+But what about more mainstream geniuses? Could the theory explain their talents, too?
+
+Consider autism. From Daniel Tammet, who can perform mind-boggling mathematical calculations at stupendous speed, to Gottfried Mind, the “Cat Raphael”, who drew the animal with an astonishing level of realism, so-called “autistic savants” can have superhuman skills to rival those of the Renaissance polymaths.
+
+It’s been estimated that as many as one in 10 people with autism have savant syndrome and there’s mounting evidence the disorder is [associated with enhanced creativity](https://link.springer.com/article/10.1007/s10803-015-2518-2). And though it’s difficult to prove, it’s been speculated that numerous intellectual giants, including Einstein, Newton, Mozart, Darwin and Michelangelo, were on the spectrum.
+
+One theory suggests that autism arises from abnormally low levels of serotonin in the left hemisphere in childhood, which prevents the region from developing normally. Just like with sudden savant syndrome, this allows the right hemisphere to become more active.
+
+Interestingly, many people with sudden savant syndrome also develop symptoms of autism, including social problems, obsessive compulsive disorder (OCD) and all-consuming interests. “It got so bad that if I had money I would spray the money with Lysol and put it in the microwave for a few seconds to get rid of the germs,” says Padgett.
+
+“They are usually able to have a normal life, but they also have this obsession,” says Brogaard. This is something universal across all sudden savants. Jon Sarkin compares his art to an instinct. “It doesn’t feel like I like drawing, it feels like I must draw.” His studio contains thousands of finished and unfinished works, which are often scribbled with curves, words, cross-hatchings, and overlapping images.
+
+![p05v0qbr.jpg](https://pocket-syndicated-images.s3.amazonaws.com/5e32f682601e7.jpg)
+
+_It is believed that many creative geniuses - such as Albert Einstein - may have been on the spectrum. Credit: Alamy_.  
+
+In fact, though they often don’t need to, sudden savants work hard at improving their craft. “I mean, I practiced a lot. Talent and hard work, I think they are indistinguishable – you do something a lot and you get better at it,” says Sarkin. Padgett agrees. “When you’re fixated on something like that, of course you do discover things.”
+
+Muybridge was no exception. After the bet, he moved to Philadelphia and continued with his passion for capturing motion on film, photographing all kinds of activities such as walking up and down the stairs and, oddly, himself swinging a pickaxe in the nude. Between 1883 and 1886, he took more than 100,000 pictures.
+
+“In my opinion at least, the fact that they can improve their abilities doesn’t negate the suddenness or insistence with which they are there,” says Treffert. As our understanding of sudden savant syndrome improves, eventually it’s hoped that we might all be able to unlock our hidden mental powers – perhaps with the help of smart drugs or hardware.
+
+But until then, perhaps us mortals could try putting in some extra hours instead.

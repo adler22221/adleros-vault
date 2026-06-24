@@ -1,0 +1,16 @@
+Created on: [[20210908]]
+Who's involved: 
+About what: [[@gibson-grahamDiverseEconomiesPerformative2008]][[neoliberalism]]
+
+The choice to create weak theory about diverse economies is a political/ethical decision that influences what kind of worlds we can imagine and create, ones in which we enact and construct rather than resist (or succumb to) economic realities. Many other social scientists understand their research choices as ordained by the world itself, by the stark realities that impose themselves on consciousness and demand investigation. In economic geography, for example, the dominant topic of research over the past decade or more has been neoliberalism and neoliberal capitalist globalization. This has been represented as needing study for the apparently self-evident reason that ‘it is the most important process of our age, trans- forming geographies worldwide’. Some leading proponents of neoliberalism studies have begun to express concern about where this line of research is headed (Larner, 2003; Castree, 2006a), but few see themselves as making an ethical choice to participate in con- stituting neoliberalism. Law and Urry point to the ultimately destructive ‘innocence’ of this position:
+
+to the extent social science conceals its per- formativity from itself it is pretending to an innocence that it cannot have. And to the extent that it enacts methods that look for or assume certain structural stabilities, it enacts those stabilities while interfering with other realities ... (Law and Urry, 2004: 404, our emphasis)
+
+Taking Law and Urry’s point to heart, we can identify a problem with strong theories of neoliberal globalization – their performative
+ 
+
+effect is to interfere with, to make non- credible (Santos, 2004), to deny legitimacy to the diverse economies that are already here, and to close down the open futures that are waiting to be performatively enacted.
+
+In the face of what has become ‘normal science’ for economic geography – studies of neoliberal this and that – many geographers are making other choices, contributing to new performances by bringing economic diversity to light (see, for example, Leyshon et al., 2003; Diverse Economies online bibliography, 2008). Through devoting academic atten- tion to hidden and alternative economies they have constituted new objects of study and investigation, making them visible as potential objects of policy and politics. This is the most basic sense in which knowledge is performative.
+
+We would imagine that not all of these people see themselves engaged in a per- formative ontological politics – such a politics is a potentiality we are attempting to call into being. But all are contributing in some way to making economic diversity more credible. They are resisting the discursive erasure threatened by neoliberal theory, drawing attention to and thereby strengthening a range of economic practices that exist out- side the purview of neoliberal studies. In the rest of this paper, we outline some of the practices of thinking and research that we and they have adopted to advance the onto- logical project of ‘diverse economies’.

@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("full-research-workflow/30Drafts")
+    order:
+      - file.name
+      - file.mtime
+      - citation-status
+      - status
+      - summary
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+      - property: citation-status
+        direction: ASC
+      - property: summary
+        direction: ASC
+    markers: bullet
+    indentProperties: false
+    rowHeight: extra
+    columnSize:
+      file.mtime: 172

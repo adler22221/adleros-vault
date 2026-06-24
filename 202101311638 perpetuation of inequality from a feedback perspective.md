@@ -1,0 +1,4 @@
+[[@molanderAnatomyInequalityIts2016]]
+[[Molander, Per]]
+
+‘Ricardo and Robert Fernholz published a paper^[Find the paper -- Might be a good example for the applications of [[systems thinking]] or [[systems theory]] or [[systems science]] in wicked problems. #_GTD_5_checklater] in the Journal of Economic Dynamics and Control that offered a similar analysis for a market. The conclusion is the same: even in a society where everyone starts with equal assets and capabilities and mobilizes the same effort, the distribution of wealth will eventually drive toward an extremely skewed distribution, in which a single household ends up owning everything.’

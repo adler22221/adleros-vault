@@ -1,0 +1,43 @@
+views:
+  - type: table
+    name: By Project
+    filters:
+      and:
+        - file.inFolder("full-research-workflow/30Drafts")
+    order:
+      - file.name
+      - status
+      - summary
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    group:
+      property: project
+  - type: table
+    name: All Drafts
+    filters:
+      and:
+        - file.inFolder("full-research-workflow/30Drafts")
+    order:
+      - file.name
+      - project
+      - status
+      - summary
+      - file.mtime
+    sort:
+      - property: Project
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: project
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    markers: bullet
+    indentProperties: false
+    rowHeight: normal
+    columnSize:
+      file.mtime: 160
+      project: 180
+      status: 120

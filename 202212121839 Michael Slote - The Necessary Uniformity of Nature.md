@@ -1,0 +1,140 @@
+Created on: [[20221212]]
+Who's involved: [[Slote, Michael]]
+About what: [[metaphysics]]
+
+![[Pasted image 20221212192257.png]]
+![[Pasted image 20221212183922.png]]
+![[Pasted image 20221212183943.png]]
+![[Pasted image 20221212184000.png]]
+![[Pasted image 20221212184030.png]]
+![[Pasted image 20221212184106.png]]
+![[Pasted image 20221212184133.png]]
+![[Pasted image 20221212184233.png]]
+![[Pasted image 20221212184305.png]]
+![[Pasted image 20221212184346.png]]
+![[Pasted image 20221212184429.png]]
+![[Pasted image 20221212184458.png]]
+![[Pasted image 20221212184542.png]]
+![[Pasted image 20221212184614.png]]
+![[Pasted image 20221212184657.png]]
+![[Pasted image 20221212184747.png]]
+![[Pasted image 20221212184902.png]]
+![[Pasted image 20221212184948.png]]
+![[Pasted image 20221212185013.png]]
+![[Pasted image 20221212185104.png]]
+![[Pasted image 20221212185148.png]]
+![[Pasted image 20221212185244.png]]
+![[Pasted image 20221212185346.png]]
+![[Pasted image 20221212185437.png]]
+![[Pasted image 20221212185450.png]]
+![[Pasted image 20221212185537.png]]
+![[Pasted image 20221212185641.png]]
+![[Pasted image 20221212185715.png]]
+![[Pasted image 20221212185807.png]]
+![[Pasted image 20221212185828.png]]
+![[Pasted image 20221212185911.png]]
+![[Pasted image 20221212185954.png]]
+![[Pasted image 20221212190027.png]]
+![[Pasted image 20221212190039.png]]
+![[Pasted image 20221212190125.png]]
+![[Pasted image 20221212190134.png]]
+![[Pasted image 20221212190200.png]]
+![[Pasted image 20221212190229.png]]
+![[Pasted image 20221212190258.png]]
+![[Pasted image 20221212190323.png]]
+![[Pasted image 20221212190353.png]]
+![[Pasted image 20221212190432.png]]
+![[Pasted image 20221212190459.png]]
+![[Pasted image 20221212190527.png]]
+![[Pasted image 20221212190605.png]]
+![[Pasted image 20221212190645.png]]
+![[Pasted image 20221212190724.png]]
+![[Pasted image 20221212190814.png]]
+![[Pasted image 20221212190845.png]]
+![[Pasted image 20221212190923.png]]
+![[Pasted image 20221212190944.png]]
+![[Pasted image 20221212191033.png]]
+![[Pasted image 20221212191114.png]]
+![[Pasted image 20221212191156.png]]
+![[Pasted image 20221212191232.png]]
+![[Pasted image 20221212191309.png]]
+![[Pasted image 20221212191414.png]]
+![[Pasted image 20221212191514.png]]
+![[Pasted image 20221212191608.png]]
+![[Pasted image 20221212191657.png]]
+![[Pasted image 20221212191749.png]]
+![[Pasted image 20221212191835.png]]
+![[Pasted image 20221212191850.png]]
+![[Pasted image 20221212191934.png]]
+![[Pasted image 20221212192015.png]]
+
+
+# Q&A 
+
+Yes, you've you've actually just from a couple of minutes clean up a number of points here. let's see if I can pick up on some of them uh yes, the argument against magic is essential 2 the argument I wanna give for the necessary uniformity of nature now do you have an attraction to what I say about the impossibility of magic these people, uh, is alibaba
+
+I mean the example that I give and it's one that is familiar toI think, I think, I think that might be the crucial part I don't. I don't understanding we we would have, you know, a and alibaba uh so how is it going to occur if the door opens I know it's and it's just magic and there's no other explanation that it seems that it also should be possible for the door uh to open when you say close testimony why hy shouldn't that also be possible? but that does seem impossible I mean that seems to make no sense at all that keeps saying and the reason why is because the door can't understand words rds. so the idea of magic seems to presuppose in those instances that things can understand and they can't so that's the main argument against magic so what do you say?
+
+so that seems to be because we wanted to make sense, so we think it only makes sense we if we postulate There to be some kind of a causal relation behind it which is fine as far as the reason goes but it but it does that mean that the physical l possibility relies on the assumption of personality so how do we how do we determine whether physical impossibility al to believe or could be rational to believe. I meant we can make no sense of it in that sense I'm talking more about media
+
+I said make sense I didn't mean that something was rational possibility then about epistemic rationality. ok so don't don't take the words make sense. uh, as it's talking about rationality. I'm not saying that there has to be you know, the rationality has to be part of what I am saying is that it doesn't make sense and it is in that sense we can't understand what it would be like and these are arguments for the impossibility of something ok we can't understand what it would be like for 2 + 2 to equal 5 we can't understand what nd what it would be like for for blue to be the same color as green ok uh we can't make sense of that idea so so I'm not talking about rationality, I'm talking about what is possible but when you're being uh possibility. 
+
+you're talking about logical possibility
+
+Sometimes it is called logical possibility, but I ii rule I didn't use that phrase because some people use the term logical possibility to meet what is consistent with the laws of logic ok and there are some kinds of necessity which may be consistent with the laws of logic of sorry some kinds of necessity which don't follow from the the laws of logic, but seem to be metaphysically necessary uh for example 2 + 2 = 4 ok if you can't prove it by logic but it is necessary and people think it is metaphysically necessary that 2 + 2 = 4 so I wanted to use the word word better physical, because the word logical implies truth by definition I I don't, you know, I don't think these things are true by definition I mean the whole enterprise russell and whitehead uh to prove that that that that mathematics can come from logic it didn't work it didn't work there were there were principles they es they had to assume which w now we have people joining us online yeah, any what am I rightere not definitional
+
+Uh now you had other parts of your question on, but maybe we can come back to you if if othersThey talk ask firs
+
+You have a question professor slug press your head
+
+Alright we have around 1516 people online, so I don't know everyone there that she felt catch up
+
+But if you don't have questions I can talk k a little bit about the general this general topic you know oh from the lack of questions, I have a feeling that not every aspect of my argument was understood of that you uh you know that there were you weren't you weren't quite clear what the structure of my argument what what I'm trying to do right and how well it does or does not work but I mean I would like to hear an objection but maybe an objection ection will help clarify things if anyone has an objection the idea of necessary and poverty of nature, uh, compatible with
+
+baby, that objection thank you. uh make it clear this you basically, uh, wesley salmon but wondering a service idea about deal with, uh, things this thing probabilistic model uh are they compatible no they're not compatible so I mean I think he kept wondering whether you could give some kind of statistical, statistical or
+
+wesley shannon was a very a very important philosopher of science. I have the highest admiration for him explanation of why we should believe in the future ok and he said you know and when when strauss is very wise but he gave an argument for abduction he took him to task and in a very eloquent way for for making ing the thing too simple. yes. so although I'm using wesley salmon, here I am opposing his skepticism you thought that you have to be able to show in some statistical other way that the future will be like the past and he thought that was an extremely difficult thing to do I don't think we need to go that way so I I am taking, I would love to see how wesley salmon would react to my favorite I mean when he couldn't convince him at all I don't know if he's not here he's not here he's long dead but he isn't a very important ortant thinker, right? you're right to bring up wesley said yes arriving you don't. you don't need statistics. in my view both, but I mean from the beginning point of something we can agree with that ok it doesn't necessarily jump to your technology it could go the the other way, right? like what's the status with you still my best friend and companies that uh with the 7th both it's also impossible otherwise space cycle basic quick connect you know come to the come to your conclusion there's a good good good good good very nice uh you're right I mean you could accept what I say about magic and disagree with what I said about the uniformity of nature that's why I called your attention to one ntion to one particular paragraph that I was going to read it essence of the argument is there and here e is the answer to salmon. the answer to salmon is that once you establish or think you have established that magic, I suppose it's it's very simple. it's a much simpler assumption to assume that the lapse of power should work the same way as the onset of power but beginning of power r and the end of power? there's no reason to think they should be any different and if that's right then I'm right and you u don't need his kind of statistical argument it's an argument from simplicity analogy and argument from analogy it's the center of the organ 
+
+sorry I'm I'm sorry about that I didn't make it today I don't know how your arguments because uh ok would you mind if I spend I spend the arguments from the uniformity of nature to the to your stature I really don't petition I'm not hearing the last few words you said from the uniformity of nature nature to o just spend that much of the issue of variety of english. 
+
+oh, induction well can the argument for the validity of induction I refer to an interesting analogy between what is metaphysically possible and what is epistemologically or epistemically possible goodman and others have fought that once some creature somewhere could think in terms of group ok I tried to argue that no one could think in terms of group ok uh david lewis came close to saying that but I want to actually say that ohh but and I say that on the basis e basis of a similarity with what elizabeth asked gem ascom said about a saucer of mud or to take an example, from philippa foot, philippa foot, my teacher said that no one could want always turn ne after turning northwest that could not be a basic desire and if that's I don't think it can be a basic desire and I don't think that believing ng that future emeralds will be group can be a basic inference pattern. ok, ok, so, so alright, so for me the validity and conduction does really concern normal predicates. predicates that are not like. good. ok, so you have the epistemic idea that we have to think we have to think that the next emerald will be great and nd then there is the metaphysical idea is if we well, first we have to think this emerald will continue to be great ok, and then there's the metaphysical idea bad uh, this emerald cannot change the green without a reason, ok if it could do that then the universe could d change without a reason and there would be no uniformity of nature so arguing by what we call contra position if there is uniformity of nature ok, then the emerald can't just change for no reason from green to blue ok, so there's a parallel between what we think and what we can think and what could happen ok so then I said, well, on the other hand, we can't think that the next demo that's something we can't think that this emerald will remain, but will become blue ok, for no reason, but it can happen somebody could say it can't happen, but my argument was it can't happen ok it can't happen ok. unless unless there is some other factor that comes in and changes the apple but then I argue from the grounds of simplicity it's simpler to assume that there is no unknown other factor and so then the rationality of induction is proved that way it's not it's it's too complicated to assume that there are other factors the simplest assumption ption is there is no other factor, and therefore it will remain. it will remain great ok so that is ok it can't change ok. ok. but also we have to believe that it can't change. and that was the art thank you 
+
+and some members online racist. they had a bit, ok and so please open the first one is the first one like raise his hand is turning. 3rd please open your mic 
+
+can you hear me not really can you hear me I'll come down, come down hello, can you hear me I can now ohh ok ok so uh I 
+
+I just wonder whether your argument uh actually appeared to something like the principle of sufficient ent reason. I mean when you say that the if the future is you know um something very similar to the past them um something like there is no reason to think that so I I mean whether that's a kind of appear to the principle of sufficient ent reason. and if that is the case, then I wonder maybe when hume or someone want to say that the uniformity of nature is not necessary because they just reject the principle of submission reason because they think that there may be some root facts that sometimes something may be just that without any reason so that's perfectly perfectly possible that something g is blue and then turn to green or something like that. so I wonder whether how do you think about this 
+
+well, you know if the principle of sufficient reason is false in some cases nonetheless, there may be reason to think it's true in other cases now I agree with you and with others I don't accept the principle of sufficient reason I've even argued against it for example mple, I don't think there is sufficient reason for the universe to be the way it is ok I don't think we can there's a sufficient reason for the universe to have the history it actually has no not at all I don't think think this is sufficient reason for the laws of nature to be as they are ok and also when you think about electrons I you know if electron moves left I don't on't think there's sufficient reason why it does so what I'm saying is my argument illustrates or illustrates the principle of sufficient reason but it doesn't assume it's truth rather it gives arguments nts which coincide with the principle in in cases where it's less dubious ok. thank you maybe I should say yeah, yeah, yeah and uh. so if I put a mask on ok. thank you. 
+
+and the second is yanni, but 
+
+hello professor slot um probably due to internet connection issues the first part the beginning ing part of your lecture was not clear. I didn't hear it clearly, but um and so I'm still trying to get the main argument of your lecture oi have two questions one is can you help us contextualize your your current work from your background coming from a concern in virtue carrying receptivity how so basically how how do you come from come from there to here how are these these researches related ted? and the second question is you talked about you umm you you didn't middle metaphysical analysis s of the uniformity of nature, but I wonder if you have any um, until ontological stances do you hold the from from your view is your is your argument against or consistent with human concept of constant conjunction? or how would you account the the more recent scientific ontological stances that causality is multi layered. I think I have these two questions ok 
+
+uh let me see if I can remember all of it let me talk about the the the latter part rt first, which is actually, uh, less complicated uh do you hear me yes yes you you do hear hear me. ok. so, I mean, I don't know. can people hear me here? yeah. yeah. yeah. ok uh so I am not a you know I'm not a student of of of of the complicated physical theories es that you're talking about in the latter case uh but acid conjunction the idea of constant conjunction as the as the basis of causality well I I mean there there there are some problems with that but in general they it seems that causality goes beyond constant conjunction and what what I said at the end of my talk was that if, if, if, if the uniformity of nature is is it is a necessary fact then there's gonna be necessity in all of causal or almost t all of causal connections. let me give you another way of dealing with this uh can't afford that humans laws of motion were apriori and necessary uh, I and and in recently, colin mcginn and I have both come up with the same idea now if if the laws of motion are necessary then since they then since most causality involves the application of one or another of those laws there will be an element of of necessity in all of causation of a physical nature so this is in a way a vindication of of ordinary thinking against the human idea that there is no really the you know the causal necessity is a projection of our feelings and our tendencies rather than a fact of nature re. I'm saying it's a fact of nature. 
+
+now then you ask if I may go back to the first question and recall as much as I can you say how did I get to here well that is is a very good question, but you see the present paper isn't so typical of my current work as a other things that I've written so let me just first talk about the present paper r and then talk about my general interest nowadays that the the paper I've just given you relates to work that I did uh you know 50 years ago on gordman's riddle and at at that time I hadn't really read anscom or taken her seriously and so I thought ohh t, oh yeah, we, we can all think in terms of grew, but why should we or why shouldn't we and and somehow later on, anscom convinced me that you shouldn't you shouldn't uh talk about a desire for a saucer of mud and david lewis and I then agreed that that's very similar to what goodman is asking us to do and and and so that you know so so my whole approach changed and as a result of asco really as a result of asco. now more, you know and and and then that led to some of the ideas of of this paper but I'd rather speak more generally y because you ask a very good question much maybe even most of my recent work attempts to connect chinese philosophy and western philosophy. now were you asking me about that or not because that 
+
+I was asking that you you have your previous work are more centered around virtue caring and receptivity and I wonder if your current work is related ted to that in any way. 
+
+let me show you how it is first of all I gave a a summer seminar with steve angles on the comparison between virtue ethics and the west and confucian fraud and I began to see that western virtue ethics has important t similarities to chinese, to chinese thinking about the virtues ok so that led me toward toward taking chinese ideas very seriously uh, and at a certain point uh. I began to think about yin and yang the reason why is because I wrote I wrote a book. one of the words in the title was receptivity and then I thought, wouldn't it be interesting, the chinese language doesn't have a specific word for receptivity english has but chinese does not but you have yin what if we think of yin as receptivity can we understand things better but then we have to find a young ok so a lot of my recent work has been you been, you know, finding a young for the universe activity and seeing how they interact in understanding how the human mind works thank you 
+
+umm I'd like to elaborate a little bit on my second question so my I gave 2 cases or examples one is the humane humane humane concept, causality, but when you talked about universal uniformity and necessity I I wonder how do you account for example current concept complex system science or in the philosophy of science like critical realism, they they, they critiqued necessity and certainty given that nature is opens are open systems, so I wonder how do you address this 
+
+well, of course, nature is an open system but isn't that really a a a matter that we can't know what the various factors that are gonna go to enter into any given natural complex of of of causal relationship so that the the the idea that we can't predict what's going to be part of it now what you ou may be saying is this ok slow you think it you know that in simple cases you don't know if some factor is going to come in to change this emerald from green to blue but the universe is much more complicated than that it's not a matter of a simple factor but rather that factors are interacting and coming ing in in unforeseen ways all over the place so the picture is much more complicated I I agree. if that's true, then I have to elaborate on what I'm saying I need to say more yeah 
+
+also a side note if that's ok so um because a complex system science or like critical realism when they talk about open systems not only I think when we talk about open systems there can be the predictability ility in practice or in principle some may say that is in principle in practice not predictable but in principle there there's it should d be predictable. however, if we take emergence into account, then how does how does predictability come to play, given that emergence leads to different properties that is not that is not entailed in its previous whether previous forms or previous situations or r previous whatever that you consider it as a conceptual um, framework, yeah but yes no I I mean I I I 
+
+I take your point and predictability is another issue that I have not really thought well about or deeply so yes you you know you're showing a certain incompleteness that but you know that's a challenge it's not just it's not so much a reputation it's n. it's it's a challenge and I accept your challenge 
+
+thank you very much 
+
+michael, still thank you for your wonderful talk. you will talk prepare to 25 years ago when I was an undergraduate e student. at first I met the industrial problem. in your talk, it reminds me uh uh. iii can uh say you your argument is no magic argument you so so let me give a a it seems to me it's a parallel structure you argument and and the normal argument for scientific realism. so you are you are you you argument is priori argument but we can version of the argument that just like infrastructure infrastructure ture best explanation seems to work too for judge by the in the induction I I think so in it it says to me ok I understand understand understand your argument as a one kind of inference to the best explanation it's not 's not exactly the ratio of this view to solve the inductive argument maybe. uh, we could probably ship perhaps the temptation for the induction we we will we will nice will be good enough to solve the huge problem 
+
+thank you that's a that's a very good question and I but but I think there's a distinction that can be made to help you understand why I've proceeded the way I do uh in the end I do apply I do appeal to the he idea of best explanation. the simplest explanation, however but you say I'm trying to give an apriori I argument, and yet I'm appealing to the best explanation. well the idea that simplicity governs our rational thinking is not a posteriori it's not empirical it's an apriori assumption so I'm using that apriori assumption to come to a conclusion ion. ok, so not none of the premises of my argument is empirical ok. the, uh, that that's that's the way I deal with it principle of simplicity is itself a priori we justified this principle by by, by all experience I I wonder if you, uh, we we can it have a weak, weak premises steel can judge by the induction let me tell you one thing let me tell you a funny story I'm really not answering your question but you know wv quine the american philosopher the famous american philosopher was famous for saying that there was nothing that we couldn't change our minds about that anything we hing we hold. if enough evidence came, we could change our mind about everything well, one day I was talking with him uh and and uh I said well what about simplicity icity? he said. oh no, we could never give that up quite, quite said that. uh, so ohh it's true that nature uh so often happens ns in science that the simplest explanation is the right one. ok but but you know that's that doesn't that that's a kind of empirical evidence for the importance of simplicity but it isn't the whole basis for our reliance on simplicity ok I I think even as children dren and without the results of science, that we tend to prefer the simpler idea and certainly untutored but was untutored ordinary thinking prefer simplicity they don't know about how valuable simplicity has been as a an idea in in in in the history of science and they still rely on it so so I take your ake your point, but I still think simplicity as an apriori status thank you 
+
+and whether it everything you say is true it's gonna be it's impact on the issue of we will oh god and uh, uh, this you also basically I'm already for how the free will will fit into india thank you 
+
+like well, you you ask an impossible question for me I I I have been thinking about free will for 40 or 50 years and I wrote some articles in the 1980s about free e will that were well received articles but I still don't know what I think I mean I'm inclined to be what they call a compatibilist st, somebody who thinks that free will is compatible with causal determinism but now you see now you see ohh I'm saying as chinko or me or me cinco says I'm saying ying that a lot of what happens happens with the kind of necessity, ok, but you see even even compatible as who long before I've ever spoken these these ideas they think yes the free will is compatible with a certain ain kind of causal necessity because it's to be understood hypothetically sure if I'm if I'm a state executioner out of necessity, I'm going to all the button works you cut cut the head off of the man I'm supposed to cut the head off ohh sure there's a kind of necessity ity that leads the executioner to fulfill his role but the point is if he chose not to he wouldn't have to and so that this hypothetical idea was supposed to be the basis for free will ill. now this turns out to be totally inadequate, ok totally inadequate uh there are all kinds of conditions in which yes you would do this differently but still you can't do 't do it differently. so you know the free will problem is still with us no one has really solved it I don't know the answer and what I want to say here is is that I don't think what I've said in in this paper makes things any worse for the compatibilist of the compatibilist up to now has been willing to accept the causal laws are necessary but give a hypothetical understanding of free will and I think they could still do do that even with what I'm saying here today oh, now then you. the second part of your question was about yin and yang what's that free will yeah yeah so yes I mean uh I have worked on yin and yang in recent years and for me yannis receptivity ceptivity and yang is kind of directed, directed action or motivation, so you might think well this should give us an idea about free will uh it I have certainly used beginning young to understand the nature ature of beliefs. after all, when you believe something, listen there's the receptivity the yen of taking in the world right about you but there's also the young of making inferences if I believe that this swan is black then I have have to think I was wrong when I said all swans are white ok so belief has an active side to it inferential al, mentally active inferential side to it so I believe that yin and yang is part of the way the mind works question then is it so what about free will and I'm I shamefully ly were shame facedly say I don't have an answer I don't know how to do I can think about ok, so it's about time let's uh 
+
+thank uh professor snow ok if there's ere's a wonderful talk today and look forward to seeing you again time yeah ok, I think it went well in the end. you know, it was slow you know you picture”

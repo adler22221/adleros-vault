@@ -1,0 +1,19 @@
+# Obsidian config / caches / sync state
+.obsidian/
+# heavy media — lives on the PC + pCloud Backup, not in the markdown repo
+*.png
+*.jpg
+*.JPG
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.pdf
+*.m4a
+*.mp3
+*.mp4
+*.mov
+*.webm
+# OS junk
+.DS_Store
+Thumbs.db
