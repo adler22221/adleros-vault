@@ -1,6 +1,8 @@
 ---
 created: 2026-01-21
 author: human
+type: event
+scheduled: 2026-01-21T17:00
 title: Konrad Young
 allDay: false
 startTime: 17:00

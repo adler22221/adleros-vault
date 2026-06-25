@@ -1,6 +1,8 @@
 ---
 created: 2025-10-02
 author: human
+type: event
+scheduled: 2025-10-02T22:00
 title: Making war obsolete
 allDay: false
 startTime: 22:00

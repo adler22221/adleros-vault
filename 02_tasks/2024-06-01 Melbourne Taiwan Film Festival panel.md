@@ -1,13 +1,16 @@
 ---
 created: 2024-06-01
 author: human
+type: event
+state: done
+scheduled: 2024-06-01T13:00
 title: Melbourne Taiwan Film Festival panel
 allDay: false
 startTime: 13:00
 endTime: 15:00
 date: 2024-06-01
 completed: 2024-06-01T16:26:58.477+08:00
-type: single
+fc-type: single
 endDate: null
 ---
 1. Can you briefly share your experience studying in Humanity (RenWen) Junior High School and what your classmates’ and teachers’ responses were to your filmmaking? 

@@ -1,6 +1,9 @@
 ---
 created: 2024-04-30
 author: human
+type: event
+state: done
+scheduled: 2024-04-30T17:30
 title: Chris initiative meeting
 allDay: false
 startTime: 17:30

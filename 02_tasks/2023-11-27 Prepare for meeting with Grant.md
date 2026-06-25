@@ -1,6 +1,9 @@
 ---
 created: 2023-11-27
 author: human
+type: event
+scheduled: 2023-11-27
+due: 2023-11-28
 title: Prepare for meeting with Grant
 allDay: true
 date: 2023-11-27

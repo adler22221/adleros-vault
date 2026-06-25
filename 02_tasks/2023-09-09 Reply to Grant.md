@@ -1,6 +1,9 @@
 ---
 created: 2023-09-09
 author: human
+type: task
+state: done
+scheduled: 2023-09-09T16:30
 title: Reply to Grant
 allDay: false
 startTime: 16:30
@@ -10,9 +13,9 @@ completed: 2023-09-11T00:10:38.997+08:00
 Project:
   - JCR Judgemental Rationality
   - critical realism
-goals:
+goal:
   - 學問之路
-type: single
+fc-type: single
 status: 6_done
 ---
 Hi Grant!

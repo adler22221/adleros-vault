@@ -1,6 +1,9 @@
 ---
 created: 2023-08-04
 author: human
+type: task
+state: done
+scheduled: 2023-08-04T12:00
 title: CR CoP Meeting on Archer
 allDay: false
 startTime: 12:00
@@ -8,7 +11,7 @@ endTime: 13:30
 date: 2023-08-04
 completed: 2023-08-05T13:08:00.887+08:00
 status: 6_done
-type: single
+fc-type: single
 ---
 
 

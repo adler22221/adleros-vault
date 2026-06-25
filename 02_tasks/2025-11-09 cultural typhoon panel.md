@@ -1,6 +1,8 @@
 ---
 created: 2025-11-09
 author: human
+type: event
+scheduled: 2025-11-09T14:30
 title: cultural typhoon panel
 allDay: false
 startTime: 14:30

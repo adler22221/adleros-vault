@@ -1,6 +1,10 @@
 ---
 created: 2023-07-27
 author: human
+type: task
+state: done
+scheduled: 2023-07-27
+due: 2023-07-28
 title: KAS panel prep
 allDay: true
 date: 2023-07-27

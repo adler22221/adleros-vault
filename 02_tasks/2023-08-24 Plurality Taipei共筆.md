@@ -1,6 +1,9 @@
 ---
 created: 2023-08-24
 author: human
+type: task
+state: done
+scheduled: 2023-08-24T19:30
 title: Plurality Taipei共筆
 allDay: false
 startTime: 19:30
@@ -8,7 +11,7 @@ endTime: 21:00
 date: 2023-08-24
 completed: 2023-08-25T18:22:31.807+08:00
 status: 6_done
-type: single
+fc-type: single
 ---
 
 [Plurality: Technology for Collaborative Diversity and Democracy](https://www.plurality.net/)

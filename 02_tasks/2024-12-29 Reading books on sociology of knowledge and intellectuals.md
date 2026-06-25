@@ -1,6 +1,8 @@
 ---
 created: 2024-12-29
 author: human
+type: event
+scheduled: 2024-12-29T01:30
 title: Reading books on sociology of knowledge and intellectuals
 allDay: false
 startTime: 01:30

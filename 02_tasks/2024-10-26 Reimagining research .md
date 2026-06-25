@@ -1,6 +1,9 @@
 ---
 created: 2024-10-26
 author: human
+type: event
+scheduled: 2024-10-26T23:30
+due: 2024-10-27
 title: Reimagining research 
 allDay: false
 startTime: 23:30

@@ -1,6 +1,10 @@
 ---
 created: 2024-03-20
 author: human
+type: event
+state: done
+scheduled: 2024-03-20
+due: 2024-03-21
 title: blog ideas- 天花板瓶頸論＆其他營運構想
 allDay: true
 date: 2024-03-20

@@ -1,13 +1,16 @@
 ---
 created: 2023-08-15
 author: human
+type: task
+state: done
+scheduled: 2023-08-15T11:00
 title: Plurality Taipei
 allDay: false
 startTime: 11:00
 endTime: 17:00
 date: 2023-08-15
 completed: 2023-08-16T17:25:28.722+08:00
-type: single
+fc-type: single
 Project:
   - 碩論
 status: 6_done

@@ -1,13 +1,15 @@
 ---
 created: 2024-06-29
 author: human
+type: event
+scheduled: 2024-06-29T03:30
 title: thoughts about future 5 years
 allDay: false
 startTime: 03:30
 endTime: 05:00
 date: 2024-06-29
 completed: 
-type: single
+fc-type: single
 endDate:
 ---
 

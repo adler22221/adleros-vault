@@ -1,6 +1,9 @@
 ---
 created: 2023-12-03
 author: human
+type: event
+state: done
+scheduled: 2023-12-03T15:30
 title: 株式会社Foundationとの相談
 allDay: false
 startTime: 15:30

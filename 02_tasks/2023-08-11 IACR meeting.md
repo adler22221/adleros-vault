@@ -1,13 +1,16 @@
 ---
 created: 2023-08-11
 author: human
+type: task
+state: done
+scheduled: 2023-08-11T14:00
 title: IACR meeting
 allDay: false
 startTime: 14:00
 endTime: 15:30
 date: 2023-08-11
 completed: 2023-08-12T00:23:35.389+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

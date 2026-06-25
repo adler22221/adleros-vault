@@ -1,6 +1,9 @@
 ---
 created: 2025-02-16
 author: human
+type: event
+scheduled: 2025-02-16
+due: 2025-02-17
 title: UN Futures Fellow Application
 allDay: true
 date: 2025-02-16

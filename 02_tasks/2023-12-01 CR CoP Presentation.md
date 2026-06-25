@@ -1,6 +1,9 @@
 ---
 created: 2023-12-01
 author: human
+type: event
+state: done
+scheduled: 2023-12-01T12:00
 title: CR CoP Presentation
 allDay: false
 startTime: 12:00

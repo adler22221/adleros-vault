@@ -1,6 +1,10 @@
 ---
 created: 2023-05-26
 author: human
+type: task
+state: cancelled
+scheduled: 2023-05-26
+due: 2023-05-27
 title: consider and decide whether to sign up for Gerald Midgely's OR conference
   session
 allDay: true

@@ -1,6 +1,9 @@
 ---
 created: 2024-07-30
 author: human
+type: event
+state: done
+scheduled: 2024-07-30T13:30
 title: metaverse
 allDay: false
 startTime: 13:30

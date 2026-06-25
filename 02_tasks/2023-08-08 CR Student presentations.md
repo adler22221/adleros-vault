@@ -1,13 +1,16 @@
 ---
 created: 2023-08-08
 author: human
+type: task
+state: done
+scheduled: 2023-08-08T13:30
 title: CR Student presentations
 allDay: false
 startTime: 13:30
 endTime: 16:30
 date: 2023-08-08
 completed: 2023-08-08T17:29:54.484+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

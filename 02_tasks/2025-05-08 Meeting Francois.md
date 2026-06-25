@@ -1,6 +1,8 @@
 ---
 created: 2025-05-08
 author: human
+type: event
+scheduled: 2025-05-08T11:30
 title: Meeting Francois
 allDay: false
 startTime: 11:30

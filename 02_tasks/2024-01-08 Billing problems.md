@@ -1,13 +1,16 @@
 ---
 created: 2024-01-08
 author: human
+type: event
+state: done
+scheduled: 2024-01-08T00:30
 title: Billing problems
 allDay: false
 startTime: 00:30
 endTime: 02:00
 date: 2024-01-08
 completed: 2024-01-16T15:31:23.303+08:00
-type: single
+fc-type: single
 ---
 
 - [/] academia.edu

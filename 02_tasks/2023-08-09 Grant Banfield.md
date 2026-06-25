@@ -1,13 +1,16 @@
 ---
 created: 2023-08-09
 author: human
+type: task
+state: done
+scheduled: 2023-08-09T09:30
 title: Grant Banfield
 allDay: false
 startTime: 09:30
 endTime: 11:00
 date: 2023-08-09
 completed: 2023-08-09T14:02:55.947+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

@@ -1,6 +1,9 @@
 ---
 created: 2024-04-02
 author: human
+type: event
+state: done
+scheduled: 2024-04-02T15:00
 title: Meet with Chris
 allDay: false
 startTime: 15:00

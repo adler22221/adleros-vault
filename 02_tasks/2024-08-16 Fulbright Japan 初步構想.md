@@ -1,6 +1,8 @@
 ---
 created: 2024-08-16
 author: human
+type: event
+scheduled: 2024-08-16T06:30
 title: Fulbright Japan 初步構想
 allDay: false
 startTime: 06:30

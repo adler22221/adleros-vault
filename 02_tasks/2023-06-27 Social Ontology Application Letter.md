@@ -1,13 +1,17 @@
 ---
 created: 2023-06-27
 author: human
+type: task
+state: done
+scheduled: 2023-06-27T19:00
+due: 2023-06-28
 title: Social Ontology Application Letter
 allDay: false
 startTime: 19:00
 endTime: 06:00
 date: 2023-06-27
 completed: 2023-06-29T00:05:05.350+08:00
-type: single
+fc-type: single
 endDate: 2023-06-28
 status: 6_done
 ---

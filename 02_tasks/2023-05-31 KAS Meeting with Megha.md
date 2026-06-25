@@ -1,6 +1,9 @@
 ---
 created: 2023-05-31
 author: human
+type: task
+state: done
+scheduled: 2023-05-31T17:15
 title: KAS Meeting with Megha
 allDay: false
 startTime: 17:15

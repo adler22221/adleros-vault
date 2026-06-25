@@ -1,6 +1,9 @@
 ---
 created: 2024-11-27
 author: human
+type: event
+state: done
+scheduled: 2024-11-27T00:00
 title: Cabrera Lab interview
 allDay: false
 startTime: 00:00

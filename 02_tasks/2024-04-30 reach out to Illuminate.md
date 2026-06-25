@@ -1,12 +1,15 @@
 ---
 created: 2024-04-30
 author: human
+type: event
+state: done
+scheduled: 2024-04-30T15:00
 title: reach out to Illuminate
 allDay: false
 date: 2024-04-30
 endDate: null
 completed: 2024-05-01T00:13:16.530+08:00
-type: single
+fc-type: single
 startTime: 15:00
 endTime: 17:30
 ---

@@ -1,13 +1,16 @@
 ---
 created: 2023-10-26
 author: human
+type: event
+state: done
+scheduled: 2023-10-26T15:00
 title: Yuk Hui - Philosophy after Automation
 allDay: false
 startTime: 15:00
 endTime: 17:00
 date: 2023-10-26
 completed: 2023-10-27T01:20:52.101+08:00
-type: single
+fc-type: single
 ---
 
 

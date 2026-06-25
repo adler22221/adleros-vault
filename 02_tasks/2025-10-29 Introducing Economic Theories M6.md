@@ -1,6 +1,8 @@
 ---
 created: 2025-10-29
 author: human
+type: event
+scheduled: 2025-10-29T21:00
 title: Introducing Economic Theories M6
 allDay: false
 startTime: 21:00

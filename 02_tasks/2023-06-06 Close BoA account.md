@@ -1,11 +1,14 @@
 ---
 created: 2023-06-06
 author: human
+type: task
+state: done
+scheduled: 2023-06-06
 title: Close BoA account
 allDay: true
 date: 2023-06-06
 completed: false
-type: single
+fc-type: single
 endDate: null
 status: 6_done
 ---

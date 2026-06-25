@@ -1,6 +1,9 @@
 ---
 created: 2023-04-19
 author: human
+type: task
+state: done
+scheduled: 2023-04-19T18:00
 title: Meetup with Charles Tsai
 allDay: false
 startTime: 18:00
@@ -9,7 +12,7 @@ date: 2023-04-19
 completed: 2023-04-19T23:21:07.815+08:00
 priority: "4"
 status: 6_done
-type: single
+fc-type: single
 ---
 
 # Idea for collaboration

@@ -1,13 +1,16 @@
 ---
 created: 2023-08-07
 author: human
+type: task
+state: done
+scheduled: 2023-08-07T09:00
 title: Johnny Go 4 Pillars of CR
 allDay: false
 startTime: 09:00
 endTime: 10:30
 date: 2023-08-07
 completed: 2023-08-07T13:41:04.816+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

@@ -1,6 +1,9 @@
 ---
 created: 2023-04-17
 author: human
+type: task
+state: inbox
+scheduled: 2023-04-17T11:30
 title: Read Bhaskar's Dialectic
 allDay: false
 startTime: 11:30

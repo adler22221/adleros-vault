@@ -1,6 +1,8 @@
 ---
 created: 2024-09-12
 author: human
+type: event
+scheduled: 2024-09-12T22:00
 title: Echoing green
 allDay: false
 startTime: 22:00

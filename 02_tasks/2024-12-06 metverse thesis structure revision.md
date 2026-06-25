@@ -1,6 +1,8 @@
 ---
 created: 2024-12-06
 author: human
+type: event
+scheduled: 2024-12-06T18:30
 title: metverse thesis structure revision
 allDay: false
 startTime: 18:30

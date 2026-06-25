@@ -1,6 +1,8 @@
 ---
 created: 2025-11-08
 author: human
+type: event
+scheduled: 2025-11-08T10:30
 title: CUltural Typhoon Opening
 allDay: false
 startTime: 10:30

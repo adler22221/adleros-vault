@@ -1,6 +1,9 @@
 ---
 created: 2024-04-15
 author: human
+type: event
+scheduled: 2024-04-15
+due: 2024-03-21
 title: Illuminate network blog article
 allDay: true
 date: 2024-04-15

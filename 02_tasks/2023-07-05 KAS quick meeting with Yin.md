@@ -1,6 +1,9 @@
 ---
 created: 2023-07-05
 author: human
+type: task
+state: done
+scheduled: 2023-07-05T14:30
 title: KAS quick meeting with Yin
 allDay: false
 startTime: 14:30

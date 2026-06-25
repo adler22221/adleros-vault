@@ -1,6 +1,9 @@
 ---
 created: 2024-03-30
 author: human
+type: event
+state: done
+scheduled: 2024-03-30T14:30
 title: Marx’s Idea of Degrowth Communism in the Anthropocene
 allDay: false
 startTime: 14:30

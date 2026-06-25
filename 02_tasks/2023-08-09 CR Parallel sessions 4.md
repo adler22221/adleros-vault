@@ -1,13 +1,16 @@
 ---
 created: 2023-08-09
 author: human
+type: task
+state: done
+scheduled: 2023-08-09T16:00
 title: CR Parallel sessions 4
 allDay: false
 startTime: 16:00
 endTime: 17:30
 date: 2023-08-09
 completed: 2023-08-11T12:01:25.007+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

@@ -1,5 +1,0 @@
----
-created: 2026-06-16T23:57
-author: human
----
-

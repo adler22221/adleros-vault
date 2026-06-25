@@ -1,13 +1,16 @@
 ---
 created: 2023-05-18
 author: human
+type: task
+state: done
+scheduled: 2023-05-18T19:00
 title: da0 x web3forall 讀書會
 allDay: false
 startTime: 19:00
 endTime: 22:00
 date: 2023-05-18
 completed: 2023-05-18T21:52:18.921+08:00
-goals:
+goal:
   - Master's Degree
 status: 6_done
 ---

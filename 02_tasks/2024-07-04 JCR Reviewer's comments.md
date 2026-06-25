@@ -1,6 +1,8 @@
 ---
 created: 2024-07-04
 author: human
+type: event
+scheduled: 2024-07-04T13:00
 title: JCR Reviewer's comments
 allDay: false
 startTime: 13:00

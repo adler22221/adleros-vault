@@ -1,13 +1,16 @@
 ---
 created: 2023-04-25
 author: human
+type: task
+state: done
+scheduled: 2023-04-25T02:00
 title: CR abstract (at least bullet points)
 allDay: false
 startTime: 02:00
 endTime: 05:00
 date: 2023-04-25
 completed: false
-type: single
+fc-type: single
 status: 6_done
 ---
 

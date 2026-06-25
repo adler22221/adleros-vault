@@ -1,13 +1,17 @@
 ---
 created: 2023-07-05
 author: human
+type: task
+state: done
+scheduled: 2023-07-05T19:00
+due: 2023-07-06
 title: CR presentation prep (literature review)
 allDay: false
 startTime: 19:00
 endTime: 03:00
 date: 2023-07-05
 completed: 2023-07-10T14:10:18.471+08:00
-type: single
+fc-type: single
 endDate: 2023-07-06
 status: 6_done
 ---

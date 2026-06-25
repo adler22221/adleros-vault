@@ -1,6 +1,9 @@
 ---
 created: 2023-04-27
 author: human
+type: task
+state: done
+scheduled: 2023-04-27T01:30
 title: Ecoversities PPT
 allDay: false
 startTime: 01:30

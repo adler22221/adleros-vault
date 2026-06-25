@@ -1,6 +1,10 @@
 ---
 created: 2023-09-02
 author: human
+type: task
+state: done
+scheduled: 2023-09-02T22:00
+due: 2023-09-03
 title: Plurality article translation
 allDay: false
 startTime: 22:00

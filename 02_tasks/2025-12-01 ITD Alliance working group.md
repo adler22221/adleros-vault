@@ -1,6 +1,8 @@
 ---
 created: 2025-12-01
 author: human
+type: event
+scheduled: 2025-12-01T22:00
 title: ITD Alliance working group
 allDay: false
 startTime: 22:00

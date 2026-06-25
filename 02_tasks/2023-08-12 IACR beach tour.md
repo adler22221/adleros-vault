@@ -1,12 +1,16 @@
 ---
 created: 2023-08-12
 author: human
+type: task
+state: done
+scheduled: 2023-08-12
+due: 2023-08-14
 title: IACR beach tour
 allDay: true
 date: 2023-08-12
 endDate: 2023-08-14
 completed: 2023-08-14T21:23:48.340+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

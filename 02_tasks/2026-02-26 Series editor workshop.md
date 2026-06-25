@@ -1,6 +1,9 @@
 ---
 created: 2026-02-26
 author: human
+type: event
+scheduled: 2026-02-26T23:00
+due: 2026-02-27
 title: Series editor workshop
 allDay: false
 startTime: 23:00

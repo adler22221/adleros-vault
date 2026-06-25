@@ -1,6 +1,10 @@
 ---
 created: 2023-04-14
 author: human
+type: task
+state: done
+scheduled: 2023-04-14T12:50
+due: 2023-04-14
 title: KAS Meeting with Megha
 allDay: false
 startTime: 12:50
@@ -8,7 +12,7 @@ endTime: 14:00
 date: 2023-04-14
 completed: 2023-04-14T14:17:18.594+08:00
 status: 6_done
-context:
+contexts:
   - quiet
 people:
   - 蘇仰志
@@ -18,7 +22,7 @@ Project:
   - 雜學校
 endDate: 2023-04-14T00:00:00.000+08:00
 priority: "1"
-type: single
+fc-type: single
 ---
 
 pre-meeting:

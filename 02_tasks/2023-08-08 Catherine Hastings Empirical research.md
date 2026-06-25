@@ -1,6 +1,9 @@
 ---
 created: 2023-08-08
 author: human
+type: task
+state: done
+scheduled: 2023-08-08T11:00
 title: Catherine Hastings Empirical research
 allDay: false
 startTime: 11:00

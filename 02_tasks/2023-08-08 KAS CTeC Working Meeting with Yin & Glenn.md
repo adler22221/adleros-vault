@@ -1,13 +1,16 @@
 ---
 created: 2023-08-08
 author: human
+type: task
+state: done
+scheduled: 2023-08-08T17:30
 title: KAS CTeC Working Meeting with Yin & Glenn
 allDay: false
 startTime: 17:30
 endTime: 18:30
 date: 2023-08-08
 completed: 2023-08-09T01:09:05.225+08:00
-type: single
+fc-type: single
 Project:
   - KAS CTeC
 status: 6_done

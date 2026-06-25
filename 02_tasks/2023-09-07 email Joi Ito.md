@@ -1,12 +1,16 @@
 ---
 created: 2023-09-07
 author: human
+type: task
+state: todo
+scheduled: 2023-09-07
+due: 2023-09-08
 title: email Joi Ito
 allDay: true
 date: 2023-09-07
 endDate: 2023-09-08
 completed: 2023-09-08T15:44:25.168+08:00
-type: single
+fc-type: single
 status: 2_todo
 ---
 

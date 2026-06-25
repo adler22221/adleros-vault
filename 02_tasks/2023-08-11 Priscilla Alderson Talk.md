@@ -1,6 +1,9 @@
 ---
 created: 2023-08-11
 author: human
+type: task
+state: done
+scheduled: 2023-08-11T11:30
 title: Priscilla Alderson Talk
 allDay: false
 startTime: 11:30

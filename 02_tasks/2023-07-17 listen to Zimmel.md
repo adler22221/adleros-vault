@@ -1,6 +1,10 @@
 ---
 created: 2023-07-17
 author: human
+type: task
+state: done
+scheduled: 2023-07-17
+due: 2023-07-18
 title: listen to Zimmel
 allDay: true
 date: 2023-07-17

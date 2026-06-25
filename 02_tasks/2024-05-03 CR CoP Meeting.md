@@ -1,6 +1,9 @@
 ---
 created: 2024-05-03
 author: human
+type: event
+state: done
+scheduled: 2024-05-03T12:00
 title: CR CoP Meeting
 allDay: false
 startTime: 12:00

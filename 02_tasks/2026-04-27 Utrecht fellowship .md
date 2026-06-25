@@ -1,6 +1,9 @@
 ---
 created: 2026-04-27
 author: human
+type: event
+scheduled: 2026-04-27
+due: 2026-04-28
 title: Utrecht fellowship 
 allDay: true
 date: 2026-04-27

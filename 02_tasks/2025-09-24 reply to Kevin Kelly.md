@@ -1,6 +1,8 @@
 ---
 created: 2025-09-24
 author: human
+type: event
+scheduled: 2025-09-24T00:00
 title: reply to Kevin Kelly
 allDay: false
 startTime: 00:00

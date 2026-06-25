@@ -1,6 +1,9 @@
 ---
 created: 2025-01-26
 author: human
+type: event
+scheduled: 2025-01-26T20:00
+due: 2025-01-27
 title: PIBBSS final sprint
 allDay: false
 startTime: 20:00

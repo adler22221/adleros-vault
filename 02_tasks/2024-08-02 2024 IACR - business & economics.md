@@ -1,6 +1,9 @@
 ---
 created: 2024-08-02
 author: human
+type: event
+state: done
+scheduled: 2024-08-02T21:00
 title: 2024 IACR - business & economics
 allDay: false
 startTime: 21:00

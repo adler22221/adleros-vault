@@ -1,11 +1,14 @@
 ---
 created: 2023-11-04
 author: human
+type: event
+scheduled: 2023-11-04
+due: 2023-11-08
 title: Things to do before Japan
 allDay: true
 date: 2023-11-04
 completed: false
-type: single
+fc-type: single
 endDate: 2023-11-08
 ---
 

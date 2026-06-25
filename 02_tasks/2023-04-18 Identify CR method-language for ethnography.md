@@ -1,13 +1,16 @@
 ---
 created: 2023-04-18
 author: human
+type: task
+state: done
+scheduled: 2023-04-18T21:30
 title: Identify CR method-language for ethnography
 allDay: false
 date: 2023-04-18
 completed: 2023-04-19T00:41:47.053+08:00
 priority: "1"
 status: 6_done
-type: single
+fc-type: single
 endDate: null
 startTime: 21:30
 endTime: 23:30

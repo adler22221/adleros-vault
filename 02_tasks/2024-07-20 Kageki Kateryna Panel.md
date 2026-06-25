@@ -1,6 +1,8 @@
 ---
 created: 2024-07-20
 author: human
+type: event
+scheduled: 2024-07-20T17:00
 title: Kageki Kateryna Panel
 allDay: false
 startTime: 17:00

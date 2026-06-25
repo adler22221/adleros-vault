@@ -1,6 +1,8 @@
 ---
 created: 2024-06-02
 author: human
+type: event
+scheduled: 2024-06-02T15:00
 title: thoughts on Metaverse thesis
 allDay: false
 startTime: 15:00

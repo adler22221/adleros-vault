@@ -1,6 +1,9 @@
 ---
 created: 2026-04-16
 author: human
+type: event
+scheduled: 2026-04-16
+due: 2026-04-17
 title: IRE editor application
 allDay: true
 date: 2026-04-16

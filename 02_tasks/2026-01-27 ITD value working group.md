@@ -1,6 +1,8 @@
 ---
 created: 2026-01-27
 author: human
+type: event
+scheduled: 2026-01-27T16:00
 title: ITD value working group
 allDay: false
 startTime: 16:00

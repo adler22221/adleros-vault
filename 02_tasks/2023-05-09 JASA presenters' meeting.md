@@ -1,6 +1,9 @@
 ---
 created: 2023-05-09
 author: human
+type: task
+state: done
+scheduled: 2023-05-09T19:00
 title: JASA presenters' meeting
 allDay: false
 startTime: 19:00
@@ -8,7 +11,7 @@ endTime: 20:30
 date: 2023-05-09
 completed: 2023-05-14T02:37:44.452+08:00
 status: 6_done
-type: single
+fc-type: single
 ---
 
 - 国際ワークショップの登壇者へのお礼：

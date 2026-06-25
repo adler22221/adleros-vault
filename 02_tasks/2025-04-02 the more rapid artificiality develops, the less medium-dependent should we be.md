@@ -1,6 +1,8 @@
 ---
 created: 2025-04-02
 author: human
+type: event
+scheduled: 2025-04-02T02:00
 title: the more rapid artificiality develops, the less medium-dependent should we be
 allDay: false
 startTime: 02:00

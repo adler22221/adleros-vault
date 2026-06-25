@@ -1,6 +1,8 @@
 ---
 created: 2024-11-13
 author: human
+type: event
+scheduled: 2024-11-13T01:00
 title: Schumacher Institute - Why do we get stuck
 allDay: false
 startTime: 01:00

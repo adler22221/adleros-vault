@@ -1,6 +1,8 @@
 ---
 created: 2026-02-21
 author: human
+type: event
+scheduled: 2026-02-21T11:30
 title: PDC
 allDay: false
 startTime: 11:30

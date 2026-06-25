@@ -1,6 +1,8 @@
 ---
 created: 2026-06-15
 author: human
+type: event
+scheduled: 2026-06-15T09:00
 title: Priorities check in
 allDay: false
 startTime: 09:00

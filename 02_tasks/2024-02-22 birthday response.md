@@ -1,12 +1,16 @@
 ---
 created: 2024-02-22
 author: human
+type: event
+state: done
+scheduled: 2024-02-22
+due: 2024-02-23
 title: birthday response
 allDay: true
 date: 2024-02-22
 endDate: 2024-02-23
 completed: true
-type: single
+fc-type: single
 ---
 
 二十九歲生日當天發燒，雖然什麼都不能做，但趁機補眠休養，其實覺得是蠻身心舒暢的禮物。

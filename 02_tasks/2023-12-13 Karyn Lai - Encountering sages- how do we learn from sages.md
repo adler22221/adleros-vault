@@ -1,6 +1,8 @@
 ---
 created: 2023-12-13
 author: human
+type: event
+scheduled: 2023-12-13T18:00
 title: Karyn Lai - Encountering sages- how do we learn from sages
 allDay: false
 startTime: 18:00

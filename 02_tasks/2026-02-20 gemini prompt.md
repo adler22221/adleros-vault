@@ -1,6 +1,8 @@
 ---
 created: 2026-02-20
 author: human
+type: event
+scheduled: 2026-02-20T06:30
 title: gemini prompt
 allDay: false
 startTime: 06:30

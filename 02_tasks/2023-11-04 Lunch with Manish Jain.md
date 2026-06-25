@@ -1,13 +1,16 @@
 ---
 created: 2023-11-04
 author: human
+type: event
+state: done
+scheduled: 2023-11-04T13:30
 title: Lunch with Manish Jain
 allDay: false
 startTime: 13:30
 endTime: 15:00
 date: 2023-11-04
 completed: 2023-11-05T14:58:52.498+07:00
-type: single
+fc-type: single
 ---
 importance of reclaiming science 
 - Traditional knowledge has important insights on causality in which modern western science misses

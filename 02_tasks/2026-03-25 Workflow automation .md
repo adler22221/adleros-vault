@@ -1,6 +1,8 @@
 ---
 created: 2026-03-25
 author: human
+type: event
+scheduled: 2026-03-25T19:00
 title: Workflow automation 
 allDay: false
 startTime: 19:00

@@ -1,6 +1,9 @@
 ---
 created: 2023-09-26
 author: human
+type: event
+scheduled: 2023-09-26
+due: 2023-09-27
 title: Plan for Nov trip & flights
 allDay: true
 date: 2023-09-26

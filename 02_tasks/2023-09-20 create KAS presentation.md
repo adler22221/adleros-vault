@@ -1,13 +1,16 @@
 ---
 created: 2023-09-20
 author: human
+type: event
+state: done
+scheduled: 2023-09-20T16:30
 title: create KAS presentation
 allDay: false
 startTime: 16:30
 endTime: 23:30
 date: 2023-09-20
 completed: 2023-09-23T00:25:40.454+08:00
-type: single
+fc-type: single
 ---
 ![[Web キャプチャ_20-9-2023_125044_www.plectica.com.jpeg]]
 

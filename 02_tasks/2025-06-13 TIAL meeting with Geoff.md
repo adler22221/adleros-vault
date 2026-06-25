@@ -1,13 +1,15 @@
 ---
 created: 2025-06-13
 author: human
+type: event
+scheduled: 2025-06-13T14:30
 title: TIAL meeting with Geoff
 allDay: false
 startTime: 14:30
 endTime: 15:30
 date: 2025-06-13
 completed: null
-type: single
+fc-type: single
 ---
 
 

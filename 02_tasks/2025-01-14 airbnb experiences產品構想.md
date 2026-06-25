@@ -1,6 +1,8 @@
 ---
 created: 2025-01-14
 author: human
+type: event
+scheduled: 2025-01-14T03:30
 title: airbnb experiences產品構想
 allDay: false
 startTime: 03:30

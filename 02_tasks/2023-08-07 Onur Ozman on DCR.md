@@ -1,13 +1,16 @@
 ---
 created: 2023-08-07
 author: human
+type: task
+state: done
+scheduled: 2023-08-07T13:30
 title: Onur Ozman on DCR
 allDay: false
 startTime: 13:30
 endTime: 15:00
 date: 2023-08-07
 completed: 2023-08-07T21:49:58.052+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

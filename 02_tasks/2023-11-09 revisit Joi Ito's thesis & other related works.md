@@ -1,12 +1,15 @@
 ---
 created: 2023-11-09
 author: human
+type: event
+scheduled: 2023-11-09
+due: 2023-11-10
 title: revisit Joi Ito's thesis & other related works
 allDay: true
 date: 2023-11-09
 endDate: 2023-11-10
 completed: false
-type: single
+fc-type: single
 ---
 
 Dear 伊藤先生, Mikaさん & Daumさん

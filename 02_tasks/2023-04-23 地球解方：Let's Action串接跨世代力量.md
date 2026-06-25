@@ -1,13 +1,16 @@
 ---
 created: 2023-04-23
 author: human
+type: task
+state: done
+scheduled: 2023-04-23T13:00
 title: 地球解方：Let's Action串接跨世代力量
 allDay: false
 startTime: 13:00
 endTime: 18:30
 date: 2023-04-23
 completed: 2023-04-23T19:53:29.563+08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

@@ -1,6 +1,10 @@
 ---
 created: 2023-09-14
 author: human
+type: event
+state: done
+scheduled: 2023-09-14
+due: 2023-09-15
 title: Follow up Tarro
 allDay: true
 date: 2023-09-14

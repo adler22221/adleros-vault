@@ -1,12 +1,14 @@
 ---
 created: 2026-05-15
-author: human
-title: Ai career coach 
+author: ai
+type: event
+scheduled: 2026-05-15T02:00
+title: Ai career coach
 allDay: false
 startTime: 02:00
 endTime: 02:30
 date: 2026-05-15
-completed: null
+completed:
 ---
 This is a genuinely difficult crossroads, and you've asked for honesty without reservation. Here it is.
 

@@ -1,13 +1,16 @@
 ---
 created: 2023-08-07
 author: human
+type: task
+state: done
+scheduled: 2023-08-07T11:00
 title: Doug Porpora on 1st wave CR
 allDay: false
 startTime: 11:00
 endTime: 12:30
 date: 2023-08-07
 completed: 2023-08-07T13:41:03.099+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

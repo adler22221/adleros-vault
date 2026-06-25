@@ -1,6 +1,8 @@
 ---
 created: 2026-05-13
 author: human
+type: event
+scheduled: 2026-05-13T22:30
 title: Ai self critique 
 allDay: false
 startTime: 22:30

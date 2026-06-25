@@ -1,13 +1,16 @@
 ---
 created: 2023-06-05
 author: human
+type: task
+state: done
+scheduled: 2023-06-05T14:00
 title: KAS meeting with Megha
 allDay: false
 startTime: 14:00
 endTime: 20:00
 date: 2023-06-05
 completed: 2023-06-05T19:44:36.873+08:00
-type: single
+fc-type: single
 Project:
   - KASpaces
 status: 6_done

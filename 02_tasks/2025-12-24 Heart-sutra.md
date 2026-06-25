@@ -1,6 +1,8 @@
 ---
 created: 2025-12-24
 author: human
+type: event
+scheduled: 2025-12-24T14:00
 title: Heart-sutra
 allDay: false
 startTime: 14:00

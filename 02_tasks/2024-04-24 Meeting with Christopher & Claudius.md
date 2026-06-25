@@ -1,6 +1,9 @@
 ---
 created: 2024-04-24
 author: human
+type: event
+state: done
+scheduled: 2024-04-24T14:00
 title: Meeting with Christopher & Claudius
 allDay: false
 startTime: 14:00

@@ -1,13 +1,15 @@
 ---
 created: 2023-10-03
 author: human
+type: event
+scheduled: 2023-10-03T14:00
 title: Plurality Institute Application Draft
 allDay: false
 startTime: 14:00
 endTime: 15:00
 date: 2023-10-03
 completed: false
-type: single
+fc-type: single
 ---
 
 

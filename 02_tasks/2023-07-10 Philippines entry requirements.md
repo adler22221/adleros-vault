@@ -1,6 +1,9 @@
 ---
 created: 2023-07-10
 author: human
+type: task
+state: done
+scheduled: 2023-07-10T15:00
 title: Philippines entry requirements
 allDay: false
 date: 2023-07-10
@@ -8,7 +11,7 @@ endDate: null
 completed: 2023-07-10T15:24:16.000+08:00
 startTime: 15:00
 endTime: 15:30
-type: single
+fc-type: single
 status: 6_done
 ---
 

@@ -1,6 +1,9 @@
 ---
 created: 2023-06-27
 author: human
+type: task
+state: done
+scheduled: 2023-06-27T00:30
 title: Transfer all BoA money
 allDay: false
 startTime: 00:30

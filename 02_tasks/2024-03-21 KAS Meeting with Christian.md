@@ -1,6 +1,8 @@
 ---
 created: 2024-03-21
 author: human
+type: event
+scheduled: 2024-03-21T15:30
 title: KAS Meeting with Christian
 allDay: false
 startTime: 15:30

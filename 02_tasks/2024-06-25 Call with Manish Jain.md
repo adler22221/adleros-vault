@@ -1,6 +1,9 @@
 ---
 created: 2024-06-25
 author: human
+type: event
+state: done
+scheduled: 2024-06-25T15:30
 title: Call with Manish Jain
 allDay: false
 startTime: 15:30

@@ -1,6 +1,9 @@
 ---
 created: 2023-08-23
 author: human
+type: task
+state: done
+scheduled: 2023-08-23T01:30
 title: Email Jerry
 allDay: false
 startTime: 01:30

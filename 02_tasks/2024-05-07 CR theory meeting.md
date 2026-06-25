@@ -1,6 +1,9 @@
 ---
 created: 2024-05-07
 author: human
+type: event
+state: done
+scheduled: 2024-05-07T00:00
 title: CR theory meeting
 allDay: false
 startTime: 00:00

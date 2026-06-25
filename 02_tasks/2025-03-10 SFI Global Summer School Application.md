@@ -1,6 +1,9 @@
 ---
 created: 2025-03-10
 author: human
+type: event
+scheduled: 2025-03-10
+due: 2025-03-03
 title: SFI Global Summer School Application
 allDay: true
 date: 2025-03-10

@@ -1,6 +1,9 @@
 ---
 created: 2023-07-07
 author: human
+type: task
+state: done
+scheduled: 2023-07-07T12:00
 title: CR CoP Presentation
 allDay: false
 startTime: 12:00
@@ -8,7 +11,7 @@ endTime: 14:00
 date: 2023-07-07
 completed: 2023-07-10T14:10:20.191+08:00
 status: 6_done
-type: single
+fc-type: single
 ---
 
 Jerry Courvisanos:

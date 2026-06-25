@@ -1,6 +1,8 @@
 ---
 created: 2024-11-29
 author: human
+type: event
+scheduled: 2024-11-29T13:00
 title: The Standpoint of Heimatlosigkeit and the Planet
 allDay: false
 startTime: 13:00

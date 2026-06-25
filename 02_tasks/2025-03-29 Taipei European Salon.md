@@ -1,6 +1,8 @@
 ---
 created: 2025-03-29
 author: human
+type: event
+scheduled: 2025-03-29T19:00
 title: Taipei European Salon
 allDay: false
 startTime: 19:00

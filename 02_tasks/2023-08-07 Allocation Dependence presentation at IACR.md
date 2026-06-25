@@ -1,13 +1,16 @@
 ---
 created: 2023-08-07
 author: human
+type: task
+state: done
+scheduled: 2023-08-07T15:30
 title: Allocation Dependence presentation at IACR
 allDay: false
 startTime: 15:30
 endTime: 16:30
 date: 2023-08-07
 completed: 2023-08-07T21:49:53.790+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

@@ -1,13 +1,16 @@
 ---
 created: 2024-09-07
 author: human
+type: event
+state: done
+scheduled: 2024-09-07T12:00
 title: Zoey call about Blockchain research
 allDay: false
 startTime: 12:00
 endTime: 13:00
 date: 2024-09-07
 completed: 2024-09-11T00:31:19.621+08:00
-type: single
+fc-type: single
 ---
 
 ## 豆泥參考資料

@@ -1,6 +1,8 @@
 ---
 created: 2025-01-02
 author: human
+type: event
+scheduled: 2025-01-02T10:00
 title: thesis defense
 allDay: false
 startTime: 10:00

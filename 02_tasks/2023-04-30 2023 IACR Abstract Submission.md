@@ -1,13 +1,16 @@
 ---
 created: 2023-04-30
 author: human
+type: task
+state: done
+scheduled: 2023-04-30T18:30
 title: 2023 IACR Abstract Submission
 allDay: false
 date: 2023-04-30
 endDate: null
 completed: 2023-05-01T00:46:57.042+08:00
 status: 6_done
-type: single
+fc-type: single
 startTime: 18:30
 endTime: 22:00
 ---

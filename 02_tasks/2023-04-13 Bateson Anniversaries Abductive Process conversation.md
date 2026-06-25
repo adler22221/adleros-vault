@@ -1,6 +1,10 @@
 ---
 created: 2023-04-13
 author: human
+type: task
+state: done
+scheduled: 2023-04-13T16:00
+due: 2023-04-13
 title: Bateson Anniversaries Abductive Process conversation
 allDay: false
 startTime: 16:00
@@ -8,7 +12,7 @@ endTime: 18:00
 date: 2023-04-13
 completed: 2023-04-14T06:15:46.198+08:00
 status: 6_done
-context: ""
+contexts: ""
 people:
   - 北見秀司
 endDate: 2023-04-13T00:00:00.000+08:00

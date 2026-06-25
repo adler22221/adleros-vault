@@ -1,6 +1,9 @@
 ---
 created: 2023-07-31
 author: human
+type: task
+state: done
+scheduled: 2023-07-31T20:00
 title: Dinner with Dominic
 allDay: false
 startTime: 20:00

@@ -1,6 +1,10 @@
 ---
 created: 2023-09-20
 author: human
+type: event
+state: done
+scheduled: 2023-09-20
+due: 2023-09-21
 title: dispose chewing gum
 allDay: true
 date: 2023-09-20

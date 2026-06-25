@@ -1,11 +1,14 @@
 ---
 created: 2023-08-29
 author: human
+type: task
+state: done
+scheduled: 2023-08-29T11:30
 title: follow up with KAS
 allDay: false
 date: 2023-08-29
 endDate: 
-type: single
+fc-type: single
 startTime: 11:30
 endTime: 16:00
 completed: 2023-08-29T15:51:13.101+08:00

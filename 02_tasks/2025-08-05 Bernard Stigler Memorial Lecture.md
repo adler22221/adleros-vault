@@ -1,6 +1,8 @@
 ---
 created: 2025-08-05
 author: human
+type: event
+scheduled: 2025-08-05T20:00
 title: Bernard Stigler Memorial Lecture
 allDay: false
 startTime: 20:00

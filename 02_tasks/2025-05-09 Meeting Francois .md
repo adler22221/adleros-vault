@@ -1,6 +1,9 @@
 ---
 created: 2025-05-09
 author: human
+type: event
+scheduled: 2025-05-09
+due: 2025-05-10
 title: Meeting Francois 
 allDay: true
 date: 2025-05-09

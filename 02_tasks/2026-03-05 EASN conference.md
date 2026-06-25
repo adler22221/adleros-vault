@@ -1,6 +1,8 @@
 ---
 created: 2026-03-05
 author: human
+type: event
+scheduled: 2026-03-05T16:30
 title: EASN conference
 allDay: false
 startTime: 16:30

@@ -1,6 +1,8 @@
 ---
 created: 2025-01-18
 author: human
+type: event
+scheduled: 2025-01-18T01:00
 title: PIBBSS fellowship Q&A
 allDay: false
 startTime: 01:00

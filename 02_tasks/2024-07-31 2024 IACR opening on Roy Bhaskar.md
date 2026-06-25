@@ -1,13 +1,16 @@
 ---
 created: 2024-07-31
 author: human
+type: event
+state: done
+scheduled: 2024-07-31T16:00
 title: 2024 IACR opening on Roy Bhaskar
 allDay: false
 startTime: 16:00
 endTime: 18:00
 date: 2024-07-31
 completed: 2024-07-31T21:40:18.800+08:00
-type: single
+fc-type: single
 ---
 
 ![[Pasted image 20240731163300.png]]

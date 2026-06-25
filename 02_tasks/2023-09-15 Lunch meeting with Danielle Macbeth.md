@@ -1,6 +1,9 @@
 ---
 created: 2023-09-15
 author: human
+type: event
+state: done
+scheduled: 2023-09-15T12:00
 title: Lunch meeting with Danielle Macbeth
 allDay: false
 startTime: 12:00

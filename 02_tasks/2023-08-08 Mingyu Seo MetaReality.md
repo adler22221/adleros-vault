@@ -1,6 +1,9 @@
 ---
 created: 2023-08-08
 author: human
+type: task
+state: done
+scheduled: 2023-08-08T09:00
 title: Mingyu Seo MetaReality
 allDay: false
 startTime: 09:00

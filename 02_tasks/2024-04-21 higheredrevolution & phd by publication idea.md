@@ -1,6 +1,9 @@
 ---
 created: 2024-04-21
 author: human
+type: event
+scheduled: 2024-04-21
+due: 2024-04-22
 title: higheredrevolution & phd by publication idea
 allDay: true
 date: 2024-04-21

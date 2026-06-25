@@ -1,6 +1,8 @@
 ---
 created: 2023-11-09
 author: human
+type: event
+scheduled: 2023-11-09T10:30
 title: Meeting Joichi Ito
 allDay: false
 startTime: 10:30

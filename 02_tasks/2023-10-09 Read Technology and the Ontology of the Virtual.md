@@ -1,12 +1,16 @@
 ---
 created: 2023-10-09
 author: human
+type: event
+state: done
+scheduled: 2023-10-09T22:30
+due: 2023-10-10
 title: Read Technology and the Ontology of the Virtual
 allDay: false
 date: 2023-10-09
 endDate: 2023-10-10
 completed: 2023-10-10T03:06:16.463+08:00
-type: single
+fc-type: single
 startTime: 22:30
 endTime: 02:59
 ---

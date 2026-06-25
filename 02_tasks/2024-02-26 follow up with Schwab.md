@@ -1,6 +1,9 @@
 ---
 created: 2024-02-26
 author: human
+type: event
+state: done
+scheduled: 2024-02-26T22:00
 title: follow up with Schwab
 allDay: false
 startTime: 22:00

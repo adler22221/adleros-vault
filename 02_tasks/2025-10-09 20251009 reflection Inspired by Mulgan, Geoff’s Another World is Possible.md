@@ -1,6 +1,8 @@
 ---
 created: 2025-10-09
 author: human
+type: event
+scheduled: 2025-10-09T22:30
 title: 20251009 reflection
 allDay: false
 startTime: 22:30

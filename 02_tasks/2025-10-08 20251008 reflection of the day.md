@@ -1,13 +1,15 @@
 ---
 created: 2025-10-08
 author: human
+type: event
+scheduled: 2025-10-08T22:30
 title: 20251008 reflection of the day
 allDay: false
 startTime: 22:30
 endTime: 23:30
 date: 2025-10-08
 completed: null
-type: single
+fc-type: single
 ---
 
 

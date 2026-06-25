@@ -1,6 +1,8 @@
 ---
 created: 2025-10-28
 author: human
+type: event
+scheduled: 2025-10-28T18:00
 title: Recognising the Contributions of Integration Experts and Expertise-Value Project 
 allDay: false
 startTime: 18:00

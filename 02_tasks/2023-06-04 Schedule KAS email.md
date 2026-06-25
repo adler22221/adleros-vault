@@ -1,6 +1,9 @@
 ---
 created: 2023-06-04
 author: human
+type: task
+state: done
+scheduled: 2023-06-04T19:30
 title: Schedule KAS email
 allDay: false
 date: 2023-06-04
@@ -8,7 +11,7 @@ endDate: null
 completed: 2023-06-05T19:44:47.232+08:00
 startTime: 19:30
 endTime: null
-type: single
+fc-type: single
 Project:
   - KASpaces
 status: 6_done

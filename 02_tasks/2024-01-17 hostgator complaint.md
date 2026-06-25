@@ -1,6 +1,9 @@
 ---
 created: 2024-01-17
 author: human
+type: event
+state: done
+scheduled: 2024-01-17T19:30
 title: hostgator complaint
 allDay: false
 date: 2024-01-17
@@ -8,7 +11,7 @@ endDate: null
 completed: 2024-01-17T20:16:10.453+08:00
 startTime: 19:30
 endTime: null
-type: single
+fc-type: single
 ---
 
 [1. On November 20, 2020, with a discount, I subscribed to HostaGator's 'Shared Hatchling Plan' that cost $250.2, 'SiteLock Essentials' $23.88, and 'CodeGuard Basic Backup (1 GB)' $23.95. 

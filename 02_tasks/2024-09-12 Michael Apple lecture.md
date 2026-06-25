@@ -1,6 +1,9 @@
 ---
 created: 2024-09-12
 author: human
+type: event
+state: done
+scheduled: 2024-09-12T15:30
 title: Michael Apple lecture
 allDay: false
 startTime: 15:30

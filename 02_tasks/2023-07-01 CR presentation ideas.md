@@ -1,13 +1,16 @@
 ---
 created: 2023-07-01
 author: human
+type: task
+state: done
+scheduled: 2023-07-01T01:00
 title: CR presentation ideas
 allDay: false
 startTime: 01:00
 endTime: 02:30
 date: 2023-07-01
 completed: 2023-07-01T02:25:38.712+08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

@@ -1,6 +1,8 @@
 ---
 created: 2024-03-29
 author: human
+type: event
+scheduled: 2024-03-29T14:00
 title: Marx’s Methodological Dualism as a Foundation of Ecosocialist Realism
 allDay: false
 startTime: 14:00

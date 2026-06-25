@@ -1,6 +1,9 @@
 ---
 created: 2023-04-19
 author: human
+type: task
+state: done
+scheduled: 2023-04-19T21:30
 title: Walk back home
 allDay: false
 startTime: 21:30

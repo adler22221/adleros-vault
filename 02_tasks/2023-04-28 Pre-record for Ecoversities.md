@@ -1,13 +1,16 @@
 ---
 created: 2023-04-28
 author: human
+type: task
+state: done
+scheduled: 2023-04-28T00:30
 title: Pre-record for Ecoversities
 allDay: false
 startTime: 00:30
 endTime: 02:00
 date: 2023-04-28
 completed: 2023-04-28T13:56:50.745+08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

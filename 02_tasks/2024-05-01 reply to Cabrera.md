@@ -1,12 +1,15 @@
 ---
 created: 2024-05-01
 author: human
+type: event
+state: done
+scheduled: 2024-05-01T00:30
 title: reply to Cabrera
 allDay: false
 date: 2024-05-01
 endDate: 
 completed: true
-type: single
+fc-type: single
 startTime: 00:30
 endTime:
 ---

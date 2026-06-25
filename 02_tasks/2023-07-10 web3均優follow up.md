@@ -1,6 +1,9 @@
 ---
 created: 2023-07-10
 author: human
+type: task
+state: done
+scheduled: 2023-07-10T14:00
 title: web3均優follow up
 allDay: false
 date: 2023-07-10
@@ -9,7 +12,7 @@ completed: false
 status: 6_done
 startTime: 14:00
 endTime: null
-type: single
+fc-type: single
 ---
 
 

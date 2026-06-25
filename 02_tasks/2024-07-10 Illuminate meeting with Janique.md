@@ -1,6 +1,8 @@
 ---
 created: 2024-07-10
 author: human
+type: event
+scheduled: 2024-07-10T22:00
 title: Illuminate meeting with Janique
 allDay: false
 startTime: 22:00

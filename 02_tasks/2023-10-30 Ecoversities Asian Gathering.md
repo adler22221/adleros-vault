@@ -1,6 +1,8 @@
 ---
 created: 2023-10-30
 author: human
+type: task
+state: inbox
 ---
 
 

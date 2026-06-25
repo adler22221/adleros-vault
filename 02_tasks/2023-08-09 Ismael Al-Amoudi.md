@@ -1,13 +1,16 @@
 ---
 created: 2023-08-09
 author: human
+type: task
+state: done
+scheduled: 2023-08-09T14:00
 title: Ismael Al-Amoudi
 allDay: false
 startTime: 14:00
 endTime: 15:30
 date: 2023-08-09
 completed: 2023-08-11T12:01:21.667+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

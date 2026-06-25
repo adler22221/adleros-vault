@@ -1,6 +1,9 @@
 ---
 created: 2024-02-01
 author: human
+type: event
+scheduled: 2024-02-01
+due: 2024-02-02
 title: re-orient priorities
 allDay: true
 date: 2024-02-01

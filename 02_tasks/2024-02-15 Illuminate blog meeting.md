@@ -1,13 +1,16 @@
 ---
 created: 2024-02-15
 author: human
+type: event
+state: done
+scheduled: 2024-02-15T18:30
 title: Illuminate blog meeting
 allDay: false
 startTime: 18:30
 endTime: 19:30
 date: 2024-02-15
 completed: 2024-02-16T15:20:36.634+08:00
-type: single
+fc-type: single
 ---
 
 Please share the name of your institution or organisation and your focus area?: Awakening Cooperative Lab. Social systems and philosophy research, innovation, and education.

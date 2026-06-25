@@ -1,6 +1,9 @@
 ---
 created: 2023-06-19
 author: human
+type: task
+state: done
+scheduled: 2023-06-19T15:30
 title: KAS e-democracy followup
 allDay: false
 date: 2023-06-19
@@ -8,7 +11,7 @@ endDate: null
 completed: 2023-06-20T02:16:52.226+08:00
 startTime: 15:30
 endTime: 19:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

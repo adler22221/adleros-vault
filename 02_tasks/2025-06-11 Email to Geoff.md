@@ -1,6 +1,8 @@
 ---
 created: 2025-06-11
 author: human
+type: event
+scheduled: 2025-06-11T17:00
 title: Email to Geoff
 allDay: false
 startTime: 17:00

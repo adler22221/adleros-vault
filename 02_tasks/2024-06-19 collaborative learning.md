@@ -1,6 +1,9 @@
 ---
 created: 2024-06-19
 author: human
+type: event
+state: done
+scheduled: 2024-06-19T16:00
 title: collaborative learning
 allDay: false
 startTime: 16:00

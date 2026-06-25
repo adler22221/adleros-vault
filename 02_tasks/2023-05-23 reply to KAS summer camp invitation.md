@@ -1,6 +1,9 @@
 ---
 created: 2023-05-23
 author: human
+type: task
+state: done
+scheduled: 2023-05-23T15:30
 title: reply to KAS summer camp invitation
 allDay: false
 startTime: 15:30

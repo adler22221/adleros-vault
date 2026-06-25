@@ -1,6 +1,10 @@
 ---
 created: 2023-04-27
 author: human
+type: task
+state: done
+scheduled: 2023-04-27
+due: 2023-04-28
 title: Read Danermark et al
 allDay: true
 date: 2023-04-27

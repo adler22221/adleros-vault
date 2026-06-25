@@ -1,6 +1,9 @@
 ---
 created: 2023-05-25
 author: human
+type: task
+state: done
+scheduled: 2023-05-25T18:00
 title: KAS Dinner Meeting
 allDay: false
 startTime: 18:00
@@ -8,7 +11,7 @@ endTime: 21:00
 date: 2023-05-25
 completed: 2023-05-26T04:33:21.336+08:00
 status: 6_done
-type: single
+fc-type: single
 ---
 
 # Klein

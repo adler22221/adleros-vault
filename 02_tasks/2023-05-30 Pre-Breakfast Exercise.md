@@ -1,6 +1,9 @@
 ---
 created: 2023-05-30
 author: human
+type: task
+state: done
+scheduled: 2023-05-30T13:30
 title: Pre-Breakfast Exercise
 allDay: false
 startTime: 13:30

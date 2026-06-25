@@ -1,6 +1,8 @@
 ---
 created: 2023-09-10T00:17
 author: human
+type: task
+state: cancelled
 status: 7_cancelled
 ---
 

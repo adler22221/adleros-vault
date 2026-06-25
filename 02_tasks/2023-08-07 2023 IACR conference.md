@@ -1,12 +1,16 @@
 ---
 created: 2023-08-07
 author: human
+type: task
+state: done
+scheduled: 2023-08-07
+due: 2023-08-12
 title: 2023 IACR conference
 allDay: true
 date: 2023-08-07
 endDate: 2023-08-12
 completed: 2023-08-16T17:27:56.768+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

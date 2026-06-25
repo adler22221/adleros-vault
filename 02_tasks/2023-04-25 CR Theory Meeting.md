@@ -1,6 +1,9 @@
 ---
 created: 2023-04-25
 author: human
+type: task
+state: done
+scheduled: 2023-04-25T00:00
 title: CR Theory Meeting
 allDay: false
 startTime: 00:00

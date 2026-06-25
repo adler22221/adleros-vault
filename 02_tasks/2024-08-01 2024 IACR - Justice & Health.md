@@ -1,6 +1,9 @@
 ---
 created: 2024-08-01
 author: human
+type: event
+state: done
+scheduled: 2024-08-01T18:30
 title: 2024 IACR - Justice & Health
 allDay: false
 startTime: 18:30

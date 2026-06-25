@@ -1,6 +1,9 @@
 ---
 created: 2024-01-08
 author: human
+type: event
+state: done
+scheduled: 2024-01-08T13:00
 title: T-shirt design ideas
 allDay: false
 startTime: 13:00

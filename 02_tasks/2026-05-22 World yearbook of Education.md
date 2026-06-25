@@ -1,6 +1,8 @@
 ---
 created: 2026-05-22
 author: human
+type: event
+scheduled: 2026-05-22T07:00
 title: World handbook of Education 
 allDay: false
 startTime: 07:00

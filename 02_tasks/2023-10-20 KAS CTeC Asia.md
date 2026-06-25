@@ -1,12 +1,15 @@
 ---
 created: 2023-10-20
 author: human
+type: task
+state: waiting
+scheduled: 2023-10-20T10:30
 title: KAS CTeC Asia
 allDay: false
 date: 2023-10-20
 endDate: null
 completed: 2023-10-21T23:47:01.543+08:00
-type: single
+fc-type: single
 status: 4_waitingfor
 startTime: 10:30
 endTime: 13:00

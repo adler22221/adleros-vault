@@ -1,6 +1,10 @@
 ---
 created: 2023-07-25
 author: human
+type: task
+state: done
+scheduled: 2023-07-25
+due: 2023-07-26
 title: reply to KAS JP
 allDay: true
 date: 2023-07-25

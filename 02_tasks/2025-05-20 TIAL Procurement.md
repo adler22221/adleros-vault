@@ -1,6 +1,8 @@
 ---
 created: 2025-05-20
 author: human
+type: event
+scheduled: 2025-05-20T22:00
 title: TIAL Procurement
 allDay: false
 startTime: 22:00

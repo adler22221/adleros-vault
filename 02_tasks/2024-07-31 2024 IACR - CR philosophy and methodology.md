@@ -1,6 +1,9 @@
 ---
 created: 2024-07-31
 author: human
+type: event
+scheduled: 2024-07-31T22:30
+due: 2024-08-01
 title: 2024 IACR - CR philosophy and methodology
 allDay: false
 startTime: 22:30

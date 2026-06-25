@@ -1,6 +1,9 @@
 ---
 created: 2025-05-03
 author: human
+type: event
+scheduled: 2025-05-03
+due: 2025-05-04
 title: Email to Geoff Mulgan
 allDay: true
 date: 2025-05-03

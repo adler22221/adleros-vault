@@ -1,13 +1,16 @@
 ---
 created: 2024-09-16
 author: human
+type: event
+state: done
+scheduled: 2024-09-16T12:30
 title: Michael Apple Lecture
 allDay: false
 startTime: 12:30
 endTime: 14:30
 date: 2024-09-16
 completed: 2024-10-14T19:38:16.108+08:00
-type: single
+fc-type: single
 ---
 
 Difficult question:

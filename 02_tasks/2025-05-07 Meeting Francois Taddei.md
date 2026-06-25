@@ -1,6 +1,8 @@
 ---
 created: 2025-05-07
 author: human
+type: event
+scheduled: 2025-05-07T17:00
 title: Meeting Francois Taddei
 allDay: false
 startTime: 17:00

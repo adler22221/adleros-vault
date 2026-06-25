@@ -1,6 +1,9 @@
 ---
 created: 2023-08-01
 author: human
+type: task
+state: done
+scheduled: 2023-08-01T02:00
 title: Ju's birthday letter
 allDay: false
 date: 2023-08-01
@@ -8,7 +11,7 @@ endDate: null
 completed: 2023-08-01T14:15:35.660+08:00
 startTime: 02:00
 endTime: 08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

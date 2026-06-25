@@ -1,6 +1,8 @@
 ---
 created: 2025-08-29
 author: human
+type: event
+scheduled: 2025-08-29T10:00
 title: ISEAP presentation 
 allDay: false
 startTime: 10:00

@@ -1,6 +1,9 @@
 ---
 created: 2024-09-02
 author: human
+type: event
+scheduled: 2024-09-02
+due: 2024-09-03
 title: Message to Russ next time
 allDay: true
 date: 2024-09-02

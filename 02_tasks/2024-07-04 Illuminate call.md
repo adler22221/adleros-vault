@@ -1,6 +1,8 @@
 ---
 created: 2024-07-04
 author: human
+type: event
+scheduled: 2024-07-04T02:00
 title: Illuminate call
 allDay: false
 startTime: 02:00

@@ -1,6 +1,9 @@
 ---
 created: 2025-06-25
 author: human
+type: event
+scheduled: 2025-06-25
+due: 2025-06-26
 title: August Tokyo Event idea
 allDay: true
 date: 2025-06-25

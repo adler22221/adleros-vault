@@ -1,6 +1,8 @@
 ---
 created: 2025-10-08
 author: human
+type: event
+scheduled: 2025-10-08T18:00
 title: Reading Geoff Mulgan's The Art of Strategy
 allDay: false
 startTime: 18:00

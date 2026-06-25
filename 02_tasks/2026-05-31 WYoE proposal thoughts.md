@@ -1,6 +1,8 @@
 ---
 created: 2026-05-31
 author: human
+type: event
+scheduled: 2026-05-31T02:00
 title: WYoE proposal thoughts
 allDay: false
 startTime: 02:00

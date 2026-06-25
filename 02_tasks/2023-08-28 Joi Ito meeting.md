@@ -1,13 +1,16 @@
 ---
 created: 2023-08-28
 author: human
+type: task
+state: done
+scheduled: 2023-08-28T21:00
 title: Joi Ito meeting
 allDay: false
 startTime: 21:00
 endTime: 22:30
 date: 2023-08-28
 completed: 2023-08-29T17:34:35.204+08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

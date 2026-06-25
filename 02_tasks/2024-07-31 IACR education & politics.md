@@ -1,6 +1,9 @@
 ---
 created: 2024-07-31
 author: human
+type: event
+state: done
+scheduled: 2024-07-31T18:30
 title: IACR
 allDay: false
 startTime: 18:30

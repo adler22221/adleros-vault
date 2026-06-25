@@ -1,13 +1,16 @@
 ---
 created: 2023-09-11
 author: human
+type: event
+state: done
+scheduled: 2023-09-11T00:30
 title: thesis background learning plan
 allDay: false
 startTime: 00:30
 endTime: 03:30
 date: 2023-09-11
 completed: 2023-09-11T03:07:00.432+08:00
-type: single
+fc-type: single
 ---
 Hello, this is Bing. I’m glad you are interested in learning about the binary system and its philosophical implications.😊
 

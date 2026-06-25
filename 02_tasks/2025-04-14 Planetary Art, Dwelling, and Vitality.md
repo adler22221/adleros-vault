@@ -1,6 +1,8 @@
 ---
 created: 2025-04-14
 author: human
+type: event
+scheduled: 2025-04-14T20:00
 title: Planetary Art, Dwelling, and Vitality
 allDay: false
 startTime: 20:00

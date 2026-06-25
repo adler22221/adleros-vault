@@ -1,13 +1,16 @@
 ---
 created: 2023-06-20
 author: human
+type: task
+state: done
+scheduled: 2023-06-20T00:00
 title: CR theory meeting
 allDay: false
 startTime: 00:00
 endTime: 01:30
 date: 2023-06-20
 completed: 2023-06-20T02:16:16.319+08:00
-type: single
+fc-type: single
 status: 6_done
 ---
 

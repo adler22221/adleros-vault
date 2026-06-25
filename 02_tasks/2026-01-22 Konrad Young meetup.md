@@ -1,6 +1,8 @@
 ---
 created: 2026-01-22
 author: human
+type: event
+scheduled: 2026-01-22T13:00
 title: Konrad Young meetup
 allDay: false
 startTime: 13:00

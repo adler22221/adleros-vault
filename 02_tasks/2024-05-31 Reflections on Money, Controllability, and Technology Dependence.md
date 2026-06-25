@@ -1,6 +1,8 @@
 ---
 created: 2024-05-31
 author: human
+type: event
+scheduled: 2024-05-31T14:30
 title: Reflections on Money, Controllability, and Technology Dependence
 allDay: false
 startTime: 14:30

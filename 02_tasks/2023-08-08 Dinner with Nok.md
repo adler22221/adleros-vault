@@ -1,13 +1,16 @@
 ---
 created: 2023-08-08
 author: human
+type: task
+state: done
+scheduled: 2023-08-08T18:30
 title: Dinner with Nok
 allDay: false
 startTime: 18:30
 endTime: 20:00
 date: 2023-08-08
 completed: 2023-08-09T01:59:13.892+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

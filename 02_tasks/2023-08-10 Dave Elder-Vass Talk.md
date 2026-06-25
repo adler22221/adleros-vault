@@ -1,13 +1,16 @@
 ---
 created: 2023-08-10
 author: human
+type: task
+state: done
+scheduled: 2023-08-10T14:00
 title: Dave Elder-Vass Talk
 allDay: false
 startTime: 14:00
 endTime: 15:30
 date: 2023-08-10
 completed: 2023-08-11T12:01:23.510+08:00
-type: single
+fc-type: single
 Project:
   - IACR 2023
 status: 6_done

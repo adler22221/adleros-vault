@@ -1,6 +1,9 @@
 ---
 created: 2023-09-15
 author: human
+type: event
+state: done
+scheduled: 2023-09-15T14:00
 title: Danielle Macbeth lecture
 allDay: false
 startTime: 14:00

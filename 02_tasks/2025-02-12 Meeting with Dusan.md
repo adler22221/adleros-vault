@@ -1,6 +1,8 @@
 ---
 created: 2025-02-12
 author: human
+type: event
+scheduled: 2025-02-12T22:30
 title: Meeting with Dusan
 allDay: false
 startTime: 22:30

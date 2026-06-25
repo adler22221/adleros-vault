@@ -1,6 +1,8 @@
 ---
 created: 2026-05-24
 author: human
+type: event
+scheduled: 2026-05-24T01:30
 title: 午夜夢醒
 allDay: false
 startTime: 01:30

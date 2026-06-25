@@ -1,6 +1,9 @@
 ---
 created: 2025-05-24
 author: human
+type: event
+scheduled: 2025-05-24
+due: 2025-05-25
 title: gitbook website
 allDay: true
 date: 2025-05-24

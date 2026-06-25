@@ -1,6 +1,9 @@
 ---
 created: 2025-10-30
 author: human
+type: event
+scheduled: 2025-10-30
+due: 2025-10-31
 title: reflections
 allDay: true
 date: 2025-10-30

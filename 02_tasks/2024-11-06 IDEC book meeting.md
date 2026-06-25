@@ -1,6 +1,8 @@
 ---
 created: 2024-11-06
 author: human
+type: event
+scheduled: 2024-11-06T18:00
 title: IDEC book meeting
 allDay: false
 startTime: 18:00

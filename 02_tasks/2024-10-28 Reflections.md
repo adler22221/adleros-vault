@@ -1,13 +1,15 @@
 ---
 created: 2024-10-28
 author: human
+type: event
+scheduled: 2024-10-28T15:00
 title: Reflections
 allDay: false
 startTime: 15:00
 endTime: 16:00
 date: 2024-10-28
 completed: null
-type: single
+fc-type: single
 ---
 
 Study [[sociology of knowledge and science]] to find strategies & leverage for influence 
