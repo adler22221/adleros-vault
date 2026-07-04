@@ -27,14 +27,15 @@ summary: "Master tracker for round-2 outreach (reconnection campaign) + replies 
 | 6 | 佐藤春吉 | Gmail | reconnect (fresh) | **DRAFT, unsent** (still in Gmail Drafts) |
 | 7 | 梶原はづき | Gmail | reconnect reply | **SENT 6/25 → 梶原 replied 6/25** ⚠️ your reply needed (Tokyo meet + book) |
 | 8 | Geoff + Caio — reply | Gmail | reply to "Many thanks" | **SENT** (draft no longer in Drafts) — Aug session agreed; Caio logistics |
-| 9 | 広井良典 — reply to his decline | Gmail | reply | **drafted (below); ready to send** — not yet a Gmail draft |
+| 9 | 広井良典 — reply to his decline | Gmail | reply | **SENT 6/29 → 広井 replied; meeting SET 7/22 ~13:00 Tokyo (tentative)**; 広井 gave 片山's contact + blessing |
 | 10 | Douglas Porpora — reply | Gmail | reply | **SENT 6/29** — Doug reads ~September |
+| 11 | 片山博文 — cold intro (via 広井) | Gmail | fresh (cc 広井) | **Gmail draft created 7/2; ready** — attach 2-page summary; confirm SFI program name |
 
 > **Round-1 (in [[outreach-emails_2026-06-18]]):** Al-Amoudi — SENT 6/21, awaiting reply · Porpora → see #10 · Banfield — **not sent** (deprioritized; only on the CR-CoP broadcast list) · Tang — pending (no address) · Mulgan → see #5/#8.
 >
 > **⚠️ Action surfaced by the Gmail check — 梶原 replied 6/25.** She can't do 7/11–12, is free *after* the conference except **7/14 (Tue) & 7/18 (Sat)**, and offered to meet in **Tokyo** + hand over the book copy in person. You're in Japan ~7/25–27 (possibly to 8/11) → needs a reply to fix a date.
 >
-> **Japan-trip meeting convergence:** three contacts now point at the same window — **広井** (Kansai, late July, if back from Kyushu — #9), **梶原** (Tokyo, late July/early Aug), **片山博文** (at the 桜美林 conference, 7/11–12). One trip, three possible meetings — lock the itinerary so the asks don't collide.
+> **Japan-trip meetings (updated 7/2):** **広井 — SET, 7/22 ~13:00 Tokyo** (tentative). **梶原 — Tokyo, late July/early Aug** (⚠️ awaiting your reply; free except 7/14 & 7/18). **片山 — emailed (#11); offered 7/13–21 Kanto or at the conference.** Your window: conference 7/11–12 (桜美林) → 7/13–21 Kanto → 7/22 Tokyo (広井) → 7/25 Kansai (立命館) → home ~7/27 (latest 8/11). Lock it so the meet-asks don't collide.
 >
 > **Gmail-search caveat:** the connector's thread view truncates long threads to early messages, so #5/#8 "sent" is inferred from those drafts no longer being in Drafts (the 梶原 #7 and Doug #10 sends were directly visible). Confirm #8 (Geoff) in Gmail if you want certainty.
 

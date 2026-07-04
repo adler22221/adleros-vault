@@ -1,0 +1,198 @@
+---
+tags: [global-audit, agent-out]
+date: 2026-07-04
+source: "C:\Users\adler-standard\Documents\_AI agents\global-audit\01_methodology\memo\methodology-memo.md"
+---
+
+# Methodology Memo — Global Personal-Data Audit
+
+**Status:** APPROVED at Gate 0 (plan-mode review with amendments, Adler Yang) · **Version:** 1.1 · **Date:** 2026-07-04
+**Companion artifacts:** `codebook\codebook.yaml`, `codebook\coding-manual.md`, `codebook\schemas\{record,coded_segment,claim}.schema.json`
+**Citation convention in this memo:** (RQx §Section) refers to the verified research briefs in `01_methodology\research\`. Web sources are cited there, not re-cited here. RQ7–RQ9 briefs added in v1.1.
+
+---
+
+## 1. Ontological frame
+
+This audit adopts critical realism's stratified ontology (RQ2 §Findings 1–2) as its load-bearing structure. The three strata are kept in three separate columns at every pipeline stage — never collapsed:
+
+| CR stratum | Definition | In this audit | Carrying artifact |
+|---|---|---|---|
+| **Empirical** | What was captured and noticed | **Trace records**: rows in `records.jsonl`, summaries, quotes, self-authored statements as written | `record.schema.json`; coded segments on single records |
+| **Actual** | Events/states that occurred, whether or not captured — necessarily larger than the empirical | **Behavioral/event patterns**: calendar/transaction/health/location aggregates, cross-record demi-regularities, dateable switches | `metrics` fields; contrastive demi-regularity statements (RQ2 §Deliverable step 2) |
+| **Real** | Dispositions, structures, mechanisms whose causal powers generate actual events | **Retroduced constructs**: e.g. a self-presentation strategy, a deadline-as-decision mechanism, a capacity constraint | `claims.jsonl` entries with `cr_stratum: real` — admissible only via the retroduction loop (§5) |
+
+Standing rules. (a) Every record notes the inferential gap between what was captured and what is inferred to have happened (RQ2 §Deliverable step 1). (b) **Absence of trace is never coded as absence of behavior** — the actual stratum is larger than the empirical by construction; this is the formal home of trace-availability bias (§9). (c) Real-stratum claims cannot be asserted directly from any record; they exist only as outputs of the retroduction loop with rivals considered.
+
+The persona's three layers map onto the strata: **espoused** = empirical-stratum content of self-authored artifacts (essays, vision notes, public web); **enacted** = actual-stratum event patterns (calendars, logs, transactions); **implicit** = real-stratum mechanisms, retroduced especially where espoused and enacted diverge. The espoused–enacted gap is therefore not noise to reconcile but the primary retroduction input (plan §Recon; RQ2 §Finding 9).
+
+**Scope boilerplate (mandatory on every claim):** "This finding supports internal, within-case explanation only; it is not a claim about people in general" (RQ2 §Finding 11). Because no cross-case comparison exists, within-case contrasts (periods, platforms, languages, domains) are the required comparison sets.
+
+## 2. Lens definitions
+
+Seven lenses operate over the corpus: five per-segment coding lenses run in parallel; two v1.1 additions follow restricted activation rules stated in their entries. Each entry states what the lens sees, what it is blind to, and its provenance status — the last carried verbatim into the codebook.
+
+**dsrp** (RQ3 §Findings 1–3, §Deliverable A). Sees the subject's *thinking structure in his own language*: boundary-drawing (identity/other), part-whole framing, asserted causal/feedback relationships, and marked vantage points. Hard gate: a code applies only if the pattern's **co-implication pair** (both poles) is present or unambiguously inferable — never because the coder *could* redescribe the text systemically. Blind to: temporal dynamics, enacted behavior, motive; anything not textually present. Status: a borrowed heuristic from systems-thinking pedagogy with a thin, largely self-published evidence base and **no published inter-rater coding manual** (RQ3 §Finding 2) — this audit authors and reliability-tests its own operationalization.
+
+**vmcl** (RQ3 §Findings 4–5, §Deliverable B). Sees goal architecture: end-states (Vision), recurring practices (Mission), resource states and trade-offs (Capacity), and closed feedback loops (Learning) — the direct scaffold for the nine capacital systems. Disambiguation gate: the **calendar test** (schedulable as a discrete action → Mission, not Vision). Blind to: whether espoused visions are enacted (requires cross-lens triangulation); latent motives. Status: **no validated import exists** — no peer-reviewed operationalization of VMCL as a qualitative coding instrument was found (RQ3 §Finding 5, corrected); this is a first-of-kind n=1 adaptation and is labeled as such in the codebook.
+
+**sd-attractors** (RQ3 §Findings 6–11, §Deliverable C). Sees temporal regimes, regime shifts, early-warning signals (rising lag-1 autocorrelation/variance, slowed recovery), and recurrence in dense time series (calendar load, health, finance, journaling cadence). Blind to: meaning and content; unreliable on sparse/irregular sampling. Constraints inherited whole: population thresholds cannot be imported (Molenaar non-ergodicity, RQ3 §Finding 9); windows under ~6–8 weeks of near-daily data are exploratory only; **no single indicator suffices — ≥2 independent signal types (one quantitative, one qualitative/corroborating) before "regime" language is used**; "attractor" is a structured metaphor, not a claimed mathematical object (RQ3 §Finding 11). Status: exploratory import from ecology/physiology; not validated on personal digital traces.
+
+**retroduction** (RQ2 §Findings 2–8). Sees candidate generative mechanisms behind demi-regularities, via C-M-O (context–mechanism–observation) tagging (RQ2 §Finding 8). The **only lens licensed to feed real-stratum claims.** Blind spot named honestly: underdetermination — a retroduced mechanism is only the best of the rivals actually generated, never proven (RQ2 §Finding 10); hence the mandatory ≥2-rival gate (§5). Coding stance is Fletcher's flexible-deductive: a-priori codes, emergent additions logged as such.
+
+**jtbd-thickdata** (RQ1 §Findings 4, 9, 11). Sees jobs (progress sought in a circumstance), desired outcomes, struggle moments, workarounds, and hire/fire switches decomposable by the four forces (push/pull/anxiety/habit). Thick-data discipline: quantitative trace metrics are paired with short first-person annotations, each flagged **same-day vs. reconstructed** (RQ1 §Finding 4) — for switches identified retrospectively in Phase 2, the four-forces self-interview is folded into the member-check questionnaire with the elapsed time logged as a confidence variable. Blind to: hindsight bias and narrative smoothing on retrospective motive. Status: **JTBD self-applied by the subject-researcher has no located precedent** (RQ1 §Finding 9) — this audit's own convention.
+
+**cld-leverage** (RQ7 §Findings 1–10, §Deliverable). Sees the *causal-structural explanation* of habitual/recurring patterns: evidenced links with polarity, closed reinforcing/balancing loops, delays, Senge-archetype matches, and Meadows-level leverage candidates for shifting limiting loops relative to stated ideal states. **Activation gate:** loop candidates open only from SDA-coded temporal recurrences or RET-01 demi-regularities — never cold-read from narrative. **Applicability gate (the subject's own condition):** the subject is not a cybernetic machine; most life episodes are *not* loop-shaped — a one-off narrative cause remains the default rival unless the repetition/traversal criteria are met (RQ7 §Finding 9, §Deliverable 2). Archetype tags apply only *after* the loops independently pass those criteria — story-pattern resemblance never licenses weak link evidence. Blind to: one-off events; meaning outside causal structure; anything without corpus repetition. Loops feed retroduction as named mechanism candidates — never bypassing the ≥2-rival gate or C1 floor. Status: text-based CLD construction has published precedent (Kim & Andersen 2012; Eker & Zimmermann 2016; Newberry & Carhart 2024), but **no published minimum-evidence standard for asserting a loop exists, and no located application is n=1/personal-trace** (RQ7 §Findings 4, 9) — the both-links + stated-polarity + ≥1-observed-traversal rule is this audit's own convention. Meadows' hierarchy is used as she labeled it — "tentative," "slithery" — hypotheses, not a validated ranking; level 1–3 recommendations are labeled **aspirational**, never confidence-tiered.
+
+**simple-rules** (RQ8 §Findings 1–8, §Deliverable). Sees recurring condition-action policies driving the self-organization of the subject and the systems he forms or joins (intentionally or not): candidate rules-in-use, espoused rules, espoused-vs-in-use conflicts, enabling/limiting judgments, and maintain/revise/retire proposals tied to desired emergence. **Not a sixth per-segment pass:** a synthesis-time template operating on clusters of already-coded segments after first-pass coding is substantially complete (RQ8 §Deliverable). The phrasing standard is Argyris & Schön's theory-in-use formula ("in situation S, if I want C, I do A, given a1…an"); their espoused-theory / theory-in-use distinction is the formal bridge to this audit's espoused/enacted framing: **RUL-03 (rule conflict) is the audit's most direct named instrument for the espoused–enacted gap.** Blind to: single instances however striking; motives beyond the stated governing-variable hypothesis. Status: Argyris & Schön (1974), Sull & Eisenhardt (2012/2015), Eoyang (CDE/simple-rules; secondary-source provenance, moderate confidence), and Cabrera's CAS framing inform it, but **n=1 retrospective rule detection from trace data has no published precedent** (RQ8 §Finding 8); the ≥3-instances/≥2-contexts floor and held-out-instance check are this audit's own conventions.
+
+## 3. Sampling doctrine
+
+Three corpus-size classes (RQ1 §Deliverable; plan §Phase 1):
+
+| Class | Definition | Protocol |
+|---|---|---|
+| **F — Full** | ≤ ~600 records, or designated high-persona-value regardless of size (research vault ~515, fellowship essays, adlerOS system designs, public web); **gemini-perplexity chat histories (320 conversations: family conflicts, relationships, career, challenges, health — the densest recent self-documentation, per the subject's Gate 0 instruction)**; **Obsidian 2ndbrain (3,181) — full read incl. 01_journal + 99_private (v1.1 amendment; below)**; **public-presence web audit (v1.1 amendment; below)** | 100% read and eligible for coding; for gemini-perplexity, 100% read of **the subject's own turns** (user-turns-only rule below) |
+| **S — Stratified** | ~600–10,000 records (Gmail; Drive — **S+ per v1.1 amendment: census plus portfolio-assets extraction (below)**; Claude sessions) | Census (T1 metadata) at 100%; content sampled by **folder/label × year × language** strata; default rate 10–15% with a minimum of 5 records per non-empty stratum; Gmail per plan: top 15 labels × 10 threads |
+| **C — Census/aggregate-only** | >10,000 (Zotero 8,247: census + collection-level topical profile) and **all T3 sources** | Local scripts emit statistics/aggregates only. (v1.1 amendment: journals are reclassified T3→T2-reflections and move to class F — see below; the former ≤60-entry journal sampling rule is superseded) |
+
+**Perplexity prioritization + Obsidian complementarity (v1.1, subject's instruction).** The gemini-perplexity corpus moves to class F. If volume forces sampling despite the F designation, the priority order is fixed: (1) the subject's named spaces — **Career coach, Work automation system, Cardio disease** — at 100%; (2) all remaining conversations from the **last 12 months**; (3) the older remainder, sampled at S-class defaults stratified by space × quarter. The two densest self-documentation sources are treated as complements, not substitutes: **Perplexity is the dense *recent* cross-section** (high detail, short time base); **Obsidian 2ndbrain is the *longitudinal backbone*** (long time base, less recent density), class F per the amendment below. Claims about the recent self preferentially cite Perplexity-era evidence; trajectory claims cite Obsidian strata; divergence between the two is treated as signal for the espoused/enacted analysis, never averaged away.
+
+**User-turns-only rule (v1.1, subject's instruction, encoded as `evidence_scope` in `record.schema.json`).** In every chat source (gemini-perplexity, claude-sessions, ai-session-exports), **only the subject's own turns are evidence**; AI-assistant turns are context units — consultable for disambiguation, never coded, never quoted as evidence of the subject's states ("AI responses do not reflect my real conditions"). One exception, logged not assumed: the subject's **uptake** of AI advice is enacted-stratum evidence, recorded with `evidence_scope: mixed_with_ai_context` and the AI's contribution explicitly attributed (manual §Example 6).
+
+**Obsidian full read + journal reclassification (v1.1 amendment; explicit overrule 2026-07-04).** The 2ndbrain vault is class F: full read of everything, **including `01_journal` and `99_private`** (key reflections and communication logs). Journals/private notes reclassify **T3 → "T2-reflections"**: full content read; summaries and quotes ≤240 chars permitted. Safeguards: (i) third-party role-tagging (§8) stays mandatory in outputs; (ii) journal quotes appear **only in member-check materials**, never vault-published without per-item OK. IP-class vault folders route per §8's training-ingestion rule.
+
+**Google Drive S+ (v1.1 amendment).** Census 100% retained, **plus** portfolio-assets extraction: full read of decks, org docs, publications, and deliverables → structured `portfolio-assets.jsonl` (achievement, date, type, evidence path, capital type: financial/cultural/social/symbolic), feeding bizdev/career/outreach systems.
+
+**Public-presence web audit (v1.1 amendment, new F-class source).** Web search across the subject's three names — Adler Yang / 楊逸帆 / アドラー・ヨウ — analyzing public value and current status (citations, mentions, talks, press). **Disambiguation:** exclude the 大紀元 reporter and the 北科大/通訊科技 engineering author (different persons named 楊逸帆); positive markers: education innovation, Awakening, 學習的理由/documentary, systems thinking.
+
+**Language stratification (EN/ZH/JA).** `lang` is a required record field. Sampling quotas guarantee that no language present at ≥5% of a stratum falls below 15% of that stratum's sample; per-language reliability is reported separately (§6). Rationale: coder models and the orchestrator are strongest in English; unstratified sampling would silently anglicize the persona (§9).
+
+**Recency weighting.** Enacted-pattern (actual-stratum) claims default to a 24-month evidence window (plan: gcal aggregation). Older strata are sampled at reduced rate but **never zero** — historical material supports historical claims. The enforcement mechanism is `time_validity` on every claim: evidence from 2021 cannot assert the 2026 self; a claim's assertion period may not exceed its evidence period.
+
+**Dual segmentation (mandatory).** Because segmentation choice determines which sub-selves become visible (RQ1 §Finding 3), Phase 2 runs at least two independent cuts of the same corpus — a **temporal** cut (by year/period) and a **domain/platform** cut (by source/life-domain) — and files a written divergence note in `03_analysis\` rather than silently resolving to one scheme (RQ1 §Deliverable shortlist 1).
+
+## 4. Coding procedure (mechanical, per document)
+
+Executed by lens-coder agents (sonnet) under these steps; deviation is a logged exception (RQ4 §Deliverable; RQ3×RQ4 §Deliverable):
+
+1. **Preflight.** Load `codebook.yaml` (pinned version) and the assigned lens only. The prompt contains the codebook and the record — **never any persona hypothesis, prior claim, or expected pattern** (hypothesis blinding; RQ4 §Findings 5–6).
+2. **Read the record** from its source's `records.jsonl`. Respect tier: T3 records expose only `metrics`/`summary` aggregates; there is no raw text to read.
+3. **Evidence-scope check (chat sources).** For `chat_convo`/`transcript` records, verify `evidence_scope`. Recording units are drawn from the subject's turns only; AI turns are context units (§3). A segment whose evidence is an AI turn is a validator error, not a judgment call. Uptake-of-advice segments require `evidence_scope: mixed_with_ai_context` on the record and an attribution clause in the rationale.
+4. **Segment first, code second** (RQ3×RQ4 §Deliverable C.1). Unitize per the recording-unit table in the codebook: chat = one message; journal/long-form = one paragraph; calendar = one event (a day/week is a context unit, never a recording unit); document/post = one paragraph or whole short post. Splits/joins beyond defaults require a one-line logged rationale. Threads, surrounding days, and adjacent entries are **context units** — consultable for disambiguation, never themselves coded.
+5. **Apply inclusion tests verbatim.** A code applies only if *every* inclusion criterion passes and *no* exclusion criterion fires. Boundaries may not be stretched to make a code fit. Multiple codes may co-occur on one unit (DSRP codes especially).
+6. **Emit one `coded_segment` JSON per code applied**, validating against `coded_segment.schema.json`: `segment_id`, `record_id`, `code_id`, `locator`, `citation` in `[src:<source_id>#<doc_ref>@<locator>]` form, `rationale` ≤300 chars **naming the specific inclusion criterion met**, `coder_model`.
+7. **T3 discipline.** Segments on T3 records cite aggregate rows/metrics via `locator`; no quoted content anywhere (validator hard-fails).
+8. **Context hygiene.** Process records in bounded batches; never load more than one source's `records.jsonl`; long corpora are chunked because within-context consistency degrades with length (RQ4 §Finding 8).
+9. **No-code is the default outcome.** A record yielding zero segments is normal and is not re-read to "find something."
+10. **Filenames and titles are evidence (v1.1 amendment, from a Gate-1 member-check).** A document's filename/title is a first-class datum — in this trilingual, meticulously-labelled corpus it often carries the canonical institutional context that the body never repeats (e.g. a government sponsor named only in the filename). An entity that appears **only** in the filename/title is a real **context/label entity** whose *role* is uncertain, not a fabrication: code it with the role marked as inferred-from-title and route it to member-check for role confirmation — **never delete it as unsupported**. Deleting filename-derived entities would systematically erase legitimate institutional connections (symbolic/social capital) that live in the labels. Distinguish three cases in the rationale: *stated-in-body* (full confidence), *stated-in-title-only* (entity real, role inferred → member-check), *coder-inferred-from-neither* (the only true fabrication risk → do not code).
+
+## 5. Retroduction loop
+
+The mandatory adjudication procedure for any claim above C1, and the only path to real-stratum claims. Adopted whole from (RQ2 §Deliverable), verdict vocabulary harmonized with RQ6 and the C1–C5 scale:
+
+1. **Empirical anchoring** — log what was captured vs. what is inferred; exit: record with source, timestamp, capture method, inferential-gap note.
+2. **Demi-regularity detection (contrastive)** — "in N of M instances, X rather than Y," comparison set defined, counter-instances named. "Always/never" banned unless the set is exhaustive.
+3. **Analytical resolution** — decompose into ≥2 dimensions (timing, audience, platform, register, language, valence); name the target dimension.
+4. **Retroduction** — generate **≥2 rival candidate mechanisms**, each phrased at the real stratum (disposition/structure), not a restatement of the event. Single-candidate output = step fails, claim stays C1.
+5. **Retrodiction** — for each candidate, derive checkable implications, ideally ≥1 **discriminating** implication that would not hold under rivals. (Terminology fixed once, per RQ2 §Finding 3: retroduction = hypothesis generation; retrodiction = backward application to specifics.)
+6. **Rival elimination** — check implications against the record; rank candidates with 1–2-sentence justifications; losers explicitly down-weighted with stated reasons (Thagard-style comparison, corrected term list per RQ2 §Finding 6).
+7. **Verdict + concretisation** — emit the claim (`claim.schema.json`) with surviving mechanism, confidence, named disconfirming evidence that would overturn it, `time_validity`, and the within-case scope note.
+
+**Verdict harmonization** (RQ2 tiers × RQ6 verdicts × C-scale):
+
+| RQ2 tier | RQ6 refutation verdict | C-scale outcome | disconfirmation_status |
+|---|---|---|---|
+| Speculative | gate not met / pass not run | C1 (floor) | `pending` / `not_required` |
+| Plausible | survives with live rival or added boundary condition; member-check "Nuance" | C2–C3 (capped at C3) | `completed_weakened` |
+| Confirmed | survives devil's advocate + rivals + counter-searches | C4 | `completed_supported` |
+| — | Refuted | claim **withdrawn**, logged, never silently dropped | `completed_refuted` |
+| — | member-check "Confirm" | C5 | (post-Phase-3) |
+
+## 6. Reliability protocol
+
+**Design** (RQ4 §Deliverable A–C, adapted to this program's tiered-model plan):
+
+- **Sample:** 100 segments double-coded (plan §Phase 2), drawn stratified across lenses, languages, and trace types; **plus 100% of instances of any rare code** (<20 corpus instances) — rare codes are exactly where LLM coders are weakest (RQ4 §Finding 3).
+- **Coders (v1.1 amendment — cross-vendor):** independent **Gemini 2.5 Flash-Lite** and **Claude sonnet** passes, mutually blinded, fresh contexts, no shared rationale text; **Claude haiku as tie-breaker**. Directly mitigates bias-register row 7 (single-coder-family); α thresholds unchanged.
+- **Human anchor:** Adler double-codes a **30-unit gold subsample** (drawn from the 100) at the Gate-2 touchpoint. Retained: LLM–LLM agreement, even cross-vendor, can reflect shared training biases and must never be the sole reliability evidence (RQ4 §Finding 9, §Deliverable A).
+- **Metric & threshold:** Krippendorff's α primary (raw agreement reported alongside, never alone). **Proceed at α ≥ 0.70.**
+- **Honest caveat on provenance (required disclosure):** 0.70 falls inside the content-analysis literature's *tentative* band (0.667–0.80); the conventional "reliable" bar is α ≥ 0.80 (RQ4 §Finding 2, §Deliverable B). 0.70 is **this program's cost-calibrated convention, not a literature-validated standard.** Consequence rules: codes with α in [0.70, 0.80) are flagged `tentative-reliability` in all outputs, and claims resting solely on them are capped at C3; codes at α ≥ 0.80 carry no cap from this rule.
+- **Escalation** (RQ4 §Deliverable C): below-threshold code → freeze → pull every disagreement and classify (codebook ambiguity / model error / genuine borderline) → revise the codebook entry (tighten criteria, add the disputed case as example/counter-example) → re-code and recompute. **Maximum two revision cycles**; persistent failure retires the code to exploratory status — unreliability is a finding about the construct's codability, not a number to engineer away.
+- **Drift check:** α on the first vs. last third of the coding timeline; a drop >0.10 triggers recalibration against the original worked examples (coding drift + context rot, RQ4 §Findings 8, 10).
+- **Citation fidelity:** every quote supporting a C3+ claim is **exact-string verified (whitespace/punctuation-normalized) by a local script — never by prompting a model** (RQ4×RQ5 §Finding 1); 15% random spot-check for non-load-bearing segments; program gate ≥95% fidelity overall (plan §Verification) and **0% tolerance on load-bearing quotes** — one fabrication removes the claim and triggers a full re-check of that coding run, since fabrication clusters by run and by topic rarity (RQ4 §Deliverable D).
+
+## 7. Adversarial + member-check protocol
+
+**Refutation pass** (RQ6 §Deliverable A) — a mandatory gate before any claim reaches C4; the C1 floor holds until it runs. Roles are explicitly assigned, never merged into an informal "reconsider":
+
+| Role | Model | Task | Independence |
+|---|---|---|---|
+| Author | fable (triangulator) | Produces the claim + evidence | — |
+| Devil's Advocate | fable, fresh context | Strongest case the claim is wrong/overstated, **given the claim only** — supporting evidence withheld until the counter-case is drafted | Anchoring prevention (mirrors §4 blinding) |
+| Red Team / rival generator | fable | An alternative explanatory account of the same evidence (may reuse loop step 4 output if the ≥2-rival gate was met) | Generates, not critiques |
+| Adversary-B | sonnet | Citation, over-inference, and temporal-overreach audit (plan §Phase 3) | Separate model tier |
+| Member-checker | Adler (+optional second reader) | Instrument below | Human, post-hoc |
+
+**Minimum counter-searches:** ≥2 per implicit claim — one targeting the corpus itself (is there a counter-instance in Adler's own traces?), one targeting external comparanda (base rates, rival theory). **≥3** for rare-code-based or headline claims. Stated plainly per (RQ6 §Finding 2): these minimums are **this audit's own procedural convention** — the negative-case-analysis literature supplies no numeric stopping rule — adopted for consistency with the RQ files' own verification practice.
+
+**Verdicts** feed §5's harmonization table: survived → `completed_supported`; weakened (boundary condition absorbed) → `completed_weakened`, cap C3; refuted → `completed_refuted`, withdrawn and logged in `03_analysis\disconfirmation-log.jsonl`.
+
+**Member check** (RQ6 §Deliverable B). Every C3+ claim goes to Adler as a claim-row: plain statement, confidence + evidence-base label, exact-verified excerpts (T2 only; T3 claims show aggregates), and the strongest rival considered. Responses: **Confirm** (→ C5 eligible) / **Deny** / **Nuance** (reword + re-verdict; caps at C3/Plausible). **Denial-as-data rule:** a Deny is sufficient on its own to pull the claim (no second checker needed); it is recorded as data about the espoused self-model, and the claim is never silently reasserted — if strong enacted evidence contradicts the denial, both are reported side-by-side as an espoused–enacted finding, at most C3, never as a validated implicit claim. Two honest notes carried from (RQ6 §Findings 4–5): (a) confirmation is co-constructed, not a truth-test; (b) in this program the member check is a *genuine human check on machine coders* but only a *temporally-displaced self-check on the subject* — a substitute for, not an equivalent of, third-party member checking. Where a non-specialist second reader is available, the same instrument is administered to them (RQ1 §Finding 7).
+
+Claims are always reported as **confidence + evidence base** — e.g. "C3 / Thick" — where Thick = ≥3 independent trace items across ≥2 periods/platforms, Moderate = 2 items or single-period clustering, Thin = 1 item or heavy inference (RQ6 §Deliverable A). Collapsing the two axes recreates the ambiguity the estimative-probability tradition exists to prevent (RQ6 §Findings 3, 6).
+
+## 8. Privacy execution rules
+
+The **tier registry** (`00_admin\privacy-tiers.md`) is the authoritative vocabulary: T1 metadata (free use), T2 content (summaries; quotes ≤240 chars), T3 hypersensitive (aggregates only; quotes hard-forbidden). RQ5's internal four-level scheme used colliding names; it is adopted here as **processing stages S0–S3** (S0 raw log → S1 cleaned event record → S2 bounded aggregate → S3 metadata-only), governing what T3 scripts may emit. Only S2/S3 shapes ever enter model context for registry-T3 sources; S0/S1 never do.
+
+**T3 scripts MAY emit** (RQ5 §Deliverable): category totals/means over pre-declared windows from a closed taxonomy (≤15 top-level categories); rounded values, never exact amounts; trend descriptors over ≥4-week windows; health rolling weekly/monthly averages with single-day outliers capped or suppressed; location as coarse subject-labeled named bins only ("home / TW / JP / DE-UK / traveling-other"), never coordinates, never sub-week bin sequences; journal-cadence and closed-vocabulary sentiment labels computed locally; presence/count metadata; each aggregate only after a declared task purpose.
+
+**T3 scripts MUST NEVER emit:** per-event exact timestamps; coordinates or off-list place names; verbatim or near-verbatim journal/therapy/diagnostic text; unmodified single outliers (the outlier *is* the sensitive event at n=1); rare-category counts below floor (suppress or fold up); ad hoc or overlapping windows answering reactive follow-ups — follow-ups reuse or coarsen an approved aggregate, never trigger fresh computation (differencing/tracker-attack rule, RQ5 §Finding 7); the word "anonymized."
+
+**Third-party overlay — applies at every tier including T2** (RQ5 §Finding 11): third parties in Adler's communications are non-consenting data subjects. Model-facing outputs replace third-party names with consistent role tags from a closed, Adler-reviewed contact list ("[family member A]", "[coop colleague B]"); no verbatim third-party quotes; no inferred sensitive attributes about a third party (health, legal, relational, financial); never a real person's name as an aggregation key. This gate is independent of subject-side aggregation — passing one does not pass the other.
+
+**Structural enforcement:** every preprocessing script declares its taxonomy, window grain, and rounding rule as static versioned config; a **disclosure ledger** (`logs\`) records every T2/T3 aggregate and quote that enters model context, checked for differencing risk; `validate_extracts.py` hard-fails any T3 record with non-empty quotes. The exact-string citation check runs as a **deterministic local script** — the one operation that must touch raw text does so outside any model context (RQ4×RQ5 §Findings 1, 3). Because this program has no local model, RQ4×RQ5's "coding-tier exemption" is adopted in narrowed form: deterministic local scripts only; semantic judgments over raw T3 text are not performed at all — T3 coding operates on aggregates, plus the registry's minimal logged journal sampling (≤60 entries, list pre-approved by Adler, no quotes emitted).
+
+**Honest statement (required, not an appendix caveat):** no formal privacy guarantee exists at n=1. Differential privacy is *inapplicable*, not merely weak — there is no population to hide in; aggregation here averages over the subject's own time, hiding *when/what* but not *who*; k-anonymity's logic fails at the event level for rare events (RQ5 §Findings 3–6). All protections in this section are **procedural risk reduction**, correctly labeled "risk-reduced," and every token entering model context transits TLS to the provider assigned by the routing table below (v1.1; previously Anthropic-only) under the tier registry's standing disclosure. Both the n=1 rules and the third-party rules are extrapolations from adjacent literatures, not validated protocols (RQ5 §Implications) — stress-test targets, not settled standards.
+
+**Model-routing classes (v1.1 amendment — the training-ingestion boundary).** The boundary is training-ingestion of inputs, not sensitivity (subject's 2026-07-04 rule). Enforced by `scripts\summarize_router.py`; provider terms verified in `01_methodology\training-policy-matrix.md`.
+
+| Content class | Routing |
+|---|---|
+| T1 metadata / public web / mechanical parsing | Full free tier |
+| AI session histories (Perplexity, Gemini, Claude transcripts, exports) | Full free tier (subject's explicit OK) |
+| Personal reflections (01_journal, 99_private, communication logs) | Full free tier (subject's explicit OK); third-party role-tagging still applies |
+| **Original IP** (myconcepts, researchconcepts, ideas, drafts, thesis, book, website drafts, portfolio) | **Verified no-training-on-inputs providers only**: Anthropic API qualifies by default; **Gemini free tier does NOT** (no opt-out); NVIDIA/OpenRouter pending verification — **unverified = Claude-only**. Ambiguous/mixed notes default here |
+| Google-held T2 (Gmail, Drive general, Calendar) | Gemini OK; NVIDIA/OpenRouter excluded |
+| T3 remainder (finances, health, location) | Local scripts only — no cloud model of any vendor |
+
+## 9. Known-bias register
+
+Standing register; every Phase 2–3 output links here. Each row: one-line description → the concrete mitigation this methodology applies.
+
+| # | Bias | Description | Mitigation in this methodology |
+|---|---|---|---|
+| 1 | **Auto-ethnographic confirmation bias** (RQ1 §Findings 5–7) | Subject, commissioner, and member-checker are the same person; deep reading over-weights self-image-confirming passages | Anderson's analytic criteria adopted; candidate patterns pre-registered before refinement passes; hypothesis-blind coding (§4); refutation pass (§7); non-specialist second reader where available |
+| 2 | **Composite-persona (conjunction) fallacy** (RQ1 §Finding 1) | Rich multi-attribute self-description matches no actually-lived day | Falsifiability floor: no persona attribute without a specific, dated, resolvable citation chain; Barnum statements banned |
+| 3 | **Trace-availability bias** (plan; §1) | What got logged ≠ what happened; empirical ⊂ actual | Strata never collapsed; absence-of-trace never coded as absence; coverage deltas vs. census documented at Gate 1 |
+| 4 | **Recency bias** | Recent corpora are denser (AI logs 2024+ vs. 2019 notes), inflating the recent self | Year-stratified sampling; `time_validity` on every claim; recency weighting explicit, not implicit (§3) |
+| 5 | **EN/ZH/JA language skew** | Coders and orchestrator strongest in EN; ZH/JA material risks under-coding and translation flattening | Language-stratified quotas (§3); `lang` on every record; per-language reliability reported (§6); original-script quotes preserved (manual §edge-1) |
+| 6 | **LLM coder biases** (RQ4 §Findings 3, 5–8) | Position/verbosity/sycophancy biases; systematic neglect of rare codes; quote fabrication; context-length degradation | Hypothesis blinding; 100% double-coding + citation-verification for rare codes; deterministic exact-string quote checks with 0% tolerance; bounded batches; drift check |
+| 7 | **Single-coder-family bias** | **All coders are Claude models** (haiku/sonnet/fable, one vendor family): inter-coder agreement may measure shared blind spots, not correctness | Named limitation on all reliability stats; mandatory 30-unit human gold subsample; human member-check as cross-family anchor; **(v1.1 amendment) cross-vendor double-coding — Gemini 2.5 Flash-Lite vs sonnet, haiku tie-breaker (§6) — directly mitigates this row** |
+| 8 | **Segmentation-choice sensitivity** (RQ1 §Finding 3) | The chosen cut of the corpus determines which sub-selves become visible | Mandatory dual segmentation with written divergence note (§3) |
+| 9 | **CR-on-digital-traces extrapolation** (RQ2 §Finding 9) | CR biographical/identity research is not written for trace data — **no direct precedent; this audit's own adaptation** | Labeled as convention; loop's per-step exit criteria + auditable trail substitute for precedent |
+| 10 | **Attractor-detection-on-personal-logs extrapolation** (RQ3 §Findings 8, 10–11) | EWS/RQA imported from ecology/physiology; personal-log density is below published single-subject benchmarks — **no external precedent** | Two-signal-type minimum; density floors; analyst-discretion configs logged; hedged "consistent with" language; "attractor" as metaphor only |
+| 11 | **n=1 LLM-coding validity gap** (RQ4 §Implications) | Reliability metrics show mechanical consistency of code application, not construct validity of the persona — unresolved in the literature | Stated as a limit; member-check + citation-fidelity as partial compensations; no claim of validated construct |
+| 12 | **Self-applied JTBD extrapolation** (RQ1 §Finding 9) | No literature on JTBD run reflexively on oneself — **this audit's own convention** | Four-forces schema kept structural; elapsed time switch→annotation logged as confidence variable; hire/fire claims capped by hindsight-bias note |
+| 13 | **VMCL-as-coding-lens extrapolation** (RQ3 §Finding 5) | No peer-reviewed coding operationalization exists — first-of-kind adaptation | Codebook-level caveat; pyramid coherence check (Vision unsupported by M/C/L segments = over-interpretation flag); own reliability stats computed |
+| 14 | **Unitization-for-traces extrapolation** (RQ3×RQ4 §Verification) | No source applies unitization frameworks to calendar/personal-trace data; the recording-unit table is this audit's extension | Table fixed pre-coding; deviations logged; unitization agreement reported separately from code agreement |
+| 15 | **Procedural-privacy extrapolation** (RQ5 §Implications) | Both the n=1 aggregate rules and third-party rules extrapolate from adjacent literatures; no direct empirical validation | "Risk-reduced" labeling; static configs + disclosure ledger; standing invitation to stress-test at each gate |
+| 16 | **Convention-set thresholds** (RQ6 §Finding 2; §6 above) | Min-2/3 counter-searches and the α ≥ 0.70 bar are program conventions, not literature standards | Labeled at point of use; tentative-band flag + C3 cap wired to the threshold |
+| 17 | **CLD-on-personal-narrative extrapolation** (RQ7 §Findings 3–4, 9) | CLD/leverage methodology has no n=1 precedent and no published minimum-evidence standard for loops; salience bias over-codes vivid material as causal; loop closure is an artifact of how much text is read; archetype resemblance invites confirmation bias | Traversal criteria table adopted as convention and labeled as such; archetype tags only after loops independently pass; rejected-narrative-causation log for resisted temptations; SDA/RET-trigger activation gate; "not a cybernetic machine" applicability gate; Meadows level 1–3 recommendations labeled aspirational |
+| 18 | **Rule-detection projection risk** (RQ8 §Findings 2, 7–8) | Inferring a person-specific rule invites projection, post-hoc narrative smoothing (motto invention), and self-confirming circularity — sharpened here because researcher = subject | ≥3-instances/≥2-contexts floor with near-miss/counterfactual instance; held-out-instance prediction check before any RUL-01 is finalized; Thick/Moderate/Thin qualifier; RUL-06 revisions capped at Plausible and kept outside the claim-verdict system; condition-action phrasing traceable to quoted actions only |
+| 19 | **Empathy-map/VPC assumption-fill risk** (RQ9 §Findings 4–5, 9) | Fixed boxes pressure the coder to manufacture content; container shape itself skews inference; unvalidated fit-maps harden into unearned findings | Claims-only fill rule (empty cell = logged coverage gap, never guessed); C1/C2-only cells marked provisional; Think/Feel hard gate (self-stated or retroduced-with-rivals only); fit stated as hypothesis with mandatory validation step before blueprint promotion; no aggregate %-fit score (unsourced heuristic rejected) |
+
+---
+
+*Approval: Gate 0 requires Adler's sign-off on this memo and `codebook.yaml`; approval recorded in `00_admin\STATE.json`. No personal-data extraction occurs before that record exists.*

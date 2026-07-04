@@ -1,7 +1,7 @@
 # Conversation History — Raw
 
 **Source:** `ba998cab-1f08-40fb-9204-f6705f7177dc.jsonl`  
-**Rendered:** 2026-06-29 18:47:53  
+**Rendered:** 2026-07-03 01:44:54  
 
 ---
 
@@ -1490,3 +1490,450 @@ Going forward I'll write each new draft into this tracker as I make it, so they 
 Two optional follow-ups:
 - **Full archive:** if you'd rather the tracker hold the *complete* text of the Gmail-live five too, I'll fetch their current Gmail versions (with your edits) and paste them in.
 - **Promote the two email replies:** when you've settled the wording on the **広井 reply** (#9) and the **Doug reply** (#10), I can create them as Gmail drafts (the 広井 one as a reply on the thread, cc 中村).
+
+### Turn 90 — USER
+to 広井：
+
+* おお忙しいところご返事くださりありがとうございます。
+* さっそく片山先生の情報を調べてみると、『人新世のヒューマニズム』の目次を拝見し、私のアプローチと関心とずいぶん重なっていると印象を受けました。約十年前、私もCourseraでDavid ChristianとNoah Yuval Harari両方のbig history講座を受講したことがあり、強く印象と影響を受けており、複雑系・システム論も私の方法論の中核であり、短期思考の克服も私が職場で常々大勝して自らその実現を努力している方向性です。前書きを拝読し、超学際の発表の難しさも非常に痛感し、それも私がほとんど総合人間学会で発表する理由です。しかも宇宙の視座から人間を問い直すことは、まさに私の『Between the Universe and the Metaverse』の試みとは一致しています。お機会がありましたらぜひ片山先生へのおつながりをいただきたく、せっかく総合人間学会が桜美林大学で開催されるので、もし片山先生もご参加してくださってうちの学会とつなげられればと思います。
+* 九州にご滞在の件、承知しました。実は私は一本の短いコラムを貢献した『批判的実在論入門』が7/25に立命館大学でシンポジウムが開催され、少なくとも7/27までに日本に大祭する予定です。https://www.nakanishiya.co.jp/news/n126983.html　また、実は去年心臓病の発作でリハビリを入ったこともあり、各国のビザ政策が厳しくなっている最中、私がヨーロッパへの関与はいまだTIALのようにリモートに限っています。そのなかで、あるきっかけで日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を当たりました。ですから日本で働き・研究しながらリモートでヨーロッパへも関与し続ける発想もあります。まだ決まっていませんが、今回の訪日で模索しようと思います。
+
+### Turn 91 — USER
+Continue from where you left off.
+
+### Turn 92 — ASSISTANT
+No response requested.
+
+### Turn 93 — USER
+to 広井：
+
+* おお忙しいところご返事くださりありがとうございます。
+* さっそく片山先生の情報を調べてみると、『人新世のヒューマニズム』の目次を拝見し、私のアプローチと関心とずいぶん重なっていると印象を受けました。約十年前、私もCourseraでDavid ChristianとNoah Yuval Harari両方のbig history講座を受講したことがあり、強く印象と影響を受けており、複雑系・システム論も私の方法論の中核であり、短期思考の克服も私が職場で常々大勝して自らその実現を努力している方向性です。前書きを拝読し、超学際の発表の難しさも非常に痛感し、それも私がほとんど総合人間学会で発表する理由です。しかも宇宙の視座から人間を問い直すことは、まさに私の『Between the Universe and the Metaverse』の試みとは一致しています。お機会がありましたらぜひ片山先生へのおつながりをいただきたく、せっかく総合人間学会が桜美林大学で開催されるので、もし片山先生もご参加してくださってうちの学会とつなげられればと思います。
+* 九州にご滞在の件、承知しました。実は私は一本の短いコラムを貢献した『批判的実在論入門』が7/25に立命館大学でシンポジウムが開催され、少なくとも7/27までに日本に大祭する予定です。https://www.nakanishiya.co.jp/news/n126983.html　また、実は去年心臓病の発作でリハビリを入ったこともあり、各国のビザ政策が厳しくなっている最中、私がヨーロッパへの関与はいまだTIALのようにリモートに限っています。そのなかで、あるきっかけで日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を当たりました。ですから日本で働き・研究しながらリモートでヨーロッパへも関与し続ける発想もあります。まだ決まっていませんが、今回の訪日で模索しようと思います。
+
+### Turn 94 — ASSISTANT
+Big, useful additions — and one of them is a strategic opening worth surfacing. Here's the polished reply, then the flags.
+
+## Reply to 広井 (Japanese — reply in thread, cc 中村)
+
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私が職場でも常々大切にし、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で、少なくとも7月27日頃まで関西におります（https://www.nakanishiya.co.jp/news/n126983.html）。もし先生が九州からお戻りで、7月下旬にお時間がございましたら、関西でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。
+
+実は昨年、心臓の発作でリハビリに入ったこともあり、また各国のビザ政策が厳しくなるなか、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。ですので、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+## Flags
+- **「大勝」→「大切にし」.** Your 「私が職場で常々大勝して」 reads as a typo (大勝 = "great victory" doesn't fit). I read it as **大切にし** ("value"); confirm — or 重視し / 提唱し.
+- **The late-July meeting is my strategic add — and it's the real prize here.** He declined 7/11–12 *only* because he's in 九州 mid-July; you'll be in **Kansai ~7/25–27**, and he's **Kyoto-based and "more flexible now."** So I turned your travel-info into a light proposal to meet in late July. That could convert his "can't this time" into the actual in-person sit-down — exactly the 論文博士-counsel conversation you wanted. **Verify the 立命館 campus** (I kept it city-neutral and said 関西; if it's the Kyoto campus, all the better — say so to make the meeting easy).
+- **Working-holiday visa = quietly the biggest development.** A Japan-based you makes the **Kyoto/Tokyo 論文博士 path and 広井's in-person counsel far more feasible** — the email closes that paragraph with a light line to that effect, which gently advances the whole PhD thread with him without over-asking.
+- **Minor:** fixed the name order to **Yuval Noah Harari**; added one opening sentence acknowledging his praise + endorsement (his email warranted it — trim if you want it leaner).
+- **Reading-order:** clean — every reference (片山/桜美林, the conference, late-July) has its antecedent.
+
+**English gist:** Thank you for replying, and for the kind words on the book + paper and your encouragement. I looked up Prof. Katayama — *Anthropocene Humanism* overlaps a lot with me (I took Christian's and Harari's Big History courses ~10 yrs ago; complex systems is core to my method; overcoming short-termism is something I work toward; the transdisciplinary-presentation difficulty in his preface is much why I present at 総合人間学会; and re-asking the human from a cosmic viewpoint is exactly my book). I'd love an introduction, and since the conference is at 桜美林, it'd be lovely if he joined and connected with the association. Understood re Kyushu — but I'll actually be in Kansai through ~7/27 for the 『批判的実在論入門』 symposium at Ritsumeikan (7/25); if you're back and free in late July, I'd gladly meet. And: after last year's cardiac episode + tightening visa rules my Europe engagement is remote-only (like TIAL), but I've secured a Japan working-holiday visa (must start by mid-Dec), so I'm weighing basing myself in Japan while staying remote with Europe — undecided, but exploring it this trip; if I'm in Japan more, I'd treasure more chances to see and learn from you.
+
+Want me to update the tracker (#9) with this and **create the Gmail draft** (reply on the thread, cc 中村)?
+
+### Turn 95 — USER
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私自身のいくつかの仕事の立場でも常々提唱にし、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で（https://www.nakanishiya.co.jp/news/n126983.html）、少なくとも7月27日頃まで、遅ければ8月11日までに滞在できます[。もし先生が九州からお戻りで、7月下旬や8月初旬にお時間がございましたら、関西や関東でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。](https://www.nakanishiya.co.jp/news/n126983.html）。もし先生が九州からお戻りで、7月下旬にお時間がございましたら、関西でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。)
+
+実は昨年、過労で遺伝心臓病の発作でリハビリに入ったこともあり（このため仕事をずいぶん減らしたから、執筆に集中できました）、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。各国のビザ政策が厳しくなる背景も考慮しますと、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 96 — USER
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私自身のいくつかの仕事の立場でも常々提唱にし、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で（https://www.nakanishiya.co.jp/news/n126983.html）、少なくとも7月27日頃まで、遅ければ8月11日までに滞在できます[。もし先生が九州からお戻りで、7月下旬や8月初旬にお時間がございましたら、関西や関東でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。](https://www.nakanishiya.co.jp/news/n126983.html）。もし先生が九州からお戻りで、7月下旬にお時間がございましたら、関西でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。)
+
+実は昨年、過労で遺伝心臓病の発作でリハビリに入ったこともあり（このため仕事をずいぶん減らしたから、執筆に集中できました）、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。各国のビザ政策が厳しくなる背景も考慮しますと、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 97 — USER
+[Request interrupted by user]
+
+### Turn 98 — USER
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私自身のいくつかの仕事の立場でも常々提唱にし、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で（https://www.nakanishiya.co.jp/news/n126983.html）、少なくとも7月27日頃まで、遅ければ8月11日までに滞在できます。もし先生が九州からお戻りで、7月下旬や8月初旬にお時間がございましたら、関西や関東でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。
+
+実は昨年、過労で遺伝心臓病の発作でリハビリに入ったこともあり（このため仕事をずいぶん減らしたから、執筆に集中できました）、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。各国のビザ政策が厳しくなる背景も考慮しますと、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 99 — USER
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私自身のいくつかの仕事の立場でも常々提唱にし、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で（https://www.nakanishiya.co.jp/news/n126983.html）、少なくとも7月27日頃まで、遅ければ8月11日までに滞在できます。もし先生が九州からお戻りで、7月下旬や8月初旬にお時間がございましたら、関西や関東でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。
+
+実は昨年、過労で遺伝心臓病の発作でリハビリに入ったこともあり（このため仕事をずいぶん減らしたから、執筆に集中できました）、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。各国のビザ政策が厳しくなる背景も考慮しますと、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 100 — ASSISTANT
+Reads well — and the wider window (late-July *or* early-August, Kansai *or* Kanto) is a smart improvement; it gives 広井 several ways to say yes after his 九州 trip. The reordered visa logic is also cleaner than mine. Just four small fixes, three of them true errors:
+
+1. **「提唱にし」→「提唱し」** — the に was a leftover from the earlier "大切にし"; with 提唱 it's just 提唱し. (Also smoothed 「仕事の立場でも」→「仕事においても」.)
+2. **「8月11日までに滞在できます」→「…まで滞在できます」** — までに = "by" (a deadline); for "stay *until*" it's まで.
+3. **「遺伝心臓病」→「遺伝性心臓病」** — needs 性; and the doubled で (「過労で…発作で」) → 「過労で遺伝性心臓病の発作を起こし、リハビリに入った」.
+4. *(optional)* the parenthetical: 「減らしたから、執筆に集中できました」→「減らし、かえって執筆に集中できました」 — slightly smoother, and かえって catches the silver-lining nuance.
+
+Corrected full text:
+
+広井先生
+
+お忙しいところご返信くださり、誠にありがとうございます。拙著および〈依存様式論〉の論文に温かいお言葉をいただき、また私の構想にもご賛同いただき、心より励まされております。
+
+さっそく片山博文先生について調べましたところ、『人新世のヒューマニズム』の目次を拝見し、私のアプローチや関心とずいぶん重なっていることに驚きました。実は約十年前、私もCourseraでDavid ChristianとYuval Noah Harariの両方のビッグヒストリー講座を受講し、強い影響を受けました。複雑系・システム論は私の方法論の中核でもあり、また「短期思考の克服」は、私自身のいくつかの仕事においても常々提唱し、自ら実現に努めている方向性です。前書きを拝読して、超学際的な研究を発表することの難しさを改めて痛感しました——それもまた、私が主に総合人間学会で発表してきた理由の一つです。そして何より、宇宙という視座から人間を問い直すという姿勢は、まさに拙著『Between the Universe and the Metaverse』の試みと響き合っております。もし機会がございましたら、ぜひ片山先生におつなぎいただけましたら幸いです。せっかく総合人間学会が桜美林大学で開催されますので、片山先生にもご参加いただき、本学会とご縁をつなげられればと願っております。
+
+九州にご滞在の件、承知いたしました。実は、私が短いコラムを寄稿した『批判的実在論入門』の出版記念シンポジウムが7月25日に立命館大学で開催される予定で（https://www.nakanishiya.co.jp/news/n126983.html）、少なくとも7月27日頃まで、遅ければ8月11日まで滞在できます。もし先生が九州からお戻りで、7月下旬や8月初旬にお時間がございましたら、関西や関東でお目にかかれましたら大変嬉しく存じます——もちろん、どうかご無理のない範囲で。
+
+実は昨年、過労で遺伝性心臓病の発作を起こし、リハビリに入ったこともあり（このため仕事をずいぶん減らし、かえって執筆に集中できました）、ヨーロッパへの関与は今のところTIALのようにリモートに限っております。そうしたなか、ある縁で日本の一年間のワーキングホリデービザ（今年十二月中旬までに利用開始が必要）を得ることができました。各国のビザ政策が厳しくなる背景も考慮しますと、日本を拠点に働き・研究しながら、ヨーロッパへはリモートで関与し続ける、という道も考えております。まだ決めてはおりませんが、今回の訪日で模索してみるつもりです。もし日本で過ごす時間が増えれば、先生に再びお目にかかり、ご教示を仰げる機会も増えるのではと、ひそかに楽しみにしております。
+
+初夏の候、どうぞお体を大切にお過ごしくださいませ。
+引き続き、どうぞよろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+Reading-order pass: clean — every reference (片山/桜美林, the conference, the late-July/early-Aug dates) has its antecedent.
+
+Want me to **update tracker #9** with this final text and **create the Gmail draft** — reply on the 「台湾からの留学生のアドラー君をお繋ぎします。」 thread, cc 中村?
+
+### Turn 101 — USER
+update my outreach/response status by checking my gmail. for those one Whatsapp, i've already reached out to Ada (no response yet).
+
+### Turn 102 — USER
+update my outreach/response status by checking my gmail. for those one Whatsapp, i've already reached out to Ada (no response yet).
+
+### Turn 103 — ASSISTANT
+I'll check Gmail to determine what's been sent vs. still drafted vs. replied, then update the tracker. Loading the Gmail tools:
+
+Now checking each contact's Gmail state (sent / drafted / replied) plus the remaining unsent drafts:
+
+Clear picture emerging — and a couple of important new developments. Let me nail down the two ambiguous ones (Geoff reply sent? 広井 reply sent?) before I update the tracker.
+
+Gmail's search view truncates long threads (it kept returning the 2023/April messages, not the newest), but the **drafts list is authoritative** and the 梶原/Doug/Al-Amoudi threads surfaced cleanly. Combined with what we know, here's the real status. Let me read the tracker's table so I can update it precisely.
+
+Updating the tracker with the real statuses:
+
+Tracker updated ([outreach-drafts-tracker_2026-06-26.md](metaverse-book/outreach-drafts-tracker_2026-06-26.md)). Here's where everything actually stands as of Gmail (checked 2026-06-29):
+
+**Sent + reply received (need/awaiting your move):**
+- **梶原 — SENT 6/25, she replied 6/25.** ⚠️ This one needs a response: she can't do 7/11–12, is free *after* the conference **except 7/14 (Tue) & 7/18 (Sat)**, and offered to meet in **Tokyo** to hand over the book.
+- **広井 (reconnection) — SENT, he replied.** Your response = the **#9 draft** (the 片山 / late-July-meeting / visa one), still drafted and ready — not yet sent.
+- **Doug — you SENT your reply 6/29.** Fully handled; he reads ~September.
+
+**Sent, awaiting reply:**
+- **Geoff + Caio** — your "Many thanks" reply appears **sent** (the draft's gone from Drafts; August session is agreed). *(Couldn't 100%-confirm via the search — the connector truncates long threads — so verify in Gmail if you want certainty.)*
+- **Ada** (WhatsApp) — sent, no response yet.
+- **Al-Amoudi** — SENT 6/21, no reply yet.
+
+**Still unsent drafts (sitting in Gmail Drafts):**
+- **Shyam** and **佐藤** — both still drafts, not sent.
+
+**Not yet sent:**
+- **François**, **Manish** (WhatsApp) — drafted in the tracker, not sent.
+- **Banfield** — never sent (deprioritized; he's only on the CR-CoP list). **Tang** — pending an address.
+
+**The thing worth acting on now — a Japan-meeting convergence.** Three people point at the same trip: 広井 (Kansai, late July, if back from Kyushu), 梶原 (Tokyo, late July/early Aug), and 片山 (at the conference itself, 7/11–12). With you in Japan ~7/25–27 (maybe to 8/11), you can likely see all three — but the dates need locking so they don't collide.
+
+Want me to:
+1. **Draft your reply to 梶原** (arrange the Tokyo meeting + book handoff around your 7/25–8/11 window, working around her 7/14 & 7/18)?
+2. **Create the 広井 #9 Gmail draft** (reply on the thread, cc 中村) so it's ready to send?
+
+### Turn 104 — USER
+check the later correspondence between 広井 and I, and see if this draft generated by another claude chat is appropriate:
+
+Subject: 初めてのご連絡（広井良典先生よりご紹介）
+
+片山博文先生
+
+突然のご連絡をお許しください。台湾出身の楊逸帆（アドラー・ヨウ）と申します。広井良典先生を通じて先生のことを伺い、また先生にご連絡してよいとのお言葉をいただき、こうしてメールを差し上げる機会を得ましたこと、心より感謝申し上げます（広井先生を本メールにCCさせていただいております）。
+
+先生のご著書『人新世のヒューマニズム』の目次と前書きを拝見し、大変感銘を受けました。とりわけ、超学際的な研究を発表することの難しさについて先生が触れられていた一節は、まるで私自身の心境を言い当てられたようで、強く胸に残っております。私も批判的実在論と東アジア思想を架橋しながら「人間は何に依存して生きているのか」というテーマで研究を続けており、いま執筆している初めての著書も、既存のどの学問領域にも収まりきらない性質のものです。そのため、先生のあの一節に出会えたことが、大きな励みとなりました。
+
+先生の、宇宙的・文明史的なスケールから人間を捕えようとされるご視座にも、深く共鳴しております。私の著書も、宇宙という与件と、自己完結化していく人工性という新たな与件との狭間で人間が被る構造的な圧迫を主題としており、先生のビッグヒストリー的なご関心と重なる部分が大きいのではと、勝手ながら感じております。
+
+私は2012年よりAwakening Cooperative Lab（青醒人共生文化智庫）というシステム研究・教育の拠点を主宰し、総合人間学会と国際批判的実在論学会の理事を務めております。昨年からは、Sir Geoff Mulgan氏が率いるThe Institutional Architecture Lab（UCL）の創設研究員にも加えていただいております。
+
+実は7月11日・12日に、先生の桜美林大学にて総合人間学会20周年大会が開催され、私も理事として参加・発表いたします。もし先生にもお目にかかれる機会がございましたら、これほど嘉しいことはございません。大会でお会いできなくとも、7月13日から21日の間でしたら別途伺うこともできますので、もし少しでもお時間を頂けるようでしたら幸いです。そして差し支えなければ、私が執筆している本の内容や出版のことについても、先生から何かご教示いただけましたら、この上ない励みとなります。
+
+ご多忙のところ、このような長いメールに目を通していただき、誠にありがとうございました。どうぞお体を大切に、良い夏をお過ごしくださいませ。
+
+楊逸帆（アドラー・ヨウ）
+
+### Turn 105 — USER
+check the later correspondence between 広井 and I, and see if this draft generated by another claude chat is appropriate:
+
+Subject: 初めてのご連絡（広井良典先生よりご紹介）
+
+片山博文先生
+
+突然のご連絡をお許しください。台湾出身の楊逸帆（アドラー・ヨウ）と申します。広井良典先生を通じて先生のことを伺い、また先生にご連絡してよいとのお言葉をいただき、こうしてメールを差し上げる機会を得ましたこと、心より感謝申し上げます（広井先生を本メールにCCさせていただいております）。
+
+先生のご著書『人新世のヒューマニズム』の目次と前書きを拝見し、大変感銘を受けました。とりわけ、超学際的な研究を発表することの難しさについて先生が触れられていた一節は、まるで私自身の心境を言い当てられたようで、強く胸に残っております。私も批判的実在論と東アジア思想を架橋しながら「人間は何に依存して生きているのか」というテーマで研究を続けており、いま執筆している初めての著書も、既存のどの学問領域にも収まりきらない性質のものです。そのため、先生のあの一節に出会えたことが、大きな励みとなりました。
+
+先生の、宇宙的・文明史的なスケールから人間を捕えようとされるご視座にも、深く共鳴しております。私の著書も、宇宙という与件と、自己完結化していく人工性という新たな与件との狭間で人間が被る構造的な圧迫を主題としており、先生のビッグヒストリー的なご関心と重なる部分が大きいのではと、勝手ながら感じております。
+
+私は2012年よりAwakening Cooperative Lab（青醒人共生文化智庫）というシステム研究・教育の拠点を主宰し、総合人間学会と国際批判的実在論学会の理事を務めております。昨年からは、Sir Geoff Mulgan氏が率いるThe Institutional Architecture Lab（UCL）の創設研究員にも加えていただいております。
+
+実は7月11日・12日に、先生の桜美林大学にて総合人間学会20周年大会が開催され、私も理事として参加・発表いたします。もし先生にもお目にかかれる機会がございましたら、これほど嘉しいことはございません。大会でお会いできなくとも、7月13日から21日の間でしたら別途伺うこともできますので、もし少しでもお時間を頂けるようでしたら幸いです。そして差し支えなければ、私が執筆している本の内容や出版のことについても、先生から何かご教示いただけましたら、この上ない励みとなります。
+
+ご多忙のところ、このような長いメールに目を通していただき、誠にありがとうございました。どうぞお体を大切に、良い夏をお過ごしくださいませ。
+
+楊逸帆（アドラー・ヨウ）
+
+### Turn 106 — ASSISTANT
+This draft **CC's 広井 and claims he gave you permission to contact 片山** ("ご連絡してよいとのお言葉をいただき") and frames it as an introduction *from* him ("広井良典先生よりご紹介"). Those claims must be literally true, because 広井 will read them. So before judging the draft, I need to verify what 広井 actually said in your later exchange. Let me load the thread tool and pull the recent messages.
+
+Thread is 3.6M chars (huge quoted history). Let me probe its structure, then extract just the recent messages' new content with jq.
+
+jq isn't available — using Python, and writing the extract to a UTF-8 file to read (avoids the console's CJK crash).
+
+Verified against your actual thread — and the news is good: **広井 explicitly authorized this.** His 6/30 message ([31]) gave you 片山's address and said, verbatim:
+
+> メールアドレスが以下ですので、コンタクトをとりたい場合はこちらに連絡いただけるでしょうか（**広井から連絡先を聞いたと伝えていただいてOKで、私をCCに入れても可です**）。 `<katayama@obirin.ac.jp>`
+
+So the draft's two load-bearing claims are **true**: you may say you got the contact from 広井, and you may CC him. (Also confirmed: your **広井 meeting is set — 7/22 ~13:00 in Tokyo**, tentative; and he noted 片山 is involved in the IBHA 2027 conference at 桜美林, so they're already in contact — your name-drop will land warmly.)
+
+**Verdict: appropriate and well-judged — send it after these fixes:**
+
+**Should fix (both are things 片山, the author, would notice):**
+1. **The preface attribution.** You wrote 「超学際的な研究を発表することの難しさについて**先生が触れられていた一節**」 — i.e., you're telling 片山 his *own preface* contains a passage on that difficulty. Only keep this if his preface actually says so. If it was really *your* reaction while reading, soften to something like 「前書きを拝読しながら、超学際的な仕事を世に問う難しさを改めて思い、大きな励ましを得ました」— attributing the reflection to you, not to a specific passage of his.
+2. **「The Institutional Architecture Lab（UCL）」 is inaccurate.** TIAL is run by **Demos Helsinki / The Rockefeller Foundation**; Geoff Mulgan is a *UCL professor* but TIAL isn't UCL. Rephrase so it doesn't imply TIAL = UCL — e.g. 「Sir Geoff Mulgan氏（UCL教授）が率いるThe Institutional Architecture Lab」 or just drop the (UCL).
+
+**Worth adjusting:**
+3. **「創設研究員」→「創設フェロー」** — your actual title is *inaugural fellow*, and it's what you used everywhere else.
+4. **Subject 「広井良典先生よりご紹介」** — he gave you the contact + permission to name-drop, but didn't formally introduce you (he isn't emailing 片山 on your behalf). Conventionally fine, but 「広井良典先生のご紹介で」 or 「広井良典先生より御連絡先を伺い」 is more precise.
+5. **Meeting dates 「7月13日〜21日」** — align with your real itinerary: you've now committed to **7/22 Tokyo (広井)** and **7/25 Kansai (立命館)**. Make sure 7/13–21 is actually when you're in Japan/near Tokyo, or 片山 may propose a date that collides.
+
+**Optional (both would strengthen it):**
+6. **Add your Big History background** — the Christian/Harari courses you mentioned to 広井 will resonate *even more* with 片山, an actual Big History scholar. One sentence.
+7. **Soften the「出版のこと」ask.** 片山 is a Big History/Anthropocene scholar, not obviously a publishing-route person; framing it as intellectual exchange + "any thoughts on bringing such work to a broader readership" reads better than asking a stranger about publishing.
+8. **「Sir」Geoff** — you've been using it (with the Wikipedia link), so presumably confirmed; just flagging once.
+
+Want me to produce a **clean revised version** with 1–5 applied (and 6–7 folded in), keeping To: `katayama@obirin.ac.jp`, cc: 広井?
+
+### Turn 107 — USER
+日本学術界におけるメールマナーをもとに、以下のアウトラインに基づいて草稿を作成してください。
+
+* 簡単な自己紹介：十数年を渡り...
+   * 実務側：NPO・メディア・政府・シンクタンク・大学との連携で教育改革、ソーシャルイノベーション関係の仕事を実践してきながら...
+   * 研究側：多数の文明難局（polycrisis）の裏に共通メカニズムがあるのか、ボトムアップ的改革がいかに可能なのかのを研究・模索してきて...
+   * 今はTIAL...
+* この数日、広井先生のご紹介を通じて、片山先生のことを初めて知り、ご著書の目次と前書き...共感する点：
+   * 超学際的な研究発表の困難→総合人間学会・批判的実在論学会へ参加、おかげで理事となり
+   * 複雑系→私の複雑系・システム論に関する経験：
+      * 2018年までに数年をかけて台湾・香港、そして広東（2016年末に中国が海外NPOを警察に管理させるまでに）をわたり、若者・親・教員向けて千人前後のシステム思考ワークショップをファシリテートしたことがあり
+      * 2019年にコーネル大学のDerek & Laura Cabrera先生のもとにSystems Thinking, Mapping, and Leadership Trainer認定を受けたことがあり
+      * 2026年はSanta Fe InstituteのGlobal Complexity School Scholarとして受け入れてくれましたが、緊急の健康事故で実現できませんでした
+   * 宇宙からの視座→初めての単著『between the universe and the metaverse』（簡単な紹介、二ページの概要を添付）
+   * ビッグヒストリー→courseraの受講経験と共感、歴史を集中して研究してないのでアプローチとして主張することを円了しましたが、今回の単著の中ですくなくともビッグヒストリーっぽい元素が現れているではないかと意識しております
+* 総合人間学会20周年大会への参加・発表がきっかけに訪日
+   * せっかく桜美林大学で開催され、参加へのお誘い
+* ご都合が大会に合わない場合→7/13～21関東で別途に訪問、研究や出版についていろいろとご教示いただけますと幸いです。
+
+### Turn 108 — USER
+日本学術界におけるメールマナーをもとに、以下のアウトラインに基づいて草稿を作成してください。
+
+* 簡単な自己紹介：十数年を渡り...
+   * 実務側：NPO・メディア・政府・シンクタンク・大学との連携で教育改革、ソーシャルイノベーション関係の仕事を実践してきながら...
+   * 研究側：多数の文明難局（polycrisis）の裏に共通メカニズムがあるのか、ボトムアップ的改革がいかに可能なのかのを研究・模索してきて...
+   * 今はTIAL...
+* この数日、広井先生のご紹介を通じて、片山先生のことを初めて知り、ご著書の目次と前書き...共感する点：
+   * 超学際的な研究発表の困難→総合人間学会・批判的実在論学会へ参加、おかげで理事となり
+   * 複雑系→私の複雑系・システム論に関する経験：
+      * 2018年までに数年をかけて台湾・香港、そして広東（2016年末に中国が海外NPOを警察に管理させるまでに）をわたり、若者・親・教員向けて千人前後のシステム思考ワークショップをファシリテートしたことがあり
+      * 2019年にコーネル大学のDerek & Laura Cabrera先生のもとにSystems Thinking, Mapping, and Leadership Trainer認定を受けたことがあり
+      * 2026年はSanta Fe InstituteのGlobal Complexity School Scholarとして受け入れてくれましたが、緊急の健康事故で実現できませんでした
+   * 宇宙からの視座→初めての単著『between the universe and the metaverse』（簡単な紹介、二ページの概要を添付）
+   * ビッグヒストリー→courseraの受講経験と共感、歴史を集中して研究してないのでアプローチとして主張することを円了しましたが、今回の単著の中ですくなくともビッグヒストリーっぽい元素が現れているではないかと意識しております
+* 総合人間学会20周年大会への参加・発表がきっかけに訪日
+   * せっかく桜美林大学で開催され、参加へのお誘い
+* ご都合が大会に合わない場合→7/13～21関東で別途に訪問、研究や出版についていろいろとご教示いただけますと幸いです。
+
+### Turn 109 — ASSISTANT
+Here's the draft, written to Japanese academic email etiquette, following your outline — with the accuracy fixes from my review already folded in (TIAL not mislabeled as UCL; 創設フェロー; 広井 framed as ご紹介 + CC; Big History handled with your humble framing):
+
+---
+
+**件名：初めてのご連絡（広井良典先生のご紹介）**
+
+片山博文先生
+
+突然のメールにて失礼いたします。台湾出身の楊逸帆（アドラー・ヨウ）と申します。このたびは広井良典先生のご紹介により、ご連絡を差し上げております（広井先生を本メールのCCに入れさせていただいております）。
+
+はじめに、簡単な自己紹介をさせてください。この十数年、私は実務と研究の二つの立場を行き来しながら歩んでまいりました。実務の側では、NPO・メディア・行政・シンクタンク・大学と連携しながら、教育改革やソーシャル・イノベーションの現場に携わってまいりました。研究の側では、多発する文明的難局（polycrisis）の背後に何らかの共通のメカニズムがあるのではないか、そしてボトムアップの変革はいかにして可能かを問い、探究を続けております。現在は、Sir Geoff Mulgan氏（UCL教授）が率いるThe Institutional Architecture Lab（TIAL）の創設フェローも務めております。
+
+この数日、広井先生のご紹介ではじめて片山先生のご存在を知り、ご著書『人新世のヒューマニズム』の目次と前書きを拝見して、深く共感する点がいくつもございました。
+
+第一に、超学際的な研究を世に問うことの難しさです。私自身、既存のいずれの学問領域にも収まりにくいテーマを扱ってまいりましたので、この難しさには身をもって向き合ってまいりました。そうしたなかで総合人間学会や批判的実在論学会に居場所を見出し、幸いにも両学会の理事を務めさせていただくに至りました。
+
+第二に、複雑系へのご着目です。複雑系・システム論は、私の実務と研究の双方を貫く中核でもあります。二〇一八年頃までの数年間は、台湾・香港、そして（中国が海外NGOの管理を公安当局へ移管する二〇一六年末までは）広東を巡り、若者・保護者・教員あわせて延べ千人ほどに、システム思考のワークショップをファシリテートいたしました。二〇一九年には、コーネル大学のDerek & Laura Cabrera両先生のもとでSystems Thinking, Mapping, and Leadership Trainerの認定を受けております。また本年は、Santa Fe InstituteのGlobal Complexity SchoolにScholarとして受け入れていただいたのですが、急な健康上の事故により、参加が叶いませんでした。
+
+第三に、宇宙という視座から人間を問い直そうとされる姿勢です。私の初めての単著『Between the Universe and the Metaverse: Surviving the Adaptational Squeeze』は、まさにその視座に立つ試みで、人間の生が、自然的実在としての〈宇宙〉と、自己完結化していく人工性という新たな与件との狭間で、構造的に圧迫されていく事態を主題としております（二頁の英語概要を添付いたします）。
+
+第四に、ビッグヒストリーです。約十年前、CourseraでDavid ChristianとYuval Noah Harari両氏の講座を受講し、強い影響を受けました。歴史そのものを専門的に研究しているわけではないため、自らの方法として「ビッグヒストリー」を掲げることは控えておりますが、今回の単著にも、少なくともビッグヒストリー的な要素が立ち現れているのではないかと感じております。
+
+さて、来る七月十一日・十二日には、片山先生の桜美林大学にて総合人間学会の二十周年大会が開催され、私も理事として参加・発表いたします。せっかくの機会でございますので、もし先生にもご参加・お立ち寄りいただけましたら、これ以上の喜びはございません。
+
+もし大会とご都合が合わない場合でも、七月十三日から二十一日の間であれば、関東にて別途お伺いすることも可能です。もしお時間を頂戴できるようでしたら、私の研究や、その出版のことなどにつきましても、先生からご教示を賜れましたら幸いに存じます。
+
+ご多忙のところ、長いメールに目を通していただき、誠にありがとうございました。時節柄、どうぞお体を大切にお過ごしくださいませ。
+
+何卒よろしくお願い申し上げます。
+
+楊逸帆（アドラー・ヨウ）
+青醒人共生文化智庫（Awakening Cooperative Lab）代表
+総合人間学会・国際批判的実在論学会 理事
+The Institutional Architecture Lab（TIAL）創設フェロー
+
+---
+
+**Confirm before sending:**
+- **SFI program name** — I used your「Global Complexity School / Scholar」; confirm that's the exact official name (SFI's programs have particular titles).
+- **Facts:** 「延べ千人ほど」 (cumulative ~1,000 people), the 2019 Cornell/Cabrera cert, and「2016年末に公安へ移管」— confirm these read as you intend.
+- **超学際 resonance:** I framed it as a difficulty *you* resonate with + your own experience (not a quote of 片山's preface), which is the safe version — if his preface explicitly discusses it, you can make the nod warmer.
+- **Metaverse term:** I used **自己完結化** here; your sent 広井 email used **自足完成化**. Since 広井 is CC'd on this one too, you may want to align them (they're distinct in your lexicon).
+- **「Sir」Geoff** — you've been using it; just flagging once. TIAL is now correctly not labeled UCL.
+- **Attachment:** attach the two-page summary yourself (the connector can't).
+- It's on the longer side (four resonance points) — appropriate for a substantive academic first contact, but I can trim the complex-systems credentials to two lines if you'd prefer it leaner.
+
+Want me to **create the Gmail draft** — To: `katayama@obirin.ac.jp`, cc: `yoshinori@khh.biglobe.ne.jp` — and log it in the tracker?
+
+### Turn 110 — USER
+**件名：広井良典先生のご紹介より**
+
+片山博文先生
+
+突然のメールにて失礼いたします。台湾出身のアドラー・ヨウ（楊逸帆 Adler Yang）と申します。このたびは広井良典先生のご紹介により、ご連絡を差し上げております（広井先生を本メールのCCに入れさせていただいております）。
+
+はじめに、簡単な自己紹介をさせてください。この十数年、私は実務と研究の二つの立場を行き来しながら歩んでまいりました。実務の側では、NPO・メディア・政府・シンクタンク・大学と連携しながら、教育改革やソーシャル・イノベーションの現場に携わってまいりました。研究の側では、多発する文明的難局（polycrisis）の背後に何らかの共通のメカニズムがあるのではないか、そしてボトムアップの変革はいかにして可能かを問い、探究を続けております。現在は、Sir Geoff Mulgan氏（UCL教授）が率いるThe Institutional Architecture Lab（TIAL）の創設フェローも務めております。
+
+この数日、広井先生のご紹介ではじめて片山先生のご存在を知り、ご著書『人新世のヒューマニズム』の目次と前書きを拝見して、深く共感する点がいくつもございました。
+
+第一に、超学際的な研究を世に問うことの難しさです。私自身、既存のいずれの学問領域にも収まりにくいテーマを扱ってまいりましたので、この難しさには身をもって向き合ってまいりました。そうしたなかで総合人間学会や批判的実在論学会に居場所を見出し、幸いにも両学会の理事を務めさせていただくに至りました。
+
+第二に、複雑系へのご着目です。複雑系・システム論は、私の実務と研究の双方を貫く中核でもあります。二〇一八年頃までの数年間は、台湾・香港、そして（中国が海外NGOの管理を公安当局へ移管する二〇一六年末までは）広東を巡り、若者・保護者・教員あわせて延べ千人ほどに、システム思考のワークショップをファシリテートいたしました。二〇一九年には、コーネル大学のDerek & Laura Cabrera両先生のもとでSystems Thinking, Mapping, and Leadership Trainerの認定を受けております。また本年は、Santa Fe InstituteのGlobal Complexity Schoolに受け入れていただいたのですが、急な健康上の事故により、参加が叶いませんでした。
+
+第三に、宇宙という視座から人間を問い直そうとされる姿勢です。私が最近出版に向けて準備している初めての英語単著『Between the Universe and the Metaverse: Surviving the Adaptational Squeeze』は、まさにその視座に立つ試みで、人間の生が、自然環境としての〈宇宙〉と、自足完結化していく人工性という新たな環境との狭間で、進化・適応的プレッシャーに圧迫されていく事態を主題としております（二頁の英語概要を添付いたします）。
+
+第四に、ビッグヒストリーです。約十年前、CourseraでDavid ChristianとYuval Noah Harari両氏の講座を受講し、強い影響を受けました。歴史そのものを専門的に研究しているわけではないため、自らの方法として「ビッグヒストリー」を掲げることは控えておりますが、今回の単著にも、The Great Oxidation Eventから動物のNiche Construction、そして人間の「自己家畜化」の流れで分析してきて、少なくともビッグヒストリー的な要素・スタイルが立ち現れているのではないかと感じております。
+
+さて、来週末7月11・12日には、片山先生の桜美林大学にて総合人間学会の二十周年大会が開催され、私も理事として参加・発表いたします。せっかくの機会でございますので、もし先生にもご参加・お立ち寄りいただけましたら、これ以上の喜びはございません。
+
+もし大会とご都合が合わない場合でも、7月13日から21日の間であれば、関東にて別途お伺いすることも可能です。もしお時間を頂戴できるようでしたら、私の研究や、その出版のことなどにつきましても、先生からご教示を賜れましたら幸いに存じます。
+
+ご多忙のところ、長いメールに目を通していただき、誠にありがとうございました。時節柄、どうぞお体を大切にお過ごしくださいませ。
+
+何卒よろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 111 — USER
+**件名：広井良典先生のご紹介より**
+
+片山博文先生
+
+突然のメールにて失礼いたします。台湾出身のアドラー・ヨウ（楊逸帆 Adler Yang）と申します。このたびは広井良典先生のご紹介により、ご連絡を差し上げております（広井先生を本メールのCCに入れさせていただいております）。
+
+はじめに、簡単な自己紹介をさせてください。この十数年、私は実務と研究の二つの立場を行き来しながら歩んでまいりました。実務の側では、NPO・メディア・政府・シンクタンク・大学と連携しながら、教育改革やソーシャル・イノベーションの現場に携わってまいりました。研究の側では、多発する文明的難局（polycrisis）の背後に何らかの共通のメカニズムがあるのではないか、そしてボトムアップの変革はいかにして可能かを問い、探究を続けております。現在は、Sir Geoff Mulgan氏（UCL教授）が率いるThe Institutional Architecture Lab（TIAL）の創設フェローも務めております。
+
+この数日、広井先生のご紹介ではじめて片山先生のご存在を知り、ご著書『人新世のヒューマニズム』の目次と前書きを拝見して、深く共感する点がいくつもございました。
+
+第一に、超学際的な研究を世に問うことの難しさです。私自身、既存のいずれの学問領域にも収まりにくいテーマを扱ってまいりましたので、この難しさには身をもって向き合ってまいりました。そうしたなかで総合人間学会や批判的実在論学会に居場所を見出し、幸いにも両学会の理事を務めさせていただくに至りました。
+
+第二に、複雑系へのご着目です。複雑系・システム論は、私の実務と研究の双方を貫く中核でもあります。二〇一八年頃までの数年間は、台湾・香港、そして（中国が海外NGOの管理を公安当局へ移管する二〇一六年末までは）広東を巡り、若者・保護者・教員あわせて延べ千人ほどに、システム思考のワークショップをファシリテートいたしました。二〇一九年には、コーネル大学のDerek & Laura Cabrera両先生のもとでSystems Thinking, Mapping, and Leadership Trainerの認定を受けております。また本年は、Santa Fe InstituteのGlobal Complexity Schoolに受け入れていただいたのですが、急な健康上の事故により、参加が叶いませんでした。
+
+第三に、宇宙という視座から人間を問い直そうとされる姿勢です。私が最近出版に向けて準備している初めての英語単著『Between the Universe and the Metaverse: Surviving the Adaptational Squeeze』は、まさにその視座に立つ試みで、人間の生が、自然環境としての〈宇宙〉と、自足完結化していく人工性という新たな環境との狭間で、進化・適応的プレッシャーに圧迫されていく事態を主題としております（二頁の英語概要を添付いたします）。
+
+第四に、ビッグヒストリーです。約十年前、CourseraでDavid ChristianとYuval Noah Harari両氏の講座を受講し、強い影響を受けました。歴史そのものを専門的に研究しているわけではないため、自らの方法として「ビッグヒストリー」を掲げることは控えておりますが、今回の単著にも、The Great Oxidation Eventから動物のNiche Construction、そして人間の「自己家畜化」の流れで分析してきて、少なくともビッグヒストリー的な要素・スタイルが立ち現れているのではないかと感じております。
+
+さて、来週末7月11・12日には、片山先生の桜美林大学にて総合人間学会の二十周年大会が開催され、私も理事として参加・発表いたします。せっかくの機会でございますので、もし先生にもご参加・お立ち寄りいただけましたら、これ以上の喜びはございません。
+
+もし大会とご都合が合わない場合でも、7月13日から21日の間であれば、関東にて別途お伺いすることも可能です。もしお時間を頂戴できるようでしたら、私の研究や、その出版のことなどにつきましても、先生からご教示を賜れましたら幸いに存じます。
+
+ご多忙のところ、長いメールに目を通していただき、誠にありがとうございました。時節柄、どうぞお体を大切にお過ごしくださいませ。
+
+何卒よろしくお願い申し上げます。
+
+アドラー・ヨウ
+
+### Turn 112 — ASSISTANT
+Nearly send-ready. One real fix, then minors:
+
+**Must fix — 「自足完結化」 is a blend of your two distinct terms.** Your lexicon has **自己完結化** (self-*finishing*) and **自足完成化** (self-*completion*) as separate concepts; 「自足完結化」 is neither. Pick the intended one. Worth knowing: you used **自足完成化** to 広井 (who's **CC'd on this email**) and **自己完結** to 佐藤・梶原 — so there's already a split across your sent emails. Since 広井 sees both, I'd align this to **自足完成化** here (or consciously settle on one term for the metaverse's "self-X-ification" going forward).
+
+**Minor / your call:**
+- **件名「広井良典先生のご紹介より」** — the trailing 「より」 dangles. Cleaner: 「広井良典先生のご紹介」 or 「初めてのご連絡（広井良典先生のご紹介）」.
+- **「自然環境としての〈宇宙〉」/「新たな環境」** — you swapped 与件/実在 → 環境. For 片山 (an Anthropocene scholar) 「環境」 may actually resonate *more*, so it's a reasonable audience-tuning — just be aware it softens your core claim (universe = a *given/reality*, metaverse = a *second given*, not merely "environments"). Fine if deliberate.
+- **Big History arc (4th point)** — the GOE → niche construction → 自己家畜化 addition is a great, concrete hook for him. Two touches: 「…の流れで分析してきて」reads a little awkward → 「…へと至る流れをたどっており」; and optionally gloss the English terms (大酸化イベント／ニッチ構築) for smoothness.
+- **「来週末7月11・12日」** — correct if you send in the next few days (by ~7/5). If it slips past then, 7/11–12 becomes 「今週末」— adjust accordingly.
+- **Unchanged flags:** confirm the SFI program name (「Global Complexity School」), and attach the 2-page summary yourself.
+
+Everything else — the self-intro, the 広井 provenance + CC, the four resonance points, the conference invite, the 7/13–21 alternative + guidance ask, the close — is in good shape and etiquette-appropriate.
+
+Want me to **apply the fixes** (I'll use 自足完成化 unless you say otherwise, tidy the 件名 and the Big-History sentence) and **create the Gmail draft** — To: `katayama@obirin.ac.jp`, cc: `yoshinori@khh.biglobe.ne.jp` — then log it in the tracker?
+
+### Turn 113 — USER
+yes, apply the fixes and create the draft
+
+### Turn 114 — USER
+yes, apply the fixes and create the draft
+
+### Turn 115 — ASSISTANT
+Applying: 自足完結化 → **自足完成化**, subject → 「初めてのご連絡（広井良典先生のご紹介）」, and the Big-History sentence smoothed with glosses (大酸化イベント／ニッチ構築). Keeping your 自然環境／新たな環境 framing, 政府, 来週末, and signature as you wrote them. Loading the draft tool:
+
+Draft created (To: 片山 `katayama@obirin.ac.jp`, cc: 広井 `yoshinori@khh.biglobe.ne.jp`). Now logging it in the tracker and updating the 広井 status (his reply, and the meeting now being set):
+
+Done.
+
+**片山 Gmail draft — created** (To: `katayama@obirin.ac.jp`, cc: 広井 `yoshinori@khh.biglobe.ne.jp`), a fresh email with your fixes applied: 自足完成化, subject 「初めてのご連絡（広井良典先生のご紹介）」, and the Big-History arc smoothed to 「大酸化イベント（Great Oxidation Event）から動物のニッチ構築（niche construction）、そして人間の『自己家畜化』へと至る流れをたどっており」. Your 自然環境／新たな環境 framing, 政府, 来週末, and アドラー・ヨウ sign-off kept as written.
+
+**Before you send it:** attach the 2-page summary, and double-check the SFI program name (「Global Complexity School」).
+
+**Tracker updated** ([outreach-drafts-tracker_2026-06-26.md](metaverse-book/outreach-drafts-tracker_2026-06-26.md)):
+- **#11 片山** added — draft created, ready.
+- **#9 広井** — now marked **SENT; meeting SET 7/22 ~13:00 Tokyo** (tentative), and he gave 片山's contact + blessing.
+- **Japan-trip note** refreshed with your actual itinerary (conference 7/11–12 → Kanto 7/13–21 → 広井 7/22 Tokyo → 立命館 7/25 Kansai → home ~7/27, latest 8/11).
+
+**The one open action left in the batch:** replying to **梶原** (#7) — she's waiting to fix a Tokyo date for the book handoff (free except 7/14 & 7/18). Want me to draft that reply next? It slots neatly into your 7/13–21 Kanto window or around the 7/22 Tokyo trip.
