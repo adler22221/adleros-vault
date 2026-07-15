@@ -1,11 +1,13 @@
 ---
-status: open
+status: done
 priority: normal
-scheduled: 2026-07-12
+scheduled: 2026-07-12T09:30
 dateCreated: 2026-07-12T09:32:01.013+09:00
-dateModified: 2026-07-12T09:32:01.013+09:00
+dateModified: 2026-07-15T14:01:55.460+09:00
 tags:
   - task
+timeEstimate: 150
+completedDate: 2026-07-15
 ---
 
 
@@ -166,7 +168,7 @@ AとUは、天地依存という物質的土台・条件に直接に基づいて
 
 「総合人間学は何か」というはっきりした形式上の定義がないものの、性格が創発されているではないか
 
-# 
+# 亀山コメント
 
 長野住民大学
 
