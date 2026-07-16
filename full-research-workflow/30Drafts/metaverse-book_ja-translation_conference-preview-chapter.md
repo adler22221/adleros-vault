@@ -74,7 +74,7 @@ summary: "AI-generated Japanese translation (free-tier models) of the conference
 
 *EN:* Surviving the Adaptational Squeeze
 
-**JA:** 適応的趨圧（スクイーズ）を生き抜く
+**JA:** 適応的趨圧（英語の adaptational squeeze にあたる本稿の造語。「趨」は特定の方向へ適応的に向かうことを、「圧」は圧力を受けて圧搾されることを意味する）を生き抜く
 
 *EN:* A note for editors and agents
 
