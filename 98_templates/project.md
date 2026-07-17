@@ -12,7 +12,7 @@ created:
 ---
 # {{title}}
 
-## Goal & why  (links up to [[Mission]] / [[2026]])
+## Goal & why  (links up to [[Mission]] / [[00_horizons/2026]])
 ## Child projects
 - 
 ## Open tasks

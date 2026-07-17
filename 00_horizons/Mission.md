@@ -40,4 +40,4 @@ institutions that let it spread. The 2026–2030 priorities (every project/task 
 3. **Build minimal viable architectures for Prefigurative Academia** — distributed, cooperative, non-credentialist knowledge ecosystems; regenerative hub/foundation that accumulates/synthesizes the impact by 1 & 2 to ground/further support new initiatives. 
 4. **Build at least a financial engine** — the material base: support my own living + Angela's (閉恩濡) gap-year/grad studies + (by 2035) a defined share of *both* families' disability/elderly care; children only once that care is secured. *(Granular figures + family specifics + the realism check are kept private → [[financial-plan]] — Obsidian Sync only, out of Git + agent synthesis.)*
 
-**Rolls up to:** [[Vision]]  ·  **Rolls down to:** [[2026]] → seasons → months → weeks → days
+**Rolls up to:** [[Vision]]  ·  **Rolls down to:** [[00_horizons/2026]] → seasons → months → weeks → days

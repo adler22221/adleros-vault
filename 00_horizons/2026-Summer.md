@@ -2,7 +2,7 @@
 type: horizon
 horizon: season
 title: 2026-Summer
-parent: "[[2026]]"
+parent: "[[00_horizons/2026]]"
 season: 2026-Summer
 status: ai-draft
 author: ai
@@ -20,4 +20,4 @@ created: 2026-06-23
 ## 🔁 Learning — weekly reviews roll up here
 - (filled by `/reflect week` → `/reflect season`)
 
-**Rolls up to:** [[2026]]  ·  **Rolls down to:** months → weeks → days
+**Rolls up to:** [[00_horizons/2026]]  ·  **Rolls down to:** months → weeks → days
