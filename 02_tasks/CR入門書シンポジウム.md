@@ -18,6 +18,9 @@ tags:
 	- [マルクス所有形態論の研究: 所有と個体性の世界 | 渡辺憲正 |本 | 通販 | Amazon](https://www.amazon.co.jp/dp/4910969004?tag=24889039-22&linkCode=osi&th=1&psc=1)
 - システムと主体性の二元論を乗り越えようというのは、スピリチュアルターンのポイント
 
+# 懇親会
+
+## 佐藤春吉
 Popper’s three worlds -> [[metaverse]] [[metaverse-book]]
 [Martin Jay](https://en.wikipedia.org/wiki/Martin_Jay)
 
@@ -29,4 +32,4 @@ Popper’s three worlds -> [[metaverse]] [[metaverse-book]]
 心の中
 観念が実在性が持つ
 
-「運動」
+出版以外には「(社会)運動」
