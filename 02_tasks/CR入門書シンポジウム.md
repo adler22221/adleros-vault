@@ -1,12 +1,13 @@
 ---
-status: open
+status: done
 priority: normal
 scheduled: 2026-07-25T14:00
 timeEstimate: 180
 dateCreated: 2026-07-25T17:01:51.502+09:00
-dateModified: 2026-07-25T17:01:51.502+09:00
+dateModified: 2026-07-27T04:11:32.830+09:00
 tags:
   - task
+completedDate: 2026-07-27
 ---
 
 
@@ -21,6 +22,8 @@ tags:
 # 懇親会
 
 ## 佐藤春吉
+https://en.wikipedia.org/wiki/Manuel_DeLanda
+
 Popper’s three worlds -> [[metaverse]] [[metaverse-book]]
 [Martin Jay](https://en.wikipedia.org/wiki/Martin_Jay)
 
