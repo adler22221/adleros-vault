@@ -38,19 +38,53 @@ absolutely no text, no letters, no numbers, no typography, no labels.
 
 ## ② 作図③：四つの器官の無文字ループ図（スライド13）
 
+**モチーフ**：ユクスキュルの機能環（Funktionskreis）——知覚器官（receptor）が環境から徴表（Merkzeichen／information, signs）を受け取り、環の内部規則（rules of the cycle）を経て、作用器官（effector）が効果徴表（Wirkzeichen）として環境に働きかけ返す、という一つの円環構造。4つの器官はこの単一の機能環を分業している：IoTが受容（知覚器官が卓越）、ビッグデータが保持（蓄積された徴表）、AIが規則（内部規則が卓越）、コードが作用（作用器官が卓越）。前のプロンプトは「空のノード＋矢印」でしかなく、器官の機能そのものが絵にならなかった——今回は各ノードの解剖そのものに知覚／規則／作用を描き込む。
+
 ```
 [共通スタイル前文]
-A circular flow diagram with exactly four empty rounded rectangular nodes
-arranged evenly around a circle, connected by curved arrows flowing
-clockwise from one node to the next, forming a closed loop. The arrows
-should be clearly directional (arrowheads visible) and slightly glowing
-amber to suggest active energy flow. The nodes themselves are plain empty
-blue-green rounded panels with soft drop shadows, ready to receive labels.
-Centered composition, loop fills most of the frame.
+A circular flow diagram illustrating Jakob von Uexküll's functional-cycle
+(Funktionskreis) model, applied to four technical organs arranged evenly
+around one closed loop, in this fixed clockwise order:
+
+1. First panel (a pure sensing/perception organ): dominated by a large
+   concave funnel-shaped intake feature on its counter-clockwise edge,
+   with small glowing particles of information visibly flowing inward
+   into it. Its internal core (see below) is small and subdued.
+2. Second panel (a retaining/storage organ): its intake and output
+   features are modest, but its central core is rendered as a
+   layered, strata-like archive shape — stacked translucent horizontal
+   bands, as if accumulating incoming particles over time like
+   sediment.
+3. Third panel (an interpreting, rule-forming organ): its central core
+   is the largest and most complex of the four — a crystalline,
+   many-faceted glowing shape, clearly the most intricate structure in
+   the whole image — while its intake and output features are modest.
+4. Fourth panel (a pure effecting/acting organ): dominated by a large
+   convex radiating beam feature on its clockwise edge, emitting a
+   bright, sharp, directional glow outward — brighter and sharper than
+   any other panel's output. Its internal core is small and subdued.
+
+Every panel shares the same three-part anatomy at different scales: a
+concave funnel-intake (perception organ / receptor) on its incoming
+edge, a small central core (the rule governing how intake becomes
+output) in the middle, and a convex radiating beam (effect organ /
+effector) on its outgoing edge — only the emphasis differs per panel,
+as described above. The four panels are connected by curved arrows
+flowing clockwise, each arrow running from one panel's output-beam
+directly into the next panel's intake-funnel, visibly made of small
+glowing amber particles in motion along the arrow's path — showing
+that one organ's effect becomes the next organ's perception. The loop
+must be fully closed, with the fourth panel's output arrow curving
+back around to the first panel's intake. Panels are plain blue-green
+rounded rectangles with soft drop shadows; all functional-anatomy
+features (funnels, cores, beams) are rendered as glowing structural
+linework, not solid decorative fills, so they read as diagrammatic
+anatomy rather than ornament. Centered composition, loop fills most of
+the frame.
 absolutely no text, no letters, no numbers, no typography, no labels.
 ```
-**PowerPointで乗せるラベル**（4ノードそれぞれの中央に、生成後に配置）：
-`AI` ／ `ビッグデータ` ／ `IoT` ／ `法としてのコード`
+**PowerPointで乗せるラベル**（生成後、各ノードの中央に配置——上記の固定順序に対応）：
+`IoT`（①漏斗＝受容器が卓越）／`ビッグデータ`（②地層状コア＝保持）／`AI`（③結晶コア＝規則が卓越）／`法としてのコード`（④放射ビーム＝作用器が卓越）
 ※各ノードにラベルが収まる余白（ノード幅の70%程度）を想定して生成させる
 
 ---
@@ -110,7 +144,76 @@ absolutely no text, no letters, no numbers, no typography, no labels.
 
 ---
 
+## ⑥ 与件から引き剥がされた自己像（スライド9）
+
+```
+[共通スタイル前文]
+A single human silhouette standing upright and detached, elevated on a
+small isolated platform at the center of the frame. Below and around it,
+a vast web of faint organic root-like threads spreads outward across the
+lower two-thirds of the frame — but every thread bends and curves upward,
+reaching toward the standing figure, as though the whole field exists to
+answer to it rather than the figure being embedded within it. The threads
+should thin and fade toward the edges. The figure itself is rendered
+slightly larger and more solid than the threads, conveying command and
+separateness rather than connection.
+absolutely no text, no letters, no numbers, no typography, no labels.
+```
+**PowerPointで乗せるラベル**：不要（スライド本文の主張文がすでに議論を運ぶ。この絵は純粋に補助的な視覚）
+
+---
+
+## ⑦ 一次〜三次の過去把持・予持（スライド13・最優先級——抽象概念の可視化）
+
+```
+[共通スタイル前文]
+A horizontal flowing river of light representing the passage of time,
+with a single bright vertical point of light at the center marking "now".
+Immediately behind and ahead of this point, short warm amber wisps of
+light curve gently backward and forward, close to the center, rendered
+organically like breath or smoke — representing lived memory and
+anticipation. Extending far beyond these short organic wisps, in both
+directions toward the edges of the frame, a long rigid blue-green
+cable-like or circuit-like trail runs steadily in a straight line, glowing
+evenly — clearly extending much further into both the past and the future
+than the short organic wisps do, representing an externalized, technical
+memory and anticipation that outreaches lived experience.
+absolutely no text, no letters, no numbers, no typography, no labels.
+```
+**PowerPointで乗せるラベル**（生成後、該当箇所の下に小さく配置）：
+`一次・二次過去把持／予持`（中央の短い有機的な部分の下）／`第三次過去把持／予持`（左右に伸びる長い直線部分の下）
+
+---
+
+## ⑧ ユーザーとしての人間／自足完成化する人工性（スライド15・二つの円と差し替え）
+
+```
+[共通スタイル前文]
+Split composition, left and right halves. Left half: several relaxed
+human silhouettes in easy, unburdened postures — sitting, reclining,
+walking loosely — bathed in soft warm amber light, spaced with generous
+open space between them, conveying ease and equal freedom, none of them
+in a posture of effort or labor. Right half: a self-contained abstract
+mechanical structure — an intricate glowing lattice of interlocking gears
+and circuit-like nodes forming a closed loop, humming with its own
+internal activity, rendered in cool blue-green and deep navy, conveying
+quiet autonomous operation that needs no outside attention. A few faint
+thin threads run from the human figures on the left toward the structure
+on the right, suggesting burden flowing away from the humans into the
+machine.
+absolutely no text, no letters, no numbers, no typography, no labels.
+```
+**PowerPointで乗せるラベル**：`ユーザー`（左半分の下）／`自足完成化する人工性`（右半分の下）
+**注**：この絵が届くまでは、現行のネイティブ二円図（自己完結化／自足完成化）をそのまま残す——空白スライドにしない。届いた時点で二円をこの絵に差し替える。
+
+---
+
 ## 補足：ネットから取得する写真（Geminiではなく検索）
 
-- **鍵のかかったドアの写真**（スライド5・道理相の例示）——Unsplash/Pexels等、再配布可のものを検索。出典をスライド隅に小さく記載
+- ~~鍵のかかったドアの写真（旧スライド5）~~ ——氷山の図（道・理・相の空間比喩、ネイティブ図形で実装済み）に差し替え、写真は不要になった
+- **マカートニー使節団の乾隆帝謁見（1793年）**（スライド7・複数の世界）——Wikimedia Commonsで確認済みの3候補（すべてパブリックドメイン）：
+  1. William Alexander画「The Approach of the Emperor of China to His Tent in Tartary to Receive the British Ambassador」（1793年、謁見の場面。**これを推奨**）
+  2. William Alexander画「Lord Macartney Embassy To China 1793」（マカートニー初回会見の場面）
+  3. James Gillray の風刺版画（1792年）——ただし三跪九叩頭問題を揶揄する戯画のため、学術発表の調子には不向き。非推奨
+  ダウンロードは要確認（ユーザーの明示的な許可が必要なため、このスライドはまだ枠のみ）
 - **Moltbookのフロントページ図版**（スライド18）——取得できない場合は引用ボックス（既にpptx側に用意済み）のまま使用。論証に必要なのは "Built for agents, by agents… Humans welcome to observe." という文言そのものなので、画面写真が無くても成立する

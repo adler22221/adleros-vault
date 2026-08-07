@@ -7,28 +7,28 @@ Generated: 2026-07-26
 
 ## HIGH Priority (must resolve before drafting)
 
-- [ ] **Q001**: Is IGNITE's actual mentoring/program culture closer to individual founder-
-  hero/Silicon-Valley-style celebration of entrepreneurship, or a more collaborative,
-  failure-tolerant, systems-oriented culture — and is either in tension with Adler's
-  documented anti-heroistic, anti-guru-branding values (CLAUDE.md, activity-preferences.md)?
-  - Why it matters: If the program culture leans hard founder-hero, Adler's natural voice
-    (collaborative, systems-first, allergic to guru branding) could read as a poor culture
-    fit in the interview, or he could end up performing a persona he'd resent for 3+ months.
-    If it leans collaborative/failure-tolerant, this is actually a genuine strength alignment
-    worth surfacing.
-  - Where to look: The program's own /about/ and /session/ pages returned FETCH ERROR (404)
-    in this research pass and were not retrievable — they likely hold the fullest philosophy
-    statement. Try again closer to application time, or via web.archive.org. Also worth a
-    direct interview question ("what does mentorship culture actually look like day to day?")
-    if Adler reaches that stage.
-  - Current assumption: Evidence is mixed and NOT resolved. The homepage's "火"(fire)/
-    individual-passion framing and at least one producer's reported Silicon-Valley
-    background (via a single, MEDIUM-confidence press source) pull toward founder-centric.
-    Nakao's 失敗学会/"failure science" academic background and the program's own "make-test-
-    refine, pivot" iteration language pull toward a more systems/collaborative culture.
-    Proceeding on the assumption that BOTH elements are genuinely present and in some tension
-    within the program itself — Adler should not perform pure founder-hero enthusiasm, but
-    should also not lead with anti-heroism as a critique in application materials.
+- [x] **Q001** (SUBSTANTIALLY RESOLVED 2026-08-06): Is IGNITE's actual mentoring/program
+  culture closer to individual founder-hero/Silicon-Valley-style celebration of
+  entrepreneurship, or a more collaborative, failure-tolerant, systems-oriented culture?
+  - /about/ and /session/ are permanently gone (site restructured to a single-page design in
+    2026), but the JREC-IN posting itself contains a 【マインドセット】section for staff hires
+    specifically, not previously captured: **守破離** (absorb ~7 years of accumulated practice
+    before innovating on it — a sequencing expectation, not just a culture-fit line);
+    **超長期の視点** (no fixed dissolution date; hires expected to help build succession
+    systems so the center outlasts them personally); and **team structure** (joining an
+    existing ~6-person mentor team, mid-40s, while building a new 4–5-person team alongside
+    other trial hires). See call.md's マインドセット section for full detail.
+  - Verdict: this leans collaborative/succession-oriented, not lone-founder-hero. Not a
+    culture-fit risk in the way originally flagged — if anything, worth surfacing as genuine
+    alignment (Adler's systems-first, anti-guru orientation fits 守破離 sequencing and
+    succession-building framing well). Still not 100% resolved (no direct interview-style
+    confirmation), so worth a light-touch confirming question at interview stage, not in
+    written application materials.
+
+- [x] **Q002** (RESOLVED): the アンケート (questionnaire) Google Form questions are fully
+  known — see form-fields.md, a verbatim transcript of all 13 questions plus the Q10 skill
+  checklist. Re-verified as current and accurate against the live JREC-IN posting on
+  2026-08-06 (form URL confirmed via the posting's own forms.gle short link).
 
 - [ ] **Q002**: What are the exact questions in the アンケート (questionnaire) Google Form?
   - Why it matters: form-fields.md confirms this is completely unknown from the JREC-IN
@@ -59,6 +59,24 @@ Generated: 2026-07-26
     date are logistically compatible (per adler-japan-context.md's own framing), but this has
     NOT been verified against actual contractor/visa rules and should be resolved before
     Adler commits to the October start date in any application document.
+
+- [ ] **Q008** (NEW 2026-08-06): Which 履歴書 template/format does JREC-IN Portal itself
+  actually require for this listing — a free-form PDF, or a specific mandated template?
+  - Why it matters: UTokyo's official 記入例 (https://www.u-tokyo.ac.jp/content/400007720.pdf)
+    turns out to be **別紙様式１**, the internal template for 教職員／特定有期雇用教職員 hiring
+    — i.e. direct UTokyo employment, not 業務委託 contractor status, which is what this IGNITE
+    role actually is. form-fields.md's Q8 only requires the 履歴書 to be "identical to what was
+    submitted to JREC-IN Portal" and never names this specific template. Using the wrong
+    template risks wasted formatting effort AND missing fields JREC-IN's own upload actually
+    expects. Notably, 別紙様式１ has **no 本人希望記入欄 field at all** — if this is the wrong
+    template, the entire (a)/(b)/(c) commute-commitment decision (B-6) may need to move
+    elsewhere (Q12, or simply not be written anywhere as a dedicated field).
+  - Where to look: JREC-IN Portal's own application-submission flow (only visible once Adler
+    logs in to actually apply) should show what résumé format/upload mechanism it expects.
+    Check before finalizing 履歴書 layout — do not assume 別紙様式１ is mandatory.
+  - Current assumption: treating 別紙様式１ as the best available *reference* for standard
+    Japanese-institution résumé conventions (学歴/職歴 table structure, 勤務態様 field,
+    handwritten-signature sign-off, no 印/hanko required) but NOT as a confirmed mandate.
 
 ---
 
@@ -104,6 +122,17 @@ Generated: 2026-07-26
 ---
 
 ## Resolved (archive)
+
+- [x] **Q009** (RESOLVED 2026-08-06): Does this application need a researchmap.jp profile, or
+  a personal/org portfolio website beyond what exists? → No to both. Confirmed against the
+  live JREC-IN posting and form-fields.md's verbatim question list: neither researchmap, a
+  researcher ID, nor a website/portfolio URL is requested anywhere. Adler has no existing
+  researchmap profile (none found in a live search) and building one is not on the critical
+  path for this submission. His existing GitBook (awakening-coop-lab.gitbook.io/adleryang)
+  and Awakening Cooperative Lab's separate org site (awakeningedu.org) are both real,
+  populated, and adequate — building anything new here is scope creep given the deadline.
+  Only low-cost optional move: add the GitBook URL as a line in the 職務経歴書 PDF itself
+  (not required by the form, but a résumé is a natural place for it).
 
 - [x] **Q000**: Is the JREC-IN posting (D126061862) still live, current, and authentic, or
   could it be a stale/expired listing? → Resolved: the program's own July 1, 2026 staff-

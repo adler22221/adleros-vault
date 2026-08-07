@@ -112,8 +112,110 @@ Consequence: Strategy 3 is no longer blocked. Its central claim is now substanti
 which changes the §4 Recommendation's reasoning (it had ranked 3 lower *because* this was
 undecided). See the strategy decision below.
 
+## 履歴書 事実確認 — 要確認②③④ RESOLVED (2026-08-06)
+
+- **要確認②（唯物論学会の正式名称）**: **唯物論研究協会**。「日本の唯物論系学会」の暫定表記を
+  この正式名称に差し替えること（職務経歴書 §8）。
+- **要確認③（Humanity Experimental School）**: 正式日本語名称
+  **非学校形態実験教育展賦行動学苑　ヒューマニティー・スクール**
+  （元：非学校形態実験教育人文行動高校）。在籍 **2011年9月–2014年6月**、修了区分
+  **卒業**。※このテンプレート（別紙様式１）の学歴欄は「高等学校」「大学・短大・高専・
+  専門学校等」「大学院」「学位」の4区分のみで小学校・中学校の欄は存在しないため、2003年
+  からの自主学習歴（Adlerが当初 CLAUDE.md で「2003–2014」と書いていた期間）はこの欄には
+  含めない — Q6のナラティブ側で扱う。
+- **要確認④（Minerva University の在籍区分）**: 実際のフォーム（別紙様式１）のドロップ
+  ダウンには「中退」は存在せず、正しい語は **退学**。行の内容（確定）：
+  `Minerva University（アメリカ合衆国）（休学　2016年12月～2018年9月）` ／
+  修了区分：**退学** ／ 年月：**2019年8月**。
+  背景（履歴書には書かない — 記入欄がないため。Q7や面談で使う場合のみ）：2015年に合格、
+  当初の目的は学位取得ではなくエスノグラフィックな参与観察調査。2016年9月に入学したが
+  台湾での仕事・エスノグラフィー・課題の負荷が重なり、同年12月（1学期終了前）に休学。
+  2018年9月に復学し、2018–19年度を最後まで修了（2019年4月ごろ）。正式な退学手続きは
+  2019年8月。公式理由は「健康上の理由による自主退学」（事実）。実質的には、調査自体が
+  十分完了し、かつ対象が企業機密情報を多く含み公表可能性が大きく制約されたため、その
+  プロジェクトを一旦「冬眠」させる判断でもあった。
+  **注記（未実行・後日検討）**: 「学位のためではなく参与観察調査のために在籍した」という
+  説明は Q7 で使える強い素材になり得るが、Q7 の字数予算・構成は既に精査済みのため、
+  この会話では追加していない。次のレビュー/編集ラウンドで検討する。
+
+## 雫穿大学（Tekisen）— 要確認⑤ RESOLVED (2026-08-06)
+
+正式名称（漢字表記、日本語読みではなく中国語由来）：**雫穿大学**。在籍区分：**研究生**。
+
+⚠️ **重要な訂正**：実際のフォーム（別紙様式１）の自身のセル注釈を直接確認した結果、
+研究生歴の記載場所は当初の想定と逆であることが判明した。「研究生等歴は『所属組織』欄に
+大学・研究機関等の名称及び研究生等の種類を記入する（『職名』欄には記入しない）。また、
+『勤務態様』欄に１週間あたりの研究従事時間又は授業時間数を記入する」— これは No.2
+シート（職歴／その他の期間）の注釈であり、**学歴ではなく職歴に記載する**のが正しい。
+open-questions.md 要確認⑤の「研究生なら学歴」という記述は誤りとして訂正済み。
+
+**確定した3行（Minerva との重複期間の扱いについて、実際の週あたり研究時間が変動した
+ため、フォーム自身の指示「変更があった場合は都度改行して記入する」に従い3行に分割）**:
+
+| 期間 | 勤務態様 |
+|---|---|
+| 2017年11月～2018年8月（Minerva非重複期間） | 週20時間 |
+| 2018年9月～2019年4月（Minerva 2018-19学年度と重複；雫穿大学はMinervaエスノグラフィー調査の指導・監督の場だったため、この期間は指導教員との面談時間のみをカウント） | 月2時間程度 |
+| 2019年5月～2019年12月（Minerva退学手続き前後、単独期間） | 週20時間 |
+
+行イメージ：`雫穿大学（研究生）` ／ 職名欄：記入しない ／ 所在地：記入不要（日本のため）。
+※「月2時間程度」はフォームの規定書式（週あたり）と厳密には一致しないが、実態を最も
+正確に表す表現として本人が選択（週0.5時間という換算表記より自然）。
+
+## 組織の日本語（漢字）名称 — 要確認⑧ 一部RESOLVED (2026-08-06)
+
+中国語由来の漢字表記であり、日本語の音読みでは読まない（本人の指示）：
+- Awakening Cooperative Lab = **青醒人共生文化智庫**
+- IRAEEH = **国際実験高等教育知行連盟**
+- East Asia Dojo = **東亜超域変革道場**
+- ZA Share = **雑学校**
+- Only Experimental Education = **Only実験教育**
+- ドキュメンタリー題名：中国語原題 **學習的理由**／邦訳（本人による）「勉強の理由：
+  もしそれがあるならば…」
+- 道道教育：**「島島阿学」で確定（2026-08-06、本人確認済み）。** 発音上「Dao Dao」と一致
+  しないように見えたため確認したが、意図的な表記として確定。
+- Design for Change Taiwan：**英語表記のまま使用（日本語訳なし、本人指定）。**
+
+## 要確認⑨（2012年助成財団名）RESOLVED (2026-08-06)
+正式名称：**財団法人富邦文教基金会**。職務経歴書 §1 の「財団助成」の一般化表記をこれに
+差し替えること。
+
+## 要確認⑩（総合人間学会 理事任期）RESOLVED (2026-08-06)
+**再任・留任し、現在も務めている。** Q6・職務経歴書 §8 とも現在形に戻し、「2026年6月まで」
+という終了含みの表現を削除すること（新しい任期の終了日は不明のため、終了日を書かずに
+現在形で表現する）。
+
+## 要確認①（東呉大学 東京渡航ロジ）RESOLVED (2026-08-06)
+**本人が実際に担当していたことを確認（行政的な調整を含む）。** 受け入れ先との日程調整・
+渡航と宿泊の手配・当日の引率のすべてを自分で行った。v1で書かれていた一文をQ7第3段落に
+戻してよい（現状998字／余裕2字のため、他を削って再カウントが必要）。
+
+## Q11 紹介者 RESOLVED (2026-08-07) — leave blank
+
+Researched what 紹介者 conventionally means on Japanese job-application forms before naming
+anyone. Confirmed (moneyforward.com/kaonavi.jp HR-glossary sources, and a real-world referral
+form example): 紹介者 means the specific person — usually connected to the hiring org itself
+(staff/executive/business partner) — who introduced the applicant to *this specific opening*
+(リファラル採用/縁故採用 sense), not a general character reference (that's 推薦者/推薦書,
+different vocabulary, seen used elsewhere on Japanese academic hiring forms).
+
+Adler found this posting independently by browsing JREC-IN (per Q6's own text: "JREC-INで…
+公募を見つけ"). No one introduced him to it. **Field stays blank — correct under the field's
+actual meaning, not just the safe default.**
+
+Candidates discussed and ruled out on these grounds (none introduced him to this posting; the
+question of whether any would make a good general reference is moot once 紹介者's actual scope
+is understood): Joi Ito (also excluded per hard constraint below), 古沢広祐 (総合人間学会 former
+会長, real working relationship, academic-society context), 朝倉景樹 (Tekisen supervisor),
+蘇仰志/Ozzie Su (**corrected 2026-08-07**: founder/CEO of ZA Share itself — Adler's own former
+org, where Adler was 教務主任/Director of Research & International Affairs; a real, documented,
+close working relationship, not the DFC Taiwan founder as earlier wrongly guessed — that's
+許芯瑋), Ada Wong 黃英琦 (verified major HK/Greater-China social-innovation figure, but zero
+documented Japan footprint — would not register with this specific Sony/UTokyo-engineering
+hiring side).
+
 ## Still unresolved elsewhere (not Adler-blocking, but do not paper over)
 - Q001 — IGNITE's culture (founder-hero vs failure-tolerant): unresolved. Ask in Q12.
 - Q003 — foreign-national 業務委託／在留資格 logistics: unresolved. Disclose in Q4/Q12,
   never promise the Oct 1 start as clean.
-- Q11 紹介者 — Adler's call whether to name anyone. Joi Ito must not appear here.
+- Q11 紹介者 — Joi Ito must not appear here (moot now that the field is confirmed blank).

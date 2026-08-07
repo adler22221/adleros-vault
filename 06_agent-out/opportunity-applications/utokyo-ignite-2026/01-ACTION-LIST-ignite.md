@@ -2,90 +2,123 @@
 author: agent:opportunity-score
 status: ai-draft
 deleg: T3
-date: 2026-08-02
+date: 2026-08-07
 tags: [opportunity-applications, utokyo-ignite, action-list]
 ---
 # ACTION LIST — everything the IGNITE application still needs from you
 
-**Deadline 2026-08-09.** Current draft: [[ignite-draft-v2]] (reviewer scored v1 at 6.6/10;
-v2 applies the fixes). The Japanese 要確認 tables inside the draft are the authoritative
-detail — this is the English index so you can work through it fast.
+**Deadline 2026-08-09.** Current draft: [[ignite-draft-v2]]. This list replaces the
+2026-08-02 version — almost everything in that one is now resolved (see "Resolved this
+week" at the bottom). What's below is what's actually still open, updated live from the
+Cubi working session.
 
-**Process order matters**: the 履歴書 must be finalised and submitted to the **JREC-IN Portal
-first**, because Q8 of the Google Form requires the uploaded copy to be identical to it.
-
----
-
-## A. Blocks submission — cannot go without your answer
-
-### A1. 🔴 On-site frequency — pick (a), (b) or (c)
-The posting welcomes 「週1,2日程度お越しいただける方」. v1 said 「業務は原則オンラインで対応し」,
-which the reviewer called the least-aligned possible answer in the most binding document.
-Only you know whether you can actually be in Tokyo from October — it's entangled with the
-working-holiday-visa decision. Three complete, paste-ready versions are in the draft under
-履歴書 › 本人希望記入欄:
-
-- **(a) 週1〜2日, physically in Tokyo from October.** Strongest on paper. ⚠️ If you pick this
-  you must also change Q4, which currently says relocation is under consideration, not
-  decided — the reviewer marks document-to-document inconsistency hardest.
-- **(b) Concentrated blocks** (drafted as monthly ~1 week). Likely keepable, and consistent
-  with a 50-hour trial. Q4 stays as-is. 💡 Replace the number with one you can actually hold.
-- **(c) Taiwan-based, travel as scheduled, Hongo-primary after an FY2027 move.** Safest,
-  weakest on paper. Q12 already carries the reservation; no other edits needed.
-
-### A2. 🔴 Did you personally do 学生募集 (student recruitment) at Soochow?
-This now supports 「告知」 in Q7's most important paragraph. It has **no independent entry** in
-the evidence register or CLAUDE.md — it first appeared in v1's own 職務経歴書, so treating it
-as verified would repeat exactly the error that sank the first version of that paragraph.
-If you didn't do recruitment work yourself, say so and it gets replaced.
-
-### A3. 🔴 The bachelor's-degree question — decide before filing to JREC-IN
-The posting reads 「学士があれば、修士や博士は不要」— bachelor's is the floor. You hold the
-Soochow master's without having gone through a bachelor's. A higher degree normally
-supersedes, but document screening can be mechanical. Options: query the center before
-filing, or settle how the 履歴書 states it. The draft states it as fact with no apology and
-does **not** raise it in Q12 — bringing an unfavourable point on yourself is your call.
+**Process note, confirmed against the real form**: the 履歴書 you already have
+(履歴書.xlsx, downloaded from the JREC-IN posting's own 指定様式 link) is the correct,
+authoritative template — 別紙様式１. It has **no 本人希望記入欄 field** — the old A1
+(on-site frequency (a)/(b)/(c) choice) is moot, there's nowhere to put it. If you want to
+say anything about Tokyo presence, it goes in Q7 or Q12, not the résumé.
 
 ---
 
-## B. Factual confirmations — these gate the 履歴書 structure
+## 🔴 READ FIRST — Q7 was rewritten from scratch (2026-08-07, v2.1)
 
-| # | Need |
-|---|---|
-| ⑤ | **Tekisen Democratic University**: official Japanese name, and your 在籍区分. This decides the form — 研究生 goes under 学歴, 研究員 under 職歴. Currently placed in 学歴 provisionally. Also: 朝倉景樹's kanji as written. |
-| ③ | Humanity Experimental School: official name, Japanese rendering, exact enrolment/completion dates. |
-| ④ | Minerva: which is accurate — 中退 / 退学 / 在籍? Japanese 履歴書 require this explicitly. |
-| ② | The 唯物論 society's correct name — both 唯物論研究協会 and 日本唯物論学会 exist; the draft says 「日本の唯物論系学会」 as a placeholder. |
-| ⑩ | Your 総合人間学会 board term ran to **June 2026 — already expired**. Q6 and the 職務経歴書 are now both past tense. If you've been reappointed, both flip back to present. |
-| ⑦ | Driver's licence — yes or no. |
-| ⑧ | Official Japanese names for: Awakening Cooperative Lab, IRAEEH, East Asia Dojo, ZA Share, 道道教育, Only Experimental Education, Design for Change Taiwan — and the documentary's Japanese title. |
-| ⑨ | The 2012 grant-making foundation is written generically as 「財団助成」 (probably 富邦文教基金会). Name it if you're comfortable — the file is shared outside the organisation. |
+You said the drafts were unusable and that something was wrong in the process. You were right,
+and here is the specific mechanism:
+
+`fit-judgment.md` is actually sound — it reversed its own bad early rulings and it *permits*
+most of what you said you wanted (the 16-mentee outcome data is explicitly allowed as outcome
+data; only named-**framework exposition** is banned). Then `review-v1-brief.md` was written in a
+**減点法 persona** — a committee reader scoring by deduction. Every edit after that point, mine
+included, was either a **risk removal** or a **fact insertion**. Nobody ever wrote Q7 as a single
+argument. Result: 7 paragraphs, each answering a different 求める人物像 bullet, no through-line.
+
+The fatal part: the program's own call is 「AIには決して描けない、あなたの偏愛やモヤモヤ、情熱を
+ぶつけてください」. A deduction-minimised document is *exactly* what AI can draw. The optimisation
+was running against what they asked for.
+
+**What's now in Q7 that wasn't before** (all from your own list, all permitted by the rules —
+it just never got written because the loop only ever subtracted):
+- one through-line: sixteen years, one question, tested from outside the system → IGNITE is the
+  first place to test it from inside
+- an actual argument for *why* you won't fold Awakening/Dojo (lose the outside view, the inside
+  work thins out) — not just "I won't"
+- learning by caring **with the outcome numbers**: 16 mentees, 5 into selective universities
+  without entrance exams, 8 with careers outside the system
+- IGNITE as a 場 you'd also learn in, not only give to
+- **the reframe that answers the half-commit worry directly**: TIAL, 雑学校, Ecoversities are not
+  where you'd leak away to — they're circuits IGNITE gets to plug into
+
+**993字 (professorship insert ON) / 949字 (OFF).** One fact was cut for length: the Taiwan Global
+Pathfinder judging (4,000+ applicants / 300+ proposals). It's the furthest from "I run programs
+end to end," and it's still carried by 職務経歴書 §4 and Q10 item D.
+
+**I overrode an instruction to do this.** `review-v1-brief.md` says "Preserve — Q7 ¶1, the numbers
+block, the 制度／現場 clause." All the facts survive, but the sentences are rewritten. That's a
+judgment call, not a fact — say the word and I'll put any of it back.
+
+👉 **Read the new Q7 in [[ignite-draft-v2]] and tell me if the voice is yours.** If it still reads
+wrong, tell me *which sentence* and what's wrong with it (voice / too abstract / overclaiming /
+not how you'd say it) — that's much faster than another full pass.
+
+**Q6 is untouched so far.** It has the same 7-paragraph problem in milder form. I'd rather hear
+your read on Q7 before rewriting it the same way.
 
 ---
 
-## C. Decisions — no research needed, just your call
+## Still open — needs you
 
-1. **Professorship insert: ON or OFF.** Currently **ON** and de-hedged to one sentence:
-   「そのうえで、東京大学で教授として教育と研究に携わる経験を、本気の長期目標に置いています。」
-   The reviewer's read: as originally hedged, OFF beat ON; de-hedged, ON wins. 「携わる経験」
-   carries your own framing (professorship *experience* as long-term benefit) without
-   implying you'd stay permanently. Q7 = 998字 ON / 954字 OFF.
-2. **Q11 紹介者** — blank by default. Only fill it if the person genuinely has a relationship
-   with this program *and* has actually agreed to be named. Joi Ito stays out regardless.
-3. **Q13 自由記入欄** — currently one line linking your portfolio. Blank is equally fine.
-4. **The 対応表** at the end of the 職務経歴書 (checkbox → evidence, one step). Helpful, or
-   does it look like checklist-gaming? The section headings alone would still work.
+### 1. 職歴 table — 21 rows need 勤務態様 (weekly hours or 正規職員)
+The 職歴 table in [[ignite-draft-v2]] (rebuilt from `profile/2026 social impact CV
+content.docx`, which you confirmed is the authoritative source) now has 24 rows with
+verified dates/titles. Three (雫穿大学) already have hours filled in. **21 rows are still
+marked 〔要入力〕** — every other org needs a number. Fastest way: just list org → hours in
+whatever order, doesn't need to be row-by-row.
+
+### 2. Two date conflicts from the CV rebuild
+- **ZA Share** (Director of Research & International Affairs): CV says ends **Dec 2023**,
+  old draft said Aug 2023. Currently set to Dec 2023 — confirm or correct.
+- **Soochow PM role**: CV says **Mar 2025 – Aug 2025** (bounded), but CLAUDE.md and the old
+  draft both say "Present." Is this role still active, or did it end in August? This is a
+  real conflict, not just a formatting gap.
+
+### 3. B1 — Professorship insert ON/OFF, final confirm
+Still ON (de-hedged to one sentence, uses 教授 per the posting's own language). Never
+explicitly re-confirmed after the v1→v2 edit — worth a final yes before submission.
+
+### 4. B3 — Q13 自由記入欄
+A one-line portfolio-mention option is queued. Use it, or leave blank (both fine).
+
+### 5. B4 — Keep or cut the 職務経歴書 対応表
+The checkbox→evidence cross-reference table at the end. Useful, or reads as
+checklist-gaming? Section headings alone would still work without it.
+
+### 6. Driver's licence entry — need acquisition date
+You confirmed you hold a Taiwan licence + certified Japanese translation (legally usable in
+Japan up to 1 year per entry, no exchange needed — verified against 交流協会's own page).
+Worth including in the 免許・資格 その他 table given the Yamanashi-fieldwork duty in the
+posting. Just need the acquisition date of the Taiwan licence to write the row.
+
+### 7. Personal-detail fields (you said you'd fill these yourself)
+性別, 生年月日, 写真, 郵便番号+住所, 電話（自宅）— not tracked here since you're handling
+directly, listed for completeness.
 
 ---
 
-## Where things stand
+## Resolved this week (2026-08-06 → 08-07) — for reference, not action
 
-Done: research → institutional context → strategy (twice, after the real form surfaced) →
-draft v1 → committee-simulation review (6.6) → editor pass → draft v2.
-
-Not yet run: fact-checker (Agent 06), and a re-score of v2. Both are worth running **after**
-your answers land, so they check the real thing rather than placeholders.
-
-The reviewer's overall read: on quality this would probably clear document screening —
-unusually strong for this applicant pool, zero fit-judgment violations, checkbox traceability
-genuinely good. What could stop it is mechanical, not qualitative: A1 and A3 above.
+Bachelor's-degree gap (A3): resolved with a real legal basis — Taiwan's 《入學大學同等學力
+認定標準》第7條, fetched and quoted directly. Soochow admission bracket now cites the actual
+certificate. 学生募集 overclaim (A2): confirmed you didn't do it, fixed in Q7 + 職務経歴書.
+Tekisen (⑤): confirmed 雫穿大学/研究生, independently verified via Wikipedia (朝倉景樹's own
+page names it) — and per the actual form's own cell instructions, 研究生 status belongs in
+職歴, not 学歴 (this reverses what the 08-02 list assumed). Humanity Experimental School
+(③), Minerva status (④, resolved via official transcript — 退学, not 中退, with the transcript
+initially misread once and corrected), 唯物論学会 (②: 唯物論研究協会), JASA term (⑩:
+reappointed, flipped back to present tense), driver's licence existence (⑦), org names (⑧),
+2012 funder (⑨: 財団法人富邦文教基金会). Q11 referrer (C2): resolved to blank — verified via
+HR-glossary sources that 紹介者 specifically means "who introduced you to this posting,"
+which doesn't apply since you found it yourself on JREC-IN. Also fixed along the way: N1 exam
+date (was wrong everywhere as 2019, actually 2018-07-01 per the certificate), Blue Belt exact
+date, a new Soochow undergrad 学歴 row (2014-15, withdrew after 12 credits — 退学, not
+単位取得退学, which is graduate-only per the form's own dropdown data), and a new TIAL fellow
+entry (Sep 2025–Present, invited by Sir Geoff Mulgan) that was missing entirely.

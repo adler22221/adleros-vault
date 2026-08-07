@@ -2,10 +2,17 @@
 author: agent:opportunity-score
 status: ai-draft
 deleg: T3
-date: 2026-07-26
+date: 2026-08-07
 tags: [opportunity-applications, utokyo-ignite, pipeline-output]
 ---
 # START HERE — UTokyo IGNITE application pipeline output
+
+⚠️ **2026-08-07 update: read [[01-ACTION-LIST-ignite]] first, not this file.** Everything
+below (strategy pick, pipeline status, "kept out entirely" decisions) is from the
+2026-07-26/08-02 stage and is now superseded — strategy was picked (1+note, see
+`strategy-choice.txt`), the writer stage ran, and draft v2 has been through extensive
+revision since, including several of the "kept out" items below (論文博士 is now IN Q7).
+Keeping this section as historical trail, not current guidance.
 
 Mirror of the pipeline artifacts from `~/opportunity-applications/fellowships/utokyo-ignite-2026/`
 on Cubi, copied here so they're readable in Obsidian. **The Cubi copies are the working
@@ -14,8 +21,8 @@ originals** — if you edit here, tell me so I can sync back before the next pip
 **The posting**: UTokyo Cross-Border Innovation Research Center, IGNITE program — Education
 Staff & Mentor. JREC-IN D126061862. **Deadline 2026-08-09.**
 
-**Pipeline status**: research + strategy stages complete. **Paused at the human gate — waiting
-on your strategy pick** before the writer stage runs.
+**Pipeline status (historical, see banner above)**: research + strategy stages complete. Paused
+at the human gate — waiting on strategy pick — before the writer stage runs.
 
 ---
 
