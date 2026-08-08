@@ -423,7 +423,7 @@ Before we proceed, here are some rough points that I’d like to highlight in my
 --> multi-stakeholder & synergistic coordination 
 - now in a synthesis stage 
 — ignite as a 場 to contribute everything I’ve learned 
-— also a place for me to learn by caring, a source for synergies with my current/upcoming roles & projects: TIAL, Dojo, Za share, ecoversities, learning planet institute… etc
+— also a place for me to learn by caring, a source for synergies with my current/upcoming roles & projects: TIAL etc
 
 # perplexity nemotron
 

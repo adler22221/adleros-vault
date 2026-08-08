@@ -78,6 +78,31 @@ Generated: 2026-07-26
     Japanese-institution résumé conventions (学歴/職歴 table structure, 勤務態様 field,
     handwritten-signature sign-off, no 印/hanko required) but NOT as a confirmed mandate.
 
+- [ ] **Q010** (NEW 2026-08-08): Does Joann Shen (沈潔伃) have any documented tie to the IGNITE
+  center or the Sony Group endowment fund itself — as opposed to only her own separate UTokyo
+  lab/research affiliation, unconnected to this hiring line?
+  - Why it matters: adler-decisions.md's Q11 (紹介者) resolution — "leave blank" — was reasoned
+    on the premise that Adler found this posting independently on JREC-IN and that no one
+    referred him to it. That premise has since been corrected: Joann actually told him about
+    the posting during a July 2026 visit; JREC-IN is where he verified/formalized it, not where
+    he discovered it. This reopens 紹介者 as a live question rather than a moot one. If Joann
+    has a documented tie to the IGNITE center or Sony endowment specifically (not just to an
+    unrelated UTokyo lab), she may need to be named in the field as an insider referral
+    (リファラル採用 sense), per the 紹介者 convention already researched and recorded in
+    adler-decisions.md's Q11 section (moneyforward.com/kaonavi.jp HR-glossary sourcing). If no
+    such tie exists, blank likely remains correct — but for a different reason than currently
+    written ("no one referred him" vs. "the person who told him has no documented tie to the
+    hiring org").
+  - Where to look: Ask Adler directly what Joann's current UTokyo lab/research affiliation is
+    and whether it has any documented connection to 越境イノベーション研究センター, the Sony
+    Group endowment, or the IGNITE program's named staff (Nakao, Nagato, Sugiue — see
+    evidence-register.md C007–C009). strategy-outline-v2.md (row 2 of its §0 table) and
+    strategy-outline-v3.md/-v4.md already raise this exact question during drafting
+    exploration but do not resolve it definitively.
+  - Current assumption: None — unresolved, and blocks a clean re-verification of Q11 until
+    answered. adler-decisions.md's Q11 entry should not be treated as settled on its current
+    reasoning until this is confirmed.
+
 ---
 
 ## MEDIUM Priority (resolve if possible; note assumption if not)

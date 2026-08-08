@@ -1,0 +1,534 @@
+
+
+# perplexity grok
+
+## Overall verdict
+
+This is the first version that finally has a **real spine**.  
+Q6 is close. Q7 is still a strong outline wearing the clothes of a final answer.
+
+If the previous drafts were B / B+, this is roughly:
+
+- **Q6: A-**
+- **Q7: B+ as architecture, B as finished prose**
+
+The biggest gain is that Claude finally stopped writing a polished CV and started writing from your actual theory of practice: **見出す・焚き付ける / Learning by Caring / lived entrepreneurship / research–practice loop / ecosystem hub**.
+
+What remains is not “more content.” It is **selection, compression, and emotional control**.
+
+## What is now working
+
+### Q6
+
+This is substantially better for five reasons:
+
+1. **Joann is no longer decoration.** Her story is the structural center.
+2. **Learning by Caring is shown, not named as theory jargon.**  
+   “困っている現実の側に立って動くと、学ぶ理由も、仲間も、資源も、後からついてくる” is one of the best sentences in the whole application so far.
+3. **The outcome ladder is concrete:** futoko → award → NCTU without exam → graduate school via 同等学力 → Japan / UTokyo-adjacent 当事者研究.
+4. **The co-presentation line is excellent:**  
+   “かつて伴走した相手と、今は並んで報告している。”
+5. **The posting’s third persona lands cleanly** as recognition, not flattery.
+
+### Q7
+
+The architecture is finally right:
+
+- fire / accompaniment
+- evidence
+- lived entrepreneurship
+- three contribution lanes
+- 守破離
+- half-commitment / duration
+- residual institutional responsibility
+
+That is much closer to a standout 志望動機 than the previous credential parade.
+
+## Remaining problems
+
+### 1. Q6 still ends on the wrong note
+
+The last paragraph still drifts into Japan biography:
+
+> 日本との縁も、今回が初めてではない…ちょうど、生活の一部を日本に移すかどうかを考えている時期でもあった。
+
+This weakens the ending. Q6 should end on **recognition and ignition**, not logistics.
+
+Better ending logic:
+
+- Joann’s referral
+- her arc
+- reading the posting
+- recognition that this is a place where the fire-work you have done may belong
+
+Japan commitment belongs mainly in Q7 / 職務経歴書.
+
+### 2. Q6 still lacks your own lived-entrepreneurship charge
+
+Your outline explicitly wanted:
+
+> not just long-term youth mentor, but youth entrepreneurship/innovation is also my lived experience
+
+Q6 currently proves you are an exceptional mentor. It does **not** yet prove why the “自分もベンチャーを続けながら次世代育成” persona is biographically true.
+
+You do not need the full prize list in Q6. You need **one compressed lived-experience sentence**, such as:
+
+> 十六歳の頃から、自分自身も社会起業の側に立ちながら、同世代や年下の若者の伴走をしてきた。
+
+That one sentence would make the “手が止まった” moment land much harder.
+
+### 3. Q7 is still an annotated outline, not finished rhetoric
+
+The section labels 【A】【B】【C】 are useful for drafting, but fatal in submission. More importantly, the prose still behaves like modular blocks rather than one continuous argument.
+
+Right now Q7 feels like:
+
+> thesis  
+> evidence dump  
+> autobiography dump  
+> three contributions  
+> mindset  
+> terms  
+> closing slogan
+
+It needs to feel like:
+
+> I have been doing X  
+> here is what that produced  
+> therefore here is what I can do for IGNITE  
+> and here is how I will enter and stay
+
+### 4. Q7 front-loads too much aggregate evidence
+
+Paragraph 【B】 is dense and impressive, but too statistical too early:
+
+- 16 mentees
+- 7 disadvantaged
+- no-exam pathways
+- 8 alternative careers
+- 30% / 75% retention
+
+This belongs, but not all in the opening body. In a 1000-character answer, **2–3 emblematic outcomes + one aggregate sentence** is stronger than a full results table in prose.
+
+Named cases are more memorable than percentages. Joann already carries huge weight from Q6. In Q7, keep:
+
+- one more emblematic mentee or the Map the System student
+- one aggregate line
+
+Move the rest to 職務経歴書.
+
+### 5. The lived-entrepreneurship section is still a medal wall
+
+【C】 is important, but currently reads like an awards inventory:
+
+- age 16 training
+- age 17 Fubon
+- age 17 championship
+- MadHK
+- Thiel
+- 30 under 30
+- Cornell certificate
+- documentary awards
+
+For IGNITE, the point is not prestige accumulation. The point is:
+
+> I can accompany student innovators because I know the inside of early-stage attempt, failure, resource scarcity, cross-border expansion, and public narrative work.
+
+So compress hard:
+
+> 十六歳で起業研修を受け、十七歳で社会起業の構想発表に勝ち、団体を台湾から香港・中国へ広げた。二十歳でThiel Fellowshipの選考過程に入り、以後も自分の事業と研究を止めずに、若者の伴走を続けてきた。
+
+That is enough.
+
+### 6. The three contribution lanes are conceptually right, but still too self-referential
+
+This is the most important remaining strategic issue.
+
+Your three lanes:
+
+1. research–practice feedback loop
+2. ecosystem hub
+3. participatory design + self-operated implementation
+
+are true to you. But they are still framed as **your operating system**, not yet as **IGNITE’s operational needs**.
+
+Translate them into IGNITE-facing language:
+
+1. **学生チームへの伴走**  
+   problem framing, systems/design methods, stakeholder work, reflective iteration, social implementation
+2. **プログラム／イベントの設計と泥臭い運営**  
+   recruitment, facilitation, logistics, evaluation, documentation
+3. **実践を仕組みと知に変換する役割**  
+   mentoring methods, programme learning, AI-supported knowledge infrastructure, research on the education practice itself
+
+Right now lane 1 and 2 still sound a bit like “IGNITE is a good habitat for my way of working.”  
+They need to sound like “this is how your students and centre become stronger if I join.”
+
+### 7. “Synergies with TIAL etc.” is still too visible in the background logic
+
+You wisely did not dump TIAL/Dojo/Ecoversities into the draft as a shopping list. Good.  
+Keep it that way.
+
+In the written application, do **not** say:
+
+> IGNITE will also create synergies with my other roles
+
+Say:
+
+> 複数の実践と研究の現場を横断してきた経験を、学生の伴走とプログラム設計に還元したい
+
+The difference is subtle and decisive.
+
+### 8. Half-commitment is better, but can be cleaner
+
+This version is much improved:
+
+> 募集要項が示す働き方が、今の自分にとって最も無理のない形
+
+Good.  
+Keep that.  
+Do not reintroduce income language.
+
+Also good:
+
+> まず三か月、互いに見極めた上で、五年以上
+
+That matches the posting’s actual structure.
+
+## What to cut, keep, move
+
+### Keep in Q6
+- Joann’s message
+- her futoko → Learning by Caring → award → NCTU → graduate school → Japan/当事者研究 arc
+- co-presentation
+- recognition of the third persona in the posting
+- one sentence of your own lifelong fire / lived innovator identity
+
+### Move out of Q6
+- Tekisen / JLPT / Japan-residence deliberation as a full paragraph
+- any broad autobiography not needed for the ignition moment
+
+### Keep in Q7
+- 火を見出す・焚き付ける
+- condensed mentoring evidence
+- condensed lived entrepreneurship
+- three contribution lanes
+- 守破離
+- 3-month trial → 5+ years
+- education practice as research object
+- “自分が抜けた後も回り続ける仕組み”
+
+### Move from Q7 to 職務経歴書
+- full mentee statistics
+- full award list
+- full workshop/summit metrics
+- detailed role history
+- publication footnotes if character pressure is high
+
+## Target shape after compression
+
+### Q6 target logic
+1. Joann contacted me
+2. Who she was / what happened through Learning by Caring
+3. Why her judgment carried weight
+4. I read the posting and recognized myself in the third persona
+5. I have spent 16 years finding and tending young people’s fire, while keeping my own alight
+6. This felt less like a random opening, more like a place where that work may continue
+
+Target length: **750–900 characters**, not maxed out with secondary biography.
+
+### Q7 target logic
+1. I understand IGNITE as accompaniment + operations + long-term institution-building
+2. I have done this directly with youth innovators, and lived it myself
+3. What I can contribute, in 3 lanes
+4. I will enter through 守
+5. Half-commitment and multi-year horizon, subject to mutual fit
+6. I want to leave behind systems that outlast me
+
+Target length: **920–990 characters**, fully continuous prose, no section labels.
+
+## The strategic principle Claude still under-implements
+
+Your outline is rich. The draft still tries to honor too much of it inside the two form answers.
+
+For standout quality, impose this rule:
+
+> **If a fact does not change the reviewer’s decision in the first 60 seconds, it does not belong in Q6/Q7.**
+
+That means:
+
+- Joann changes the decision
+- Learning by Caring as lived method changes the decision
+- “I was a youth innovator myself” changes the decision
+- three concrete contribution lanes change the decision
+- 守破離 + long-term residual responsibility change the decision
+
+While:
+
+- every award title
+- every percentage
+- every affiliate network
+- every publication
+- every Japan credential
+
+are supporting evidence, not the main argument.
+
+## Specific rewrite instructions for Claude’s next pass
+
+### For Q6
+- Delete the final Japan paragraph as currently written.
+- Add one sentence of your lived innovator identity before or after the “手が止まった” moment.
+- End on ignition/recognition, not residence planning.
+- Keep Joann’s arc, but slightly tighten the middle so the emotional line stays clean.
+- Do not mention 阿古智子 by name unless explicitly useful and fully consented; “東京大学の教員のもとで” is safer and already strong.
+
+### For Q7
+- Remove all 【A】【B】 labels.
+- Open with the fire thesis, not the data table.
+- Reduce mentee evidence to:
+  - one aggregate sentence
+  - one or two emblematic outcomes
+  - Map the System as a teaching outcome
+- Compress lived entrepreneurship to 2–3 sentences max.
+- Rewrite the three lanes in IGNITE-operative language.
+- Keep 守破離.
+- Keep 3 months → 5+ years.
+- Keep “education as research object.”
+- End with residual institutional responsibility.
+- Cut anything that sounds like “IGNITE is useful for my synthesis stage.”
+
+### For both
+- No unverified IGNITE slogans.
+- No income phrasing.
+- No “synergy with my other projects” phrasing.
+- No medal-wall cadence.
+
+## Bottom line
+
+Your outline was the right medicine.  
+Claude finally absorbed the medicine.  
+Now the task is no longer ideation. It is **editorial ruthlessness**.
+
+The application will stand out not when it contains everything true about you, but when a reviewer can finish Q6/Q7 and immediately say:
+
+> This person has already spent 16 years doing the human core of IGNITE — finding and tending young people’s fire — and can also handle programme design, operations, and institutional continuity.
+
+That is the sentence the next draft must make unavoidable.
+
+If you want, next I can give Claude a **compression brief with hard character budgets per paragraph** for Q6 and Q7, so the next output is forced into final-form prose rather than another rich outline.
+
+Sources
+[1] お仕事に関するお問い合わせ https://docs.google.com/forms/d/e/1FAIpQLSftBvIQ8Z59C5tWHkhxC_A3qcpwIbcB8udCXjUFIzvrBcWBbw/viewform?usp=pp_url
+
+## Q6　本募集に興味を持ったきっかけ（729字）
+
+今年七月、沈潔伃さんから連絡が来た。「日本で教育や社会イノベーションの仕事を探していたら、この募集が出てきた。自分の就職先を探す途中で見つけたのに、これはむしろあなたの経歴に合っている」。
+
+彼女と出会ったのは、十代の頃だった。地元の進学校に通いながら、学校に行けなくなっていた。覚醒コーポラティブ・ラボに加わり、自分を追い込んだ教育のあり方そのものを変えにいった。困っている現実の側に立って動くと、学ぶ理由も、仲間も、資源も、後からついてくる。私たちはそれをラーニング・バイ・ケアリングと呼んできた。彼女は北京の教育イノベーション賞を受け、統一入試を経ずに国立交通大学へ進み、学士を持たないまま同等学力の規定で東華大学大学院に入った。今は日本で、東京大学の教員のもと当事者研究に携わり、自分の教育団体も動かしている。2025年には、学会のパネルで並んで発表した。かつて伴走した相手と、いまは同じ側に立っている。
+
+十六年来、私は若い人の火を見出し、焚き付けてきた。同時に、十六歳の頃から自分自身も社会起業の側に立ち、火を絶やさずに燃やし続けてきた。伴走と挑戦を、別々の仕事だと思ったことがない。
+
+募集要項を自分の目で読んだとき、手が止まった。立ち上げを続けながら、次世代の育成にも半分の力で本気で関わりたい人——募集の側が、今の私の生き方をそのまま書いていた。研究と社会イノベーションが互いにフィードバックし、その往復自体が自分にとっても学生にとっても学びになる場所。関係を結び直す生態系のハブ。IGNITEは、その両方を一つの場として持つ、稀有な場所に見えた。沈さんから届いた話は、思いがけない偶然というより、長く燃やしてきた火の先に灯った合図のように感じられた。
+
+***
+
+## Q7　志望動機・意気込み（903字）
+
+IGNITEが求めているのは、学生の挑戦に伴走し、地道な運営も担い、その実践ごと長く育てられる人だと理解している。私はその芯を、十六年間やってきた。
+
+十八歳未満の若者十六名に個別に伴走した。不登校や困難を抱えた家庭の出身者も少なくない。統一入試を経ずに進学した者、学士なしで大学院へ進んだ者、国際的な教育賞を受けた者、自分の組織を立ち上げた者がいる。システム思考を教えた受講生の一人は、Map the System 2022の台湾代表としてオックスフォードの世界大会に出た。直接の伴走の外側でも、台湾・香港・中国で累計約三千名にデザイン思考とシステム思考の場を開き、若者の社会変革コンテストや大型助成の審査も担ってきた。
+
+若い挑戦者に伴走できるのは、自分もその側にいたからだ。十六歳で起業研修を受け、十七歳で社会起業の構想を競い、団体を台湾から香港・中国へ広げた。以後も自分の事業と研究を止めず、次の世代の火を看てきた。やがて、個人の伴走だけでは足りないと知り、高等教育や知の生産の場そのものを、社会変革の土壌として問い直すようになった。複数の組織のあいだを回路として動かし、プログラムを設計し、国際会議を企画運営し、実務の末端まで自分で担ってきた。
+
+貢献できる筋は三つある。第一に、学生チームへの伴走——問いの立て方、利害関係者との接続、試作と振り返り、社会実装までの伴走。第二に、プログラムの設計と泥臭い運営——企画、募集、ファシリテーション、日程や場の手配、評価と記録を、設計と切り離さず担うこと。第三に、実践を仕組みと知へ戻すこと——メンタリングや運営そのものを研究対象にし、次に残る方法へ変換すること。
+
+ただし、持ち込む前に学びたい。七年かけて積み上げられてきたものを、守破離の「守」から受け取りたい。まず三か月、互いに見極めたうえで、五年以上の関わりを想定している。ライフワークを続けながら次世代育成に本気で関わるハーフコミットは、募集が示す働き方として自然だ。教育に従事しながらその教育を研究対象とする役割も、担う用意がある。自分が抜けたあとも回り続ける仕組みを残すこと。そこまで含めて引き受けたい。
+
+***
+
+## Design choices
+
+**Q6 does three jobs only**
+1. Joann’s message and arc = proof that your mentorship produces real lives
+2. “火を見出し、焚き付ける” + your own early entrepreneurship = why the third persona stopped you
+3. IGNITE as rare place where research–practice feedback and ecosystem-hub work coincide
+
+**Q7 does the hiring job**
+1. I understand what you need
+2. I have done the core already
+3. I lived youth innovation myself
+4. I later moved toward higher education as soil for change
+5. Three contribution lanes in IGNITE’s operational language
+6. 守 first, then 3 months → 5+ years, residual institutional responsibility
+
+## Intentionally left out of the form answers
+
+| Material | Why excluded here | Where it belongs |
+|---|---|---|
+| Full award wall (Fubon, Thiel, Cornell, 30 under 30…) | Medal cadence kills voice | 職務経歴書 |
+| Named Minerva / Thiel critique | Too much theory-politics for form | interview / portfolio |
+| TIAL, Dojo, Ecoversities as “synergies” | Sounds extractive | interview, if asked |
+| JASA / IACR titles | Prestige signal, not decision-changing in 1000字 | 職務経歴書 |
+| Coworking-space logistics | Too practical/self-serving for きっかけ | interview |
+| Income language | Weakens motive | never |
+| Unverified IGNITE slogans | Credibility risk | never |
+| JLPT / Tekisen biography in Q6 | Dilutes ignition story | 職務経歴書 |
+
+## One line to confirm before submission
+
+Replace Joann’s quoted sentence with her **actual wording** if you have it. Even a slightly rougher real message will outperform a polished paraphrase.
+
+If you want, next I can produce the matching **職務経歴書** so every claim in Q6/Q7 has a locatable evidence line.
+
+# perplexity gpt
+
+以下は、抽象理論を先に置かず、まず「一人の若者の火がどう見出され、育ったか」から始める構成にしました。フォーム用としては、感傷に寄り過ぎず、IGNITE が求める伴走力・起業経験・長期的な場づくりへの適性が読めるようにしています。なお、Q6 冒頭の Joann さんの引用は、必ず本人の原文に差し替えてください。
+
+***
+
+### Q6　本募集に興味を持ったきっかけ（案）
+
+「【ここに、Joannさんの言葉を原文のまま挿入】」
+
+Joannさんは、地域で最も競争的な高校に通いながら不登校となった若者だった。Awakening Coop Lab で私が伴走し、彼女は、自らを周縁化した教育のあり方を変えようとする実践を通して学びの資源と仲間を得ていった。私はこの過程を〈Learning by Caring〉と呼んでいる。彼女は受賞を重ね、標準的な入試を経ずに国立交通大学へ進学し、のちに同等学力第七条を通じて東華大学大学院へ進んだ。現在は日本で、東京大学の教員と当事者研究に取り組んでいる（掲載について本人の同意を得ている）。
+
+十六年間、私はこうした若者の火を見出し、焚き付けてきた。不登校経験者が社会イノベーション・コンテストに挑戦したり、標準的な進学競争を経ずに大学へ進んだり、システム思考を用いて自らを取り巻く問題の構造を可視化したりする過程に伴走してきた。デザイン×システム思考のワークショップでは、若者・教育者・保護者あわせて約三千人と学び、Design for Change の審査員や台湾の青年政策事業の審査にも携わった。
+
+同時に、若者の起業・イノベーションは、私自身の生きた経験でもある。十六歳で青年創業研修に入り、十七歳で社会起業提案の優勝や奨学金を得て香港へ渡り、二十歳で Thiel Fellowship の選考・サミットに参加した。研究、社会実装、そして次世代の伴走が互いに育て合う場として、IGNITE に強く惹かれた。
+
+***
+
+### Q7　志望動機・意気込み（案）
+
+私は、教育を「既存の社会に適応する人材を選抜・配分する装置」としてではなく、若者が自らの問い、傷、関心、才能から他者と社会をケアし、その過程で新しい資源・関係・進路を創発していく場としてつくり直したい。その問いから、教育変革、社会起業、映像、研究、国際協働、プログラム設計を横断してきた。
+
+Minerva や Thiel Fellowship 等との出会いを契機に、高等教育・研究が持つ社会変革の可能性をより深く考えるようになった。以後、民主的・生態学的な社会の代替案、トランスディシプリナリな知識生産、研究と実践の往復を探究してきた。学会理事・評議員、研究・編集・メディア実践、ZA Share の R&D Director、KASpaces Taiwan のプログラム責任者／主任研究員として、多様な立場の人々と目的をつなぎ、相互に作用し合う場を編んできた。
+
+いま私は、それらを一つの実践知として統合する段階にいる。IGNITE は、学生の挑戦を伴走するだけでなく、テクノロジー、ビジネス、アート、研究、大学、企業、地域を交差させながら、長期的な変容の生態系を育てようとしている。だからこそ、私が学び、失敗し、蓄積してきたものを具体的に貢献できる場だと感じる。
+
+まずは既存チームが七年間培ってきた知見を謙虚に学び、学生の伴走、プログラム設計・評価、AIを活かした協働環境づくりに着実に貢献したい。そのうえで、自らの研究・実践との往復を通じ、IGNITE が一人ひとりの火を絶やさず、社会へ広がる火種を育て続けられる仕組みを、皆様と共につくっていきたい。
+
+***
+
+Joann さんの「直接引用」の原文と、Q6・Q7 のフォーム上の前後設問が分かれば、引用の温度感と両設問間の重複をさらに精密に調整できます。
+
+Sources
+
+
+# perplexity Kimi
+
+Here's my take, built strictly from your outline and written in your voice — the opening-quote device, the 〈〉bracketed concepts, the reflective but concrete cadence of your column. A few notes before the drafts:
+
+- **Joann's quote**: I've left a clearly marked placeholder at the top of Q6 — paste her actual words there (ideally 1–2 sentences, ~60–120 characters, so the total stays under the limit).
+- **Character counts**: Q6 runs ~850 characters plus the quote placeholder; Q7 runs ~860. Both leave comfortable headroom under 1000, so you have room to adjust.
+- **Division of labor**: Q6 carries the "fire" origin arc (Joann → 16 years of kindling → why IGNITE specifically); Q7 carries the "synthesis" arc (academia → coordination craft → what I contribute and learn). This avoids the two answers cannibalizing each other.
+- **Small accuracy flags**: I rendered 国立交通大学 as 「国立交通大学（現・国立陽明交通大学）」 given the 2021 merger — delete the parenthetical if she entered before the merger and you prefer the original name. If her admission channel was specifically 特殊選才, naming it (「特殊選才」枠) would add precision for reviewers who know Taiwan's system.
+
+***
+
+### Q6 本募集に興味を持ったきっかけ（1000文字以内）
+
+「（ジョアンの言葉・原文をここに挿入）」
+
+　ジョアンはかつて、地元屈指の進学校で不登校になった少女だった。私が運営する教育団体アウェイクニングのメンティーとなった彼女は、自分を周縁に追いやった教育制度そのものを変えようとする学び——私が〈ラーニング・バイ・ケアリング〉と呼ぶ営み——を通じて、自ら学びの資源を切り拓き、受賞を重ね、統一入試を経ずに国立交通大学（現・国立陽明交通大学）に進学した。さらに同等学力認定基準第七条（いわゆる「呉宝春条項」）によって東華大学大学院に進み、今は日本で、東京大学の教員と共に当事者研究に取り組んでいる（本人の掲載同意済み）。
+
+　彼女だけではない。この十六年間、私は何人もの若者の「火」を見出し、焚き付けてきた。オルタナティブ学習空間「島島阿学」で伴走した二人の不登校のメンティーは、一人が青少年ソーシャル・イノベーション・コンテストに挑戦し、一人が統一入試を経ずに東華大学に進学した。システム思考を学んだ学生は、自らを抑圧してきたシステムをマッピングし、変革のレバレッジポイントを見出した。間接的には、デザイン×システム思考のワークショップに累計約三千人の若者・教育者・保護者が参加し、デザイン・フォー・チェンジや台湾教育部「青年百億圓夢計画」の審査員として、何百もの若者の挑戦に接してきた。
+
+　そして、若きイノベーションは私自身の生きてきた経験でもある。十六歳で経済部中小企業処の青年創業研修に参加し（同期は三十代以上）、十七歳で富邦圓夢賞を受賞し、社会起業提案コンペで大学生以上の競争相手を制して優勝した。同年、奨学金で香港のMake a Differenceに参加し、アウェイクニングを香港・中国へ広げた。二十歳でティール・フェローシップのセミファイナリストとしてサミットに招かれ、二十四歳でコーネル大学のシステムズ・トレーナー認定を取得した。
+
+　私の火が最もよく燃えるのは、社会研究と社会実践が互いにフィードバックし合い、その循環自体が私とメンティーたちの教育の旅になるときである。IGNITEは、それを一つの職場で——しかも物理的に、コワーキングスペースに自分の仕事を持ち込む形で——実現できる稀有な場だ。そして、自らを「変容のためのエコシステムのハブ」と位置づける、もう一つの稀有な場でもある。だからこそ私は、この募集に惹かれた。
+
+### Q7 志望動機・意気込み（1000文字以内）
+
+　私が高等教育——最も広い意味での学術——に身を投じてきたのは、そこに社会変容のポテンシャルを見出したからである。ミネルヴァの実験、ティール・フェローシップが体現する大学外の挑戦、民主的・生態的なオルタナティブ、そしてトランスディシプリナリな知の生産。二十七歳から総合人間学会（JASA）、二十九歳から国際批判的実在論協会（IACR）の理事・評議員として、これらの問いを制度の内側から育て、それぞれの実践を学会誌や書籍などの出版物に結実させてきた。
+
+　同時に私は、メディア、起業、キュレーション、プログラム設計を横断しながら、異なる目的を持つ主体を共鳴させるコーディネーションを重ねてきた。二十五歳からアジア最大級の教育イノベーション・フェス「雜學校（ZA Share）」のR&Dディレクター、二十六歳からコンラッド・アデナウアー財団のKASpaces台湾プログラムディレクター兼リードリサーチャーとして、官・民・学・NPOをつなぐ協働を設計してきた。火を点けるだけでなく、火と火とをつなぎ、燃え続ける「場」を設計すること——それが私の仕事だった。
+
+　今、私はそれらを統合する段階にいる。IGNITEは、私が学んできたすべてを注ぎ込める場である。学生起業家へのメンタリング、ワークショップと評価の設計、AIを前提とした実験インフラの構築、産学越境のエコシステムづくり——どれも、私が別々の現場で鍛えてきたことの合成である。同時にIGNITEは、私自身にとっての〈ラーニング・バイ・ケアリング〉の場でもある。トロント大学のInstitutional Architecture Lab（TIAL）をはじめとする現在・今後のプロジェクトとのシナジーを持ち込み、センターの実践知を国際的な制度研究へと還流させたい。
+
+　七年間蓄積されてきた企画運営の知見を、まず「守」として謙虚に学ぶ。そのうえで、〈配分依存〉論をはじめとする私の理論と実践を「破」「離」へとつなぎ、自分がいなくなった後も進化し続ける仕組みを残したい。十年先を見据え、学生たちの火が燃え続ける生態系を、共に育てていきたい。
+
+***
+
+Two deliberate choices worth knowing: Q6 ends on the "だからこそ惹かれた" beat so it answers the きっかけ question explicitly rather than drifting into motivation territory, and Q7 closes by echoing the posting's own language (守破離・長期視点) so the reviewers hear their criteria reflected back in your voice. Once you paste Joann's actual quote, I can re-tighten Q6 to land exactly at the character limit — or would you rather adjust the balance first, say giving the "lived experience" paragraph more room and compressing the indirect-impact list?
+
+Sources
+
+# perplexity gpt5.4
+
+Below is how I would write these two answers in Japanese, keeping your voice relatively close to the sample: reflective, concrete, slightly essayistic, but still legible to a selection committee.
+
+***
+
+### Q6 本募集に興味を持ったきっかけ（1000字以内）
+
+私が本募集に強く惹かれたきっかけは、一人の若者の変容に、改めて「火を着ける場」の重要性を見たからです。
+
+「私にとって Awakening は、ただ勉強を教えてくれる場所ではなかった。自分を周縁化した教育システムそのものに働きかけることが、逆に自分自身の学びと人生を開いていく場だった。」
+
+これは、かつて地元トップ高校で不登校となり、のちに私のメンティーとして Awakening に関わった Joann の言葉です。彼女は、自分を排除した教育のあり方を変えようとする実践、すなわち私が「learning by caring」と呼ぶ営みを通じて、学びの資源と仲間を獲得し、各種の賞を受け、標準的な受験ルートを経ずに国立交通大学へ進み、その後は同等学力第七条によって東華大学大学院に進学しました。現在は日本で、東京大学の先生と当事者研究に取り組んでいます。
+
+私はこの16年間、こうした若者たちの「火」を見出し、焚き付ける仕事をしてきました。不登校の若者が社会イノベーションのコンテストに挑戦したり、標準的な進学競争を経ずに大学へ進んだり、あるいはシステム思考を学んだ学生が自ら問題の構造を可視化し始めたりする場面に、何度も立ち会ってきました。直接伴走してきた事例だけでなく、累計約3000人の若者・教育者・保護者とデザイン×システム思考のワークショップを重ね、Design for Change や百億圓夢計畫の審査にも関わってきました。
+
+同時に、私自身も若者としてイノベーションの現場を生きてきました。16歳で経済部中小企業処の青年創業研修に参加し、17歳で富邦圓夢や社会起業提案で受賞し、香港の Make a Difference に奨学金参加してチームの越境展開も経験しました。その後も Thiel Fellowship のセミファイナルや Cornell の systems trainer certification などを通じ、他者の挑戦を支えるだけでなく、自らも挑戦し続けてきました。
+
+だからこそ IGNITE に惹かれます。私の火は、社会研究と社会実装が相互にフィードバックし、その往復そのものが自分と若い人たちの学びになる場で、最もよく燃えます。IGNITE は、その循環を一つの職場の中で、しかも物理的な場としても実現しうる、稀有な場だと感じました。さらに、教育プログラムにとどまらず、変容のためのエコシステムのハブを志向している点にも、深く共鳴しています。
+
+### Q7 志望動機・意気込み（1000字以内）
+
+私の志望動機は、若者の挑戦を支える教育実践と、社会を変えるための研究・制度設計とを、分断せずに一つの場で育てたいからです。
+
+私はこれまで、オルタナティブ教育、社会起業、メディア制作、プログラム設計、リサーチ、国際的な知的ネットワークの媒介など、複数の領域を横断してきました。Minerva や Thiel Fellowship に触発されつつ、高等教育やアカデミアを、単なる資格付与機関ではなく、社会変容の潜在力を持つ場として捉えてきました。また、民主的・生態的なオルタナティブ、トランスディシプリナリーな知識生産、複数主体の協働設計にも継続して関わり、JASA や IACR の理事・評議員としても活動してきました。
+
+その過程で一貫していたのは、「別々の現場をつなぎ、相互作用を起こすハブになる」ことでした。メディア、起業、キュレーション、教育プログラム、制度設計、研究を横断しながら、異なる主体の目的をすり合わせ、時に共同の目的へと編み直す仕事をしてきました。ZA Share や KASpaces Taiwan での役割も、まさにそうした複数ステークホルダー間の相乗的な協働設計に関わるものでした。
+
+今の私は、その蓄積を一度統合し直す「総合」の段階に入っています。IGNITE は、これまで学び、試し、失敗し、編み上げてきたものを、次の世代の挑戦者たちのために具体的に差し出せる場だと感じています。同時に私自身にとっても、若者やプロジェクトにケアをもって関わることで新たに学ぶ、「learning by caring」の場でもあります。
+
+もし参画の機会を頂けるなら、学生の火を見出して焚き付ける伴走者としてだけでなく、プログラム設計・評価・知識化・AI活用を含む運営基盤の改善にも貢献したいと考えています。そして、実践と研究、個々の挑戦とエコシステム形成とを往復させながら、IGNITE が長期的に進化し続けるための土壌づくりにも力を尽くしたいです。私自身の現在の研究や今後のプロジェクトとも良い相互作用を生み出しつつ、IGNITE という場に対して、誠実に、長期的にコミットしていきたいと考えています。
+
+If you want, I can do a second pass in either of these directions:
+
+1. more 東大/採用向けで少し硬く・選考通過率重視  
+2. more あなたらしい思想性を残したまま、さらに美文調にする  
+3. 1000字ぴったり近くまで詰める  
+4. Google Form にそのまま貼れる完成版に磨く
+
+Sources
+
+# perplexity gpt
+
+以下は、Q6 を「Joann との再会が、あなた自身の教育実践の意味を照らし返した契機」として、Q7 を「なぜ今、IGNITE でその経験を統合したいのか」として分けた案です。各 \(1000\) 字以内を意識し、過度に履歴書的にならないよう、具体的な人の変容から始めました。「同等学力第七條」は、台湾の教育部による大学院入学資格の規定で、学士号を持たなくても、一定の専門業績・卓越した成果等を審査して修士課程への入学資格を認定しうる仕組みです。通称「吳寶春條款」と呼ばれます。  
+
+***
+
+### Q6　本募集に興味を持ったきっかけ
+
+　「我本來在找我在日本可以做的教育或社會創新工作，結果發現這個IGNITE的工作要找的人幾乎完全符合你的能力跟經歷欸。」
+
+　この募集を教えてくれたのは、かつて私が伴走していたJoannである。地元有数の高校に在学しながら不登校となった彼女は、学校で周縁化された自らの経験を、教育を変えるための問いへと変えていった。彼女が他者をケアし、社会を変えようとする活動そのものを学びの資源へつなげる――私たちが「Learning by Caring」と呼んできた実践を通じて、彼女は受賞や実践経験を重ね、統一入試を経ずに国立交通大学へ進学した。さらに、専門的な実績等を審査して大学院入学資格を認める台湾の同等学力認定制度（通称「吳寶春條款」）を通じ、国立東華大学大学院に進学した。現在は日本で、東京大学の研究者とともに当事者研究に取り組んでいる。
+
+　十六年間、私はこのように、若者の内にある火を見出し、焚き付け、彼ら自身が社会との関係をつくり直す過程に伴走してきた。不登校経験者が社会イノベーション・コンテストに挑戦したり、入試を経ずに大学へ進学したりした。システム思考を学んだ学生は、2022年 Map the System Taiwan で優勝し、台湾代表としてオックスフォードの世界大会へ出場した。デザイン×システム思考のワークショップでは、累計約三千人の若者、教育者、保護者と出会ってきた。
+
+　同時に私は、十六歳で青年創業研修に参加して以来、自らも社会起業・教育イノベーションの挑戦者であった。若者を支援することと、自ら未知の実践を始めることは、私にとって最初から切り離せない。
+
+　教育、研究、社会実装が別々にならず、互いを問い返し、育て合う場。さらに、個々の挑戦を越えて変容の生態系をつくろうとする場。IGNITE に強く惹かれたのは、そこに私自身が長く探してきた、その二つの条件があると感じたからである。
+
+***
+
+### Q7　志望動機・意気込み
+
+　私は、教育を「既存社会への適応を助ける技術」としてだけではなく、社会の不幸や不義を再生産する関係そのものを、若者とともに問い直し、つくり替える営みとして実践・研究してきた。そのために、教育、社会起業、映像制作、メディア、国際交流、プログラム設計、研究・執筆を横断してきた。
+
+　Minerva や Thiel Fellowship、民主的・生態学的な社会代替案、学際的な知識生産の場を取材・研究し、国内外の媒体で発信してきた。また、日本総合人間学会および国際批判的実在論学会の理事・評議員として、研究者・実践者・市民の間をつなぐ活動にも携わっている。ZA Share の R&D Director、KASpaces Taiwan のプログラム・ディレクター兼主任研究者としては、研究、教育、政策、社会起業、地域実践を異なる利害関係者と横断的に接続してきた。
+
+　こうした経歴は一見すると散らばって見えるかもしれない。しかし私にとっては一貫して、「まだ名前のない可能性を、異なる人々・資源・知識のあいだに関係をつくることで、社会的な実践へと育てる」試みだった。
+
+　今、私はそれらを統合する段階にいる。IGNITE では、学生の個別の野心や違和感を丁寧に受けとめ、それをテクノロジー、ビジネス、アート、研究、社会課題との出会いへつなげたい。単に事業案を磨くメンターではなく、挑戦と失敗から学べる関係・場・仕組みを、ともに設計する教育スタッフでありたい。
+
+　同時に、既存の実践知をまず深く学び、その上で私が培ってきたシステム思考、社会起業、学習設計、AI を活用した協働・知識創造の経験を還元したい。東京大学発のこの場が、学生、教員、企業、地域、そして国境を越えた実践者を結ぶ変容のハブへ進化することに、長期的な視野で貢献したいと考えている。
+
+***
+
+Would you like me to make a second version that is **more Japanese-corporate / selection-committee friendly**—less philosophical, more concrete about mentoring, program operation, and startup education outcomes?
+
+Sources

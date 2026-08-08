@@ -1,6 +1,18 @@
 # Strategy Options: University of Tokyo IGNITE — Education Staff & Mentor
 Generated: 2026-07-26
 **REVISED: 2026-07-27, against the actual application Google Form (form-fields.md).**
+**REVISED AGAIN: 2026-08-08 — this is now the sole current governing document.**
+
+> **Governing-document notice (2026-08-08).** This file is the ONE governing strategy
+> document for the UTokyo IGNITE application, as of today. It supersedes
+> `adler-decisions.md` and `strategy-outline-v2.md` through `strategy-outline-v8.md`
+> (which are being marked historical/superseded separately — this revision does not touch
+> those files). Every still-binding ruling from adler-decisions.md has been folded in below;
+> nothing in this document requires opening adler-decisions.md to understand. Any future
+> correction gets edited directly into THIS file — it does not spawn a new file, a new
+> "decisions" log, or a new outline draft. That inversion (corrections accumulating in a
+> second competing document instead of being folded back here) is exactly what produced
+> seven non-convergent rounds without finished prose, and it is not to be repeated.
 
 **What changed and why this document was restructured.** The first version was written from
 the JREC-IN posting alone and did not know the application form existed. The form contains
@@ -76,6 +88,10 @@ problem, not a rhetorical one, and the form supplies the right fields for it (Q4
 
 ---
 
+**⚠️ Corrected 2026-08-08 — this was walked back too far in an earlier pass, and Adler caught it.** This project's own coaching conversation concluded that the hub/ecosystem-recognition angle is a genuinely *stronger, more unifying* claim than Strategy 1's original bridge, not mere decoration. The correction below restores that conclusion instead of hedging it into "optional texture." It is folded directly into Strategy 1 (see that section's Bridge, updated below) rather than spawned as a fourth competing strategy — Strategy 1 already claims Adler *is* bullet 3; this sharpens *why that specifically matters to IGNITE*, using vocabulary now confirmed HIGH-confidence from the program's own public homepage: 頭：構想力 (conceptual-design power), 手：実装力 (implementation power), 足：協働力 (collaborative/hub power), and the "COLORS OF FIRE" archetype **SOCIAL** (社会を繋ぐ火 — "分断された関係性を結び直し、新たな循環を育む," reconnecting severed relationships and cultivating new circulation). The center's own stated research mission — 産学協創による知の循環を起点としたエコシステムの研究 — is not a metaphor Adler is importing; it is what Awakening Cooperative Lab, IRAEEH, and the East Asia Dojo already, literally, are: connective infrastructure between institutions, not single-institution posts. Framed as recognition of a pattern IGNITE already names for itself, never as "this role would let me build my vision" (see fit-judgment.md's corrected BANNED/ALLOWED example). Full sourcing: `context/institutional-context.md` §5 items 19–22 and §6.
+
+---
+
 ## §0 Mandatory shared core (applies to ALL three strategies)
 
 These are not strategy-dependent. A strategy that omits any of them is invalid.
@@ -85,19 +101,11 @@ These are not strategy-dependent. A strategy that omits any of them is invalid.
    half his income stabilised at the center, his own lifework continuing alongside. Without
    it, a screener wonders why someone with this CV wants a 50-hour trial and invents a worse
    answer.
-2. **Explicit 泥臭さ, anchored to a recent named example.** State willingness to do 告知・
-   参加者管理・ロジ手配・成績評価 and immediately name something unglamorous he has actually
-   done recently. Never "I'm happy to help with anything."
-3. **Altitude, but second and short.** One compact claim about program design / operational
-   efficiency, evidenced by a named program and a number. Bullet 2's own ordering is the
-   template: grunt first, altitude second.
+2. **Explicit 泥臭さ, anchored to a recent named example.** State willingness to do 告知・参加者管理・ロジ手配・成績評価 and immediately name something unglamorous he has actually done recently. Never "I'm happy to help with anything." **Concrete anchor supplied by Adler (2026-08-08): the chain ZA Share → KASpaces → Soochow — each one run by him from high-level curation/design down through the detailed logistics and administrative work, not delegated.** Use this as the named example; the Soochow leg (2025) is also the recency evidence the central tension requires.
+3. **Altitude, but second and short.** One compact claim about program design / operational efficiency, evidenced by a named program and a number. Bullet 2's own ordering is the template: grunt first, altitude second.
 4. **3+ year horizon stated once** (bullet 4), in Q7, without hedging it into vagueness.
-5. **博士号取得意欲 stated accurately, once, in Q7 only** — 論文博士 (doctorate by published
-   works) as an intent, no sponsor claimed, no candidacy implied. Never in the uploads.
-6. **Q4 carries the relocation disclosure.** He lives in Yilan, Taiwan — not a 都道府県. Answer
-   honestly (台湾・宜蘭縣 / current residence Taiwan) and use the field's own help text
-   invitation to note the possibility of relocating to the Tokyo area from FY2027. This turns
-   a field that assumes a Japanese resident from a silent liability into an invited disclosure.
+5. **博士号取得意欲 stated accurately, once, in Q7 only** — 論文博士 (doctorate by published works) as an intent, no sponsor claimed, no candidacy implied. Never in the uploads. **Updated 2026-08-08 — Adler's actual current state:** he is actively exploring the 論文博士 route through conversations with Kyoto University faculty and a professor emeritus, while remaining genuinely open to pursuing it at UTokyo instead. ⚠️ **Phrasing decision, not yet resolved:** naming Kyoto explicitly in a UTokyo application risks reading as either leverage or divided loyalty; the safer default is to state the 論文博士 intent generically (no institution named) in Q7, since the posting only asks about doctorate intent, not where. Surface this to Adler as a live choice rather than deciding it here — if he wants Kyoto named for honesty's sake, that's his call, but the default written below assumes it stays unnamed.
+6. **Q4 carries the relocation disclosure.** He lives in Yilan, Taiwan — not a 都道府県. Answer honestly (台湾・宜蘭縣 / current residence Taiwan) and use the field's own help text invitation to note the possibility of relocating to the Tokyo area from FY2027. This turns a field that assumes a Japanese resident from a silent liability into an invited disclosure. **Concrete visa fact supplied by Adler (2026-08-08):** he holds a working-holiday visa that must be activated by 2026-12-15, valid for one year from activation — this is the actual logistical mechanism behind the relocation possibility and directly answers open-questions.md Q003 (foreign-national 業務委託/在留資格 logistics). This belongs in Q4 (brief) and/or Q12 (as the concrete detail behind the confirmation question already planned there) — not left abstract.
 7. **Q12 carries the risk disclosure and the intelligence-gathering.** See §Q12 below.
 8. **Every Q10 box ticked has a locatable, named line in the 職務経歴書.** Build the document
    so a screener can walk from checkbox to evidence in one step.
@@ -124,15 +132,9 @@ across Taiwan/Hong Kong/China) and the East Asia Dojo (2025–, currently being 
 members in Taiwan, Hong Kong, Japan, Korea and Vietnam) — a founded-and-still-running lifework
 plus a live 立ち上げ中 project, which is the exact two-state condition bullet 3 names.
 
-**The Bridge**: The center is not looking for someone whose career this job completes. It is
-looking for someone whose career this job *fits alongside* — that is what 「ハーフコミットで
-両方に挑戦したい方（年収の半分を本センターで安定させたい方）」 means, and it is unusual enough
-that most applicants will have to argue for it. Adler does not. He also arrives with the thing
-that makes half-commitment safe for the employer rather than risky: a decade of running
-programs to a schedule with other people's money and other people's students. The 火 metaphor
-is answered honestly here — he is not claiming to ignite people, he is claiming to have kept
-his own fire lit for seventeen years while helping others find theirs, with 16 individually
-mentored cases and documented outcomes.
+**The Bridge**: The center is not looking for someone whose career this job completes. It is looking for someone whose career this job *fits alongside* — that is what 「ハーフコミットで両方に挑戦したい方（年収の半分を本センターで安定させたい方）」 means, and it is unusual enough that most applicants will have to argue for it. Adler does not. He also arrives with the thing that makes half-commitment safe for the employer rather than risky: a decade of running programs to a schedule with other people's money and other people's students. The 火 metaphor is answered honestly here — he is not claiming to ignite people, he is claiming to have kept his own fire lit for seventeen years while helping others find theirs, with 16 individually mentored cases and documented outcomes.
+
+**Sharpened 2026-08-08 — why these specific organizations, not just "a lifework."** Awakening Cooperative Lab, IRAEEH, and the East Asia Dojo are not a portfolio of separate projects Adler happens to run alongside this one. They are, structurally, the same thing: connective infrastructure between institutions rather than posts inside a single one. That is a close match to two things IGNITE names about itself, independently of anything Adler is arguing — its own stated research mission (産学協創による知の循環を起点としたエコシステムの研究, ecosystem research via industry-academia knowledge circulation) and its own COLORS OF FIRE archetype SOCIAL (社会を繋ぐ火 — reconnecting severed relationships, cultivating new circulation). The claim is recognition, not import: Adler is not proposing a new concept to the committee, he is naming that his own practice and the center's own self-description turned out to describe the same pattern. This is the strongest, most specific version of "why half-commit, why here" available in the application, and it should carry real weight in Q7 — not sit as a footnote.
 
 **What it does to the application**:
 - **Q6 (きっかけ)**: origin-led. Where he saw the posting, and why it landed on prepared
@@ -252,6 +254,20 @@ support systems for a living. This is also the only strategy that uses the rever
 fit-judgment.md R2 at full strength: items L and M are on the form's own wish list, and Adler
 covers both substantively rather than nominally.
 
+⚠️ **Strengthened 2026-08-08, from the full JREC-IN 応募資格 text (previously missing from
+this project entirely).** The posting states, verbatim, that at least one hire on the team is
+*required* — not just welcomed — to treat the program's own education as a research object
+while delivering it ("チームに1人以上は本プログラムの教育に従事しながらその教育を研究対象とする
+方が必要"), and separately names a specific preferred research profile: conference presentations
+or English-journal publications on institutional/program design of education, or human-subject
+workshop intervention/comparison-experiment research. This is not generic academic
+credentialism — it is a narrow, specific slot, and Adler's actual record (peer-reviewed
+Synthetic Anthropology 2021, IACR 2023 Manila, plus the ongoing workshop-based "Holistic Needs
+of Innovative Changemakers" research) matches it closely enough to be worth naming as
+potentially filling that exact required slot, not just as general scholarly credibility. This
+should be surfaced plainly in Q7's Strategy-3 paragraph and the CV's 研究業績 block — not
+minimized or compressed further than the rest of this section already specifies.
+
 **What it does to the application**:
 - **Q6 (きっかけ)**: origin framed around the long Japan throughline — Tekisen, N1, the
   Japanese academic associations — with the posting as the moment several long lines converged.
@@ -299,11 +315,27 @@ and resolves the bullet-5 decision (fit-judgment.md, final section).
 across it* — which most applicants will skip and which is the honest beginning of the story.
 
 **What it should do**:
-- Name the concrete trigger: seeing the posting (JREC-IN / the program's own 2026-07-01 news
-  post), and what about it stopped him.
+- ⚠️ **CORRECTED 2026-08-08 — the trigger below was wrong.** "Seeing the posting on JREC-IN"
+  is not how this happened. The actual trigger: a former mentee, Joann Shen (沈潔伃, a
+  documented Learning-by-Caring mentee from when she was under 18), now working in Japan's
+  research world doing 当事者研究, told him about this posting during a July 2026 Japan visit.
+  JREC-IN is only where he verified/formalized it afterward. Open on the concrete moment of
+  receiving her message, not a flat statement that a referral happened. **Needs Adler's actual
+  memory, not an invented one: what her message said, how she framed it, where he was when he
+  read it — this is a direct, single, answerable question, not a placeholder.**
+- Establish who Joann is, briefly, as texture that explains why her judgment carried real
+  weight (she has seen his mentoring firsthand and now works inside Japanese academia) — not
+  as the field's engine.
+- The actual recognition beat, and the field's real claim: what stopped him when he read the
+  posting himself was its own description of the person it wants — bullet 3, someone who was
+  an early member of a venture, still runs it, doesn't want to give it up, and genuinely wants
+  to mentor the next generation half-commit. That is a close description of his actual
+  situation, in the posting's own words — recognizing that, not the referral itself, is the
+  trigger's real weight.
 - Explain why it landed on prepared ground rather than as a cold discovery: the Japan
   throughline (Tekisen 2017–19, N1 2019, Japanese academic associations, the 2025 Tokyo
-  work), and the live 2026 decision window about basing part of his life in Japan.
+  work), and the live 2026 decision window about basing part of his life in Japan. This stays
+  as supporting texture, not the primary claim.
 - Carry exactly one controlled personal beat — the honest origin of his own 火. He started
   making a documentary about his own education system at fourteen and finished it at
   twenty-one; that is the least generic sentence available to him and it is the one that
@@ -348,32 +380,36 @@ sentence could sit in either, it belongs in Q7 — Q6 can afford to be thinner, 
 
 ---
 
-## §Q10 skill-checklist: recommended selections
+## §Q10 skill-checklist: FINAL selections (decided 2026-07-27, evidence resolved 2026-08-02)
 
 **The test applied to every item** — not "have I ever touched this?" but **"am I willing to
 be handed this work, and can I answer three follow-up questions about it in an interview?"**
 Q10 is plausibly a work-allocation instrument across ~10 hires, not only a screen. A ticked
-box is a task that may be assigned and a claim that will be probed. Where coverage is genuinely
-uncertain, the item is marked ADLER MUST CONFIRM rather than inflated.
+box is a task that may be assigned and a claim that will be probed.
 
-**Tally: 12 CHECK · 4 ADLER MUST CONFIRM · 2 DON'T CHECK.**
+**This table is FINAL and closed — no items remain open.** The strategist's original pass
+left four items (B, C, I, N) marked ADLER MUST CONFIRM; Adler has since answered all four
+(recorded below, merged from adler-decisions.md, which this table now supersedes as the
+record of that decision).
+
+**Tally: 14 CHECK · 4 DON'T CHECK.**
 
 | # | Item (abbrev.) | Call | Evidence / justification |
 |---|---|---|---|
 | A | 起業・社会起業・文化起業・社内起業の実践経験 | **CHECK** | Founded and still runs Awakening Cooperative Lab (2012–, CLAUDE.md §4) and IRAEEH (2019–); launching East Asia Dojo (2025–); 2012 Winner, Youth Social Enterprise Pitching Contest. 社会起業 is the form's own word and it is literally accurate. |
-| B | 企業・学生向け新事業コンサルティング、アクセラレーションプログラムの提供 | **ADLER MUST CONFIRM** | Adjacent but not clean. Consulting is real (TabiFuku Japan 2024–, EDiversity HK, Only Experimental Education); youth-venture coaching is real (Dao Dao Learning Marathon). But he has no named *accelerator program* he has delivered, and this is bullet 1's core competency — the people screening it do it professionally. Check only if he is prepared to name a specific program and describe its structure. |
-| C | Google Design Sprint ファシリ、アイデアソン・ハッカソン企画運営 | **ADLER MUST CONFIRM** | No evidence of Google Design Sprint specifically, and no hackathon or ideathon by that name. He has run design-thinking and systems-mapping workshops for 3,000+ (CLAUDE.md §3) and 「How might we…?」 dialogue sessions at KASpaces 2021, and convened the 2020 unconference. Check only if he counts these as ideathon-equivalent and can say so precisely — never implying Design Sprint certification or practice. |
+| B | 企業・学生向け新事業コンサルティング、アクセラレーションプログラムの提供 | **DON'T CHECK** | **RESOLVED 2026-08-02 — Adler confirms NO.** He does not claim this. Consulting is real (TabiFuku Japan 2024–, EDiversity HK, Only Experimental Education); youth-venture coaching is real (Dao Dao Learning Marathon). But he has no named *accelerator program* he has delivered, and this is bullet 1's core competency — the people screening it do it professionally. Do not compensate for the unchecked box elsewhere by implying accelerator-delivery experience. |
+| C | Google Design Sprint ファシリ、アイデアソン・ハッカソン企画運営 | **CHECK** | **RESOLVED 2026-08-02 — Adler confirms YES, all of the following count**: the design-thinking / systems-mapping workshop series (~3,000 cumulative participants across Taiwan, Hong Kong and China), the KASpaces 2021 「How might we…?」 dialogue sessions, and the 2020 Re-Imagining Experimental Higher Education unconference (200 participants). Build the 職務経歴書 line around workshop design and facilitation at that scale, in his own terms. ⚠️ Binding constraint, unchanged: never imply Google Design Sprint certification or formal Design Sprint practice by name, and do not call anything a hackathon that was not one. |
 | D | ビジネス／デザインコンテストへの参加、またはその企画運営 | **CHECK** | Both halves. Participation: 2012 Winner, Youth Social Enterprise Pitching Contest; Thiel Fellowship second round; 2010 Ten Outstanding Documentary Projects (PTS/NCAF). Operation/judging: Design for Change Taiwan jury 2011/2012/2016 (300+ initiatives); Taiwan Global Pathfinder Initiative judge, MOE Youth Administration, 2025 (300+ proposals from 4,000+ applicants). |
 | E | デジタルファブリケーション、マイコン、Webアプリ開発の実践スキル | **DON'T CHECK** | No evidence anywhere in CLAUDE.md, the evidence register or the portfolio. Ticking this in an engineering faculty is the single most immediately falsifiable claim on the list. |
 | F | グラフィック／Webデザイン、動画編集などの制作・ディレクションスキル | **CHECK — as ディレクション only** | Director & Producer, "If There is a Reason to Study" (2009–16, 10+ international awards); Chief Editor, Only Experimental Education; founder/editor, Awakening Magazine (5,000 subscribers); Producer & Co-Host, National Education Radio (2016). Caveat that must be stated at interview if probed: activity-preferences.md Q11 records that his hands-on filmmaking tool skills have atrophied over 10+ years — the claim is planning/direction, not current editing-suite proficiency. Ticking this may mean being asked for event graphics; he should be willing to direct that, not to execute it. |
 | G | 多様な人材が交流するオンライン・コミュニティのマネジメント | **CHECK** | East Asia Dojo (2025–), a cross-cultural online community of practice with members in TW/HK/JP/KR/Vietnam including a Kyoto University associate professor (CLAUDE.md §3); IRAEEH's cross-national network; Ecoversities Alliance and AERO participation. |
 | H | 企業間連携・オープンイノベーション・産学官連携・学学連携の企画運営、BizDev | **CHECK** | 産学官: Konrad Adenauer Foundation × Taiwan MOE × civil society conference design (2021–24); National Development Council R&D Fellow (2020–22). 学学連携 is literal: Soochow University co-leading a student group to Tekisen Democratic University for joint research (2025), and IRAEEH's cross-national university alliance. BizDev in the corporate sense is the weakest sub-element — do not lead with it. |
-| I | NDA・共同研究契約等のドラフト策定・締結実務 | **ADLER MUST CONFIRM** | No evidence in any profile document. As founder/director of two organisations and an advisor to several more he has plausibly signed agreements, but *drafting and executing* NDAs and joint-research contracts is a specific administrative competency. Default DON'T CHECK unless he can name an instance. |
+| I | NDA・共同研究契約等のドラフト策定・締結実務 | **DON'T CHECK** | **RESOLVED 2026-08-02 — Adler confirms NO.** No evidence in any profile document. As founder/director of two organisations and an advisor to several more he has plausibly signed agreements, but *drafting and executing* NDAs and joint-research contracts is a specific administrative competency he does not claim. |
 | J | 高等教育機関での勤務経験、学務（講義登録・成績評価）・FD知見 | **CHECK** | Currently Project Manager & Educator, Soochow University School of Liberal Arts and Social Sciences (2025–), designing Taiwan's first international transdisciplinary undergraduate prototype under the MOE Future University Initiative; Assistant Researcher, MOE Department of Higher Education (2020–21); external lecturer at National Cheng Kung University and Ednovators HK. Caveat: open-questions.md Q004 flags that university-credit 成績評価 in the Japanese 学務 sense is not directly evidenced — at interview, distinguish curriculum/program design and rubric-based project assessment (which he has) from Japanese 教務システム operation (which he does not). |
 | K | ビジネス英会話、海外企業勤務、海外視察の企画運営・学生引率 | **CHECK** | Literal on two of three sub-elements: led a team of four 15–17-year-olds to the US for the 2012 education-democratization survey (planning + chaperoning); co-led a Soochow student group to Tokyo for joint research at Tekisen (2025). English: US citizen, Minerva University, international summit hosting across 8+ countries. He has no overseas *corporate* employment — say so if asked. |
 | L | 学会発表・Proceedings投稿、または国内外ジャーナルへの論文掲載実績 | **CHECK** | Strong and Japan-weighted. Yang, A. (2021), Synthetic Anthropology 15, 39–59 (peer-reviewed, J-STAGE indexed); Japan Society for Study of Materialism 2023 and 2024; IACR 2023 (Manila); ISEAP 2025; Cultural Typhoon 2025. Plus JASA board member 2022–26 and IACR council member 2025–27. (This item is why fit-judgment ruling R2 was reversed.) |
 | M | イノベーション・マネジメント・エコシステムやワークショップに関する研究 | **CHECK** | "Research on Holistic Needs of Innovative Changemakers" (2021–ongoing, via the ZA Share network) is literally research into what innovators need from the ecosystem around them beyond financial and human capital. Supported by the Design Your Own Education workshop series (3,000+ participants) which generated the ethnographic data behind his published work — i.e. research *on* workshops, not just delivery of them. Describe as ecosystem/support-needs research; do not name frameworks. |
-| N | Google Workspace / Gemini 等 AI前提の情シス構築と学生プロジェクトへの導入 | **ADLER MUST CONFIRM** | Genuinely uncertain. He runs AI-assisted research and application pipelines for his own work, and has policy-level digital-infrastructure research experience (MODA, EBSI/eSSIF-Lab, 94-page report, 2024) — but *building an organisation's information systems* on Workspace and rolling them out to student projects is a different job. Check only if he has actually stood up Workspace/AI operations for Awakening Cooperative Lab, ZA Share or Soochow. Otherwise leave blank. |
+| N | Google Workspace / Gemini 等 AI前提の情シス構築と学生プロジェクトへの導入 | **CHECK — but only the first half of a compound item; read the caveat below** | **RESOLVED 2026-08-02 — Adler's own evidence: "comprehensive AI architecture for myself."** This is real and independently verifiable: a multi-agent AI operating layer he architected and runs in production for his own research and organisational workflows — an always-on self-hosted agent host, a model-routing/cost-tiering layer, agent-written working lanes with an enforced write-firewall, and the multi-role application pipeline this document sits inside. ⚠️ **THE GAP, which must NOT be papered over**: item N reads 「…情シスの構築**と学生プロジェクトへの導入**」. Adler evidences 構築 (building) at a high level. He does NOT evidence 学生プロジェクトへの導入 (deployment into student projects) — his own evidence is "for myself." RULING (binding): tick the box, and write the 職務経歴書 line to state plainly and only what is true — self-architected, in production, for his own research and organisational workflows. The document must pre-empt the gap so an interview question about student deployment meets an answer already visible on the page. Do NOT write or imply any student-facing deployment. 🔒 **PRIVACY CONSTRAINT (binding)**: describe the architecture at the level of capability and structure only — multi-agent, model-routed, self-hosted, workflow-scoped. Do NOT enumerate what the systems are *for*. Several handle strictly private domains and their existence must not surface in a job application. Capability, not contents. |
 | O | SNS・メルマガでの対外発信、公式サイトのニュース記事作成、PR | **CHECK** | Awakening Magazine, 5,000 subscribers across TW/HK/China (2012–14); the documentary's crowdfunding campaign, 282% funded and the most successful crowdfunded Taiwanese documentary; Contributing Correspondent, CommonWealth Education Media and FutureFamily Magazine; extensive earned media across TW/HK/KR/China. |
 | P | 大規模イベントでの司会進行、マイク・インカムでのイベント進行 | **CHECK** | Curator **and host** of the Taiwan International Education Summit, two editions, 1,000+ registrants from 8+ countries (2020–21); Producer & Co-Host, National Education Radio (2016); convened the 2020 unconference (200 participants) and the 2021 KASpaces conference (200+ stakeholders). |
 | Q | ベンチャーキャピタル勤務・投資経験、エンジェル投資 | **DON'T CHECK** | No evidence. Thiel Fellowship second-round advancement is being evaluated, not investing. Do not stretch. |
@@ -407,13 +443,23 @@ relocating to the Tokyo area from FY2027. This is the single cheapest, most sanc
 to convert a silent disqualifier into a disclosed plan. Do not overstate it as a decision
 already made.
 
-**Q11 紹介者 (optional)**: **Adler's decision — do not assume he has one or will use one.**
-Leave blank by default; a blank optional field costs nothing. Name someone *only* if that
-person (a) has an actual relationship with this program or center and (b) has actually agreed
-to be named. Naming someone who does not know the program adds no signal and creates a check
-that can fail. Joi Ito must not appear here (fit-judgment.md U3). This is the only field in
-the entire form where a name belongs; the constraint against naming Nakao, Nagato or Sugiue is
-about *citing* them as connections, and does not create a referrer.
+**Q11 紹介者 (optional)**: ⚠️ **UPDATED 2026-08-08 — this field's resolution is now blocked on
+an open question, not a safe default.** Previous guidance defaulted to blank on the reasoning
+"nobody referred him — he found it independently on JREC-IN." That premise is corrected: Joann
+Shen told him about the posting (see Q6 above); JREC-IN is where he verified it, not where he
+found it. This reopens a question already logged as **open-questions.md Q010, HIGH priority**:
+does Joann have any documented tie to the IGNITE center or the Sony endowment fund itself, as
+opposed to only her own separate UTokyo lab? Two branches, both requiring Adler's answer before
+this field is drafted:
+- **If yes** — she may belong in Q11, provided she has actually agreed to be named (same
+  standard as below).
+- **If no** — blank is still correct, but for the honest reason ("she introduced me to the
+  posting, not to the program itself"), not the previous, now-false reason ("nobody referred
+  me").
+Name someone *only* if that person (a) has an actual relationship with this program or center
+and (b) has actually agreed to be named. Joi Ito must not appear here (fit-judgment.md U3).
+This is the only field in the entire form where a name belongs; the constraint against naming
+Nakao, Nagato or Sugiue is about *citing* them as connections, and does not create a referrer.
 
 **Q12 本募集に関する疑問や懸念、面談で聞きたい事 (optional)**: **strongly recommended to use.**
 This is a low-cost, sanctioned channel for the one real risk in the application — the
@@ -433,10 +479,29 @@ execution rather than only about wanting the job. Three short items, framed as
 (The three items above are illustrative of *what to raise*, not draft text — Agent 03 writes
 the actual wording.) Keep it to three. A long list of concerns inverts the effect.
 
-**Q13 自由記入欄 (optional)**: recommend leaving blank, or at most one line with the portfolio
-link (https://awakening-coop-lab.gitbook.io/adleryang). Do not use it as an overflow for
-material that did not fit in Q6/Q7 — a fourth free-text block signals an inability to
-prioritise, which is precisely the judgment bullet 2 is screening for.
+**Q13 自由記入欄 (optional)**: ⚠️ **CORRECTED 2026-08-08 — the previous ruling here was an
+over-broad inference, not a platform constraint, and has been reconsidered on its merits.**
+Google Forms imposes no rule on this field; the earlier reasoning ("a fourth free-text block
+signals an inability to prioritise") was written to guard against narrative overflow — content
+that didn't survive Q6/Q7's edit getting dumped here. That concern is real and still applies to
+narrative/argument content. It does not apply to a citation apparatus, which is a different
+genre: a reference list, not competing narrative — the same convention Adler's own successful
+World Yearbook of Education proposal already used (numbered footnotes explicitly excluded from
+the word count).
+
+**Corrected use**: Q6 and Q7 may carry inline `[1]`, `[2]`... markers; the footnote list itself
+goes here in 自由記入欄. Use ONLY verified citations — evidence-register.md C026 and C027:
+1. Yang, A. (2021). "Allocation Dependence: A Generative Mechanism that Inhibits the Pursuit of
+   Holistic Development." Synthetic Anthropology, 15, 39–59.
+2. Yang, A. (2023). "Discovering 'Allocation Dependence' in the Persistence of 'Diplomaism' in
+   Taiwan." International Association for Critical Realism Annual Conference, Manila.
+Do **not** add any other citation without a new VERIFIED evidence-register.md entry — a
+proposed JASA-conference-paper citation and a Konrad-Adenauer-Stiftung book-chapter citation
+were both checked (2026-08-08) and found UNSUPPORTED (no such distinct items exist in the
+source record); do not use either. Still disallowed: using Q13 for additional argument or
+narrative that didn't survive Q6/Q7's edit — only citation-type material belongs here. If the
+footnote list is used, drop the portfolio-link suggestion (redundant with 履歴書/職務経歴書
+contact info) rather than adding a third element to an optional field.
 
 **File-sharing warning (Q8/Q9)**: form-fields.md records the form's own notice —
 「Any files that are uploaded will be shared outside of the organization they belong to.」
@@ -542,7 +607,7 @@ identity first, then function.
 | Design for Change Taiwan — Jury (2011/12/16, 300+ initiatives); Taiwan Global Pathfinder Initiative — Judge, MOE Youth Administration (2025, 300+ proposals / 4,000+ applicants) | The 成績評価 duty, evidenced twice including once in 2025 | 審査・評価（ルーブリックによるプロジェクト評価） → **D, J** |
 | ZA Share — Research & International Affairs Advisor (2023–present; Director 2020–23), incl. the winning NTD$10M NDC grant; NDC R&D Fellow (2020–22) | Program design at institutional scale, plus the full grant cycle: application, operation, reporting | Emphasise the grant cycle in one or two lines, not as a narrative → **H, R** |
 | JLPT N1 (2019) + multi-year Japan-based professional history | Closes the largest onboarding-risk gap for a hybrid, on-site-present foreign national; supports the Other: entry | Languages/qualifications line, placed early, not buried |
-| Compact 研究業績・学会活動 block — Synthetic Anthropology (2021, J-STAGE); Japan Society for Study of Materialism (2023, 2024); IACR 2023; ISEAP 2025; JASA board member (2022–26); IACR council member (2025–27); "Holistic Needs of Innovative Changemakers" (2021–) | **New in this revision** (fit-judgment R2). Directly evidences the two research items on the form's own wish list | List only — titles, venues, years. No abstracts, no framework exposition. Place **after** the operations blocks → **L, M** |
+| Compact 研究業績・学会活動 block — Synthetic Anthropology (2021, J-STAGE); Japan Society for Study of Materialism (2023, 2024); IACR 2023; ISEAP 2025; JASA board member (2022–26); IACR council member (2025–27); "Holistic Needs of Innovative Changemakers" (2021–) | **New in this revision** (fit-judgment R2), **strengthened 2026-08-08**: the full JREC-IN eligibility text requires at least one hire to research the program's own education while delivering it, and separately prefers exactly this kind of record (program-design research, workshop intervention/comparison studies, conference presentations, English-journal publication) — surface plainly, don't minimize | List only — titles, venues, years. No abstracts, no framework exposition. Place **after** the operations blocks → **L, M** |
 | Media & 情報発信 — Awakening Magazine (5,000 subscribers); documentary crowdfunding (282% funded); CommonWealth / FutureFamily correspondent; National Education Radio producer & co-host | **Partially reinstated** (fit-judgment R7). Evidences the PR/outreach item and the ディレクション item | One compressed block, 2–3 lines maximum → **F, O, P** |
 
 **Omit entirely (from the 職務経歴書):**
@@ -582,3 +647,19 @@ traceable to Q10, and unmistakably not the argument.
 4. **Checkbox traceability** — every Q10 item ticked has a locatable named line here. If a
    checked item cannot be traced, add the line or untick the box.
 5. **No named theoretical framework anywhere in either document.**
+
+---
+
+## Post-mortem 2026-08-08 — why the first Japanese draft carried factual errors
+
+Five external model reviews of the first Q6/Q7/職務経歴書 draft found real defects (適塾大学 for 雫穿大学; 日本総合人類学会 for 総合人間学会; an untranslated 唯物論研究協会; a documentary title inconsistent between two documents in the same packet). They also raised several confident false alarms, which are recorded and rejected in `/home/adler/.claude/plans/eager-munching-peach.md`.
+
+**Root cause — source coverage, not drafting skill.** The parallel drafting workers were pointed at `CLAUDE.md` and the strategy files only. They were never pointed at `profile/2026 social impact CV content.docx` or `profile/past-applications/`. Both are in this project. The CV contained: Adler's own pre-existing "connective and prototyping hub" self-description (which grounds the Q7 hub claim in a document predating this application), three named mentee outcomes, and a Soochow end date of Aug 2025 that contradicted `CLAUDE.md`'s "Present" — an error that had propagated into the draft and into `CLAUDE.md` itself.
+
+Separately, `fact-check-v2.md:122` had already flagged the naming-consistency problem generically. The integration pass claimed to verify traceability but never checked proper nouns against the resolved record in `adler-decisions.md`.
+
+**Rules going forward:**
+1. **Enumerate sources before drafting, not after.** Any drafting worker gets an explicit, complete list of source files, including `profile/` binaries. A worker that wasn't given a source cannot be blamed for missing it.
+2. **Proper nouns are a distinct check.** Organisation names, journal names, society names, and titles get verified against `adler-decisions.md`'s RESOLVED entries as their own pass. Completeness checking is not the same as naming verification.
+3. **Draft to files, never to conversation only.** The first draft existed only in chat, so there was nothing to grep and nothing to diff. Every component now lives at `draft-final-*.md`.
+4. **Where a resolved fact conflicts with `CLAUDE.md`, fix `CLAUDE.md` too** — otherwise the error is re-imported by the next application.

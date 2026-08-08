@@ -1,3 +1,8 @@
+> ⚠️ **SUPERSEDED 2026-08-08.** This file is historical. `strategy-options.md` is now the
+> sole governing document for this application — every still-valid ruling from this file has
+> been folded into it. Do not draft or reconcile against this file; open `strategy-options.md`
+> instead. Kept here only for the record of how the application evolved.
+
 # Coherence check — Q6 (STRUCTURAL mode, 2026-08-07)
 
 ## Verdict: PASS

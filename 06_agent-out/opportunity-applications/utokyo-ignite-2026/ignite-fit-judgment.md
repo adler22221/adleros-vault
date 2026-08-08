@@ -131,9 +131,34 @@ contractor status plus an October start is practically workable for a non-Japane
   multi-line accounts of policy work.
 - **The 2026–2030 priorities as a personal agenda to be resourced by this role** — CLAUDE.md
   §7 says every application should connect to them, and the Ronpaku priority now legitimately
-  does. The book project and the Prefigurative Academia platform do not, and framing this
-  role as a vehicle for them would read exactly as the instrumentalism bullet 3 is *not*
-  asking for. Bullet 3 wants a lifework kept in parallel, not subsidised.
+  does (see R1/R4 above). What is banned here is not the *topic* but the *causality*: any
+  framing where IGNITE is presented as a means to advance Adler's own vision or platform going
+  forward. That instrumentalizes a ¥500,000/50-hour trial to fund a personal agenda, exactly
+  what bullet 3 screens against. "Prefigurative Academia" must never appear as a named term
+  anywhere in the application, independent of this ruling (see U8).
+  - **BANNED example** (the role as means to a forward-looking personal agenda): *"I envision
+    academia becoming a distributed, cooperative knowledge ecosystem, and this role would let
+    me pursue that vision at UTokyo."* The test: this sentence makes the role the subject of a
+    future benefit to Adler's own agenda.
+  - **ALLOWED example** (recognition of convergent practice already underway on both sides, not
+    proposal of a new one) — modeled explicitly on how
+    `utrecht-critical-pathways-2026/preliminary-direction-v3.md` §A handled the structurally
+    identical risk for Utrecht ("invite Utrecht to apply its own guiding questions... positions
+    Utrecht's community as co-investigators of a dynamic they are themselves inside — not
+    targets"): *"I already run Awakening Cooperative Lab, IRAEEH and the East Asia Dojo as
+    connective infrastructure between institutions, with no fixed end date. IGNITE, with its
+    own 超長期の視点 and no fixed dissolution date (call.md, マインドセット section), already
+    works the same way. I recognized my own practice at a larger scale — this isn't a new idea
+    I'm importing."* The test: this sentence states that two already-existing things are the
+    same practice; it makes no claim about what the role will do for Adler going forward.
+  - Apply one test to any candidate sentence: *does it make the role the subject of a future
+    benefit to Adler?* If yes, it is banned regardless of how it is phrased. Adler's own
+    already-running organisations (Awakening Cooperative Lab, IRAEEH, East Asia Dojo) and
+    IGNITE itself may be described this way — the book project and any named
+    platform-building agenda for Prefigurative Academia may not, named or unnamed. Bullet 3
+    wants a lifework kept in parallel, not subsidised — the ALLOWED framing states a
+    resemblance already true of both sides; the BANNED framing asks the role to fund an agenda
+    Adler has not yet built.
 - **Anything in the uploaded PDFs that Adler would not want read outside the university.**
   form-fields.md records the form's own warning: uploaded files are shared outside the
   organisation they belong to. A Sony-affiliated HR reader is a realistic audience. This
@@ -163,7 +188,7 @@ must stay out of each.)
 | Field | Stays OUT of this field | Why |
 |---|---|---|
 | **Q6 本募集に興味を持ったきっかけ** (trigger / origin, backward-looking) | The case for hiring him; commitments and terms; the half-commit/income sentence; the 3-year horizon; the 論文博士 sentence; any CV recital; 「貴センターの理念に共感し」 openings; decorative use of 越境 or 着火 | These are all Q7 material. Q6 asks what *triggered* the interest, not what he offers. Spending the motivation here leaves Q7 with nothing but repetition — the single most likely failure mode is writing one essay and splitting it |
-| **Q7 志望動機・意気込み** (motivation and resolve, forward-looking) | Re-telling Q6's origin story; any apology or explanation for the absence of a PhD; any named theoretical framework; any promise that the Oct 1 start is logistically settled; Nakao / Nagato / Sugiue by name; claims of current PhD candidacy or a faculty sponsor; the book and Prefigurative Academia priorities as things this role would fund | Q7 is where over-reach is most tempting because it is the persuasive field. Every item here is either a repeat, a checkable falsehood, or the instrumentalism bullet 3 is explicitly *not* asking for |
+| **Q7 志望動機・意気込み** (motivation and resolve, forward-looking) | Re-telling Q6's origin story; any apology or explanation for the absence of a PhD; any named theoretical framework; any promise that the Oct 1 start is logistically settled; Nakao / Nagato / Sugiue by name; claims of current PhD candidacy or a faculty sponsor; the book and Prefigurative Academia priorities framed as things this role would fund or advance (the *recognition* framing — describing Adler's own organisations and IGNITE as already-convergent practice, per the refined ruling under "Scope that does NOT belong in this application" below — is not this and is not excluded) | Q7 is where over-reach is most tempting because it is the persuasive field. Every item here is either a repeat, a checkable falsehood, or the instrumentalism bullet 3 is explicitly *not* asking for |
 | **Both** | Framework exposition; 情熱/イノベーション boilerplate; East–West bridge language without specifics; any claim of UTokyo affiliation | Unchanged from the general rulings above; restated here because these are the two fields where they are most likely to creep in |
 
 The one item that must appear in Q7 and nowhere else: the 博士号取得意欲 sentence

@@ -9,6 +9,18 @@ University of Tokyo (東京大学), Faculty of Engineering, Cross-Border Innovat
 Center (越境イノベーション研究センター) — the "IGNITE" (東大発イノベーター着火プログラム)
 entrepreneur-education program.
 
+⚠️ **Added 2026-08-08, from the full JREC-IN posting text (primary source, pasted directly by
+Adler).** The center is funded by "ソニーグループ人材育成基金" (Sony Group Talent Development
+Fund), established by Sony's donation into the University of Tokyo Fund and operated as an
+endowment ("エンダウメント型基金として運用"), explicitly to enable stable, continuous
+boundary-crossing talent development over the medium-to-long term. The center is a joint
+venture between 工学系研究科 (Graduate School of Engineering) and 人文社会系研究科 (Graduate
+School of Humanities and Sociology) — not Engineering-only. Its stated research mission:
+**"産学協創による知の循環を起点としたエコシステムの研究"** — research into an ecosystem
+originating from the circulation of knowledge through industry-academia co-creation. This is
+the center's own technical term for its research agenda, not decorative language — see
+`context/institutional-context.md` §1 for why this matters for application framing.
+
 ## Position
 Education Staff and Mentor for IGNITE. JREC-IN's own classification for this listing:
 "研究・教育補助者相当" — research/education *support* staff equivalent (explicitly not
@@ -21,6 +33,23 @@ both execute tactical tasks and strategize program improvements. Also named: opt
 accompaniment on Yamanashi fieldwork trips and student chaperoning ("山梨へのフィールドワーク
 の同行、学生の引率") — not previously captured; aligns with Adler's regional-revitalization
 track record (NDC Qian-Tsao model, Soochow student group to Tokyo).
+
+⚠️ **Added 2026-08-08, from the full JREC-IN posting's 【具体的な業務内容】 section (primary
+source) — this is materially more concrete than the paraphrase above and worth citing directly
+in interview prep, even though it's too granular for Q6/Q7 prose:**
+- Before the contract starts, an interview confirms/agrees the specific duties matching each
+  hire's actual skillset ("業務委託開始前の面談などを通じて、スキルセットに応じた業務内容を
+  確認・合意する") — duties are personalized, not fixed in advance.
+- Weekly ~30-min online check-in (already captured below), otherwise self-paced.
+- **Common duties for all hires, beyond individual assignments**, split into two categories:
+  - **Events**: scheduling guest lecturers/UTokyo faculty appearances, Slack-based participant
+    recruitment and management, classroom/catering logistics, collecting and compiling
+    participant survey feedback.
+  - **Training**: facilitating online exercises built around pre-recorded explainer videos and
+    Miro boards, running breakout-room mechanics, handling Q&A.
+  - Optional: accompanying Yamanashi fieldwork trips, student chaperoning (as above).
+- Staff are also welcome to sit in on the student-facing July info session and August
+  experience events as observers (陪席) — low-stakes, optional engagement not previously noted.
 
 ## Mindset section (【マインドセット】, staff-specific — re-verified 2026-08-06)
 Not previously captured from the posting. Three points, stated for this hire specifically:
@@ -61,7 +90,23 @@ this direction, not left as an unresolved risk.
   ("起業・社内起業・社会起業などの事業経験"), and mentorship experience with startups/
   entrepreneurs preferred.
 - PhD holders interested in eventually becoming University of Tokyo faculty are explicitly
-  and particularly welcomed — framed as a talent pipeline.
+  and particularly welcomed — framed as a talent pipeline. Verbatim (added 2026-08-08, full
+  posting text): "博士号を持っているないし取得し、東京大学工学系研究科の正規の教員を目指したい
+  方を歓迎、チームに1人以上は本プログラムの教育に従事しながらその教育を研究対象とする方が必要"
+  — at least one hire on the team is *required* to treat the program's own education as a
+  research object while delivering it, not merely welcomed as a nice-to-have.
+- ⚠️ **Added 2026-08-08, previously missing entirely from this file** — a specific, separate
+  research-experience preference, verbatim: "研究観点では、教育プログラムの制度設計・プログラム
+  デザインやヒトを対象としたワークショップの介入実験・比較実験の研究に関する学会発表や英文
+  ジャーナル投稿の経験があれば好ましいが、本募集は教育スタッフに主眼を置いているため、必須では
+  ない" (conference presentations or English-journal publications on institutional/program
+  design of education programs, or human-subject workshop intervention/comparison-experiment
+  research, are preferred but not required, since this recruitment is primarily education-staff
+  focused). This is narrow and specific — not generic academic credentialism — and matches
+  Adler's actual peer-reviewed publication and conference record unusually closely. See
+  `context/institutional-context.md` §7 correction: surface this evidence plainly, don't
+  minimize it. What still stays minimized: naming his own theories by their coined terms, and
+  multi-paragraph policy-narrative — unrelated, still-valid cautions.
 - No explicit statement on foreign-national or language eligibility in the posting itself.
 
 ## Work format

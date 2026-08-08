@@ -1,3 +1,8 @@
+> ⚠️ **SUPERSEDED 2026-08-08.** This file is historical. `strategy-options.md` is now the
+> sole governing document for this application — every still-valid ruling from this file has
+> been folded into it. Do not draft or reconcile against this file; open `strategy-options.md`
+> instead. Kept here only for the record of how the application evolved.
+
 # Reconcile v1 — adler-decisions.md vs draft-application-v2.md (2026-08-07)
 
 Legend: line numbers refer to `draft-application-v2.md` unless prefixed `dec:` (= `adler-decisions.md`). Q7 is at 993/1000字 — **any Q7 body edit below requires a full recount before submission.**
